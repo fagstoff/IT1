@@ -1,4 +1,6 @@
 <?php
+//Copyright 2015 BITJUNGLE Rune Mathisen
+//Lisens: https://www.apache.org/licenses/LICENSE-2.0
 
 /*
  * I forrige leksjon opprettet vi en tabell i testdatabasen vår, men vi la ikke inn noe innhold i den.
