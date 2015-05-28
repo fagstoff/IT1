@@ -12,6 +12,7 @@ Digitalt utstyr
 **Kompetansemål fra læreplanen:**
 * beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten.
 
+**Ressurser:**
 * Datamaskin [Wikipedia](https://no.wikipedia.org/wiki/Datamaskin)
  * Personlig datamaskin (PC) [Wikipedia](https://no.wikipedia.org/wiki/Personlig_datamaskin) [NDLA](http://ndla.no/nb/node/83087?fag=43)
  * Prosessor [Wikipedia](https://no.wikipedia.org/wiki/CPU) [NDLA](http://ndla.no/nb/node/83096?fag=43)
@@ -37,9 +38,9 @@ Digitalt utstyr
 Digitale signaler
 =================
 **Kompetansemål fra læreplanen:**
-* forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall,
-tegnsett, grafiske framstillinger, billedpunkter og lyd
+* forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger, billedpunkter og lyd
 
+**Ressurser:**
 * [Binært tallsystem](https://no.wikipedia.org/wiki/Binært_tallsystem)
 * [Maskinkode](https://no.wikipedia.org/wiki/Maskinkode)
 * [Digitalisering av lyd og bilde](https://no.wikipedia.org/wiki/Digitalisering_av_lyd_og_bilde)
@@ -47,9 +48,9 @@ tegnsett, grafiske framstillinger, billedpunkter og lyd
 Digital kommunikasjon
 =====================
 **Kompetansemål fra læreplanen:**
-* gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt
-utstyr og mellom programmer
+* gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt utstyr og mellom programmer
 
+**Ressurser:**
 * [Protokoller på Internett](https://no.wikipedia.org/wiki/Protokoll_%28datamaskiner%29)
   * [Datalink-laget](https://no.wikipedia.org/wiki/Datalink-laget)
     * [Ethernet](https://no.wikipedia.org/wiki/Ethernet)
@@ -69,16 +70,18 @@ utstyr og mellom programmer
 Minoriteter i en digital verden
 ===============================
 **Kompetansemål fra læreplanen:**
-* gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape
-for språklige og kulturelle minoriteter
+* gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape for språklige og kulturelle minoriteter
 
+**Ressurser:**
 * [Bruk av IKT blant elever fra språklige minoriteter - Norsk Pedagogisk Tidsskrift nr.5 2009](http://www.morsmal.org/documents/members/admin/Bruk_av_IKT_blant_elever_fra_spraaklige_minoriteter.pdf)
 
 Regelverk og etiske normer
 ==========================
 **Kompetansemål fra læreplanen:**
-* gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer
-for bruk av informasjonsteknologi
+* gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
+
+**Ressurser:**
+* [Lenke](http://...)
 
 
 Muligheter og konsekvenser
@@ -86,12 +89,16 @@ Muligheter og konsekvenser
 **Kompetansemål fra læreplanen:**
 * beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
 
+**Ressurser:**
+* [Lenke](http://...)
+
 
 Datakriminalitet
 =================
 **Kompetansemål fra læreplanen:**
 * beskrive og foreslå tiltak mot trusler i den digitale verden
-  
+
+**Ressurser:**  
 * [Datakriminalitet](https://no.wikipedia.org/wiki/Datakriminalitet)
  
 
