@@ -29,4 +29,6 @@ GitHub-tips
 Ymse usortert
 -------------
 * [Håkon Wium Lie om Apple vs Samsung og Piratpartiet Norge](https://www.youtube.com/watch?v=6Ae_2iZem60)
-* [Håkon Wium Lie: Hvordan nettet endrer verden](https://www.youtube.com/watch?v=lYkeh5VAGWQ)    
+* [Håkon Wium Lie: Hvordan nettet endrer verden](https://www.youtube.com/watch?v=lYkeh5VAGWQ)
+* [Create amazing apps - The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5.](http://ionicframework.com/)
+* [wowslider](http://wowslider.com/)
