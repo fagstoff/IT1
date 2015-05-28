@@ -11,6 +11,7 @@ Standarder og prinsipper
 **Kompetansemål fra læreplanen:**
 * gjøre rede for hvilke standarder og prinsipper som muliggjør Internett
 
+**Ressurser:**
 * [Lenke](http://...)
 
 
@@ -19,6 +20,7 @@ Multimediekomponenter
 **Kompetansemål fra læreplanen:**
 * planlegge nettsteder som inneholder multimediekomponenter
 
+**Ressurser:**
 * [Lenke](http://...)
 
 
@@ -30,5 +32,6 @@ Utvikle nettsteder
 * organisere og begrunne filstrukturen for nettsteder
 * sette opp krav til og vurdere nettsteder
 
+**Ressurser:**
 * [Lenke](http://...)
 

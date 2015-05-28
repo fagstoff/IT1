@@ -7,16 +7,20 @@ Lenker til fagtekster som er relevante for hovedområdet Databaser i IT1.
 
 Datamodellering
 ===============
+**Kompetansemål fra læreplanen:**
 * gjøre rede for begrepene primærnøkkel, kandidatnøkkel, fremmednøkkel og atomærkravet
 * utvikle normaliserte datamodeller ut fra problemstillinger og begrunne valgene som er gjort
 * lage databaser i henhold til gitte datamodeller
 
+**Ressurser:**
 * [Lenke](http://...)
 
 
 Dynamiske nettsteder
 ====================
+**Kompetansemål fra læreplanen:**
 * utvikle, presentere og begrunne databaseapplikasjoner
 * lage dynamiske nettsider som bruker en database ved hjelp av spørrespråk og programvare på tjener
 
+**Ressurser:**
 * [Lenke](http://...)
