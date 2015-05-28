@@ -5,7 +5,7 @@ Digitalt utstyr
 **Kompetansemål fra læreplanen:** beskrive ulike typer digitalt utstyr og forklare
 hovedtrekkene ved virkemåten.
 
-* [Datamaskin](https://no.wikipedia.org/wiki/Datamaskin)
+* Datamaskin [Wikipedia](https://no.wikipedia.org/wiki/Datamaskin)
  * Personlig datamaskin (PC) [Wikipedia](https://no.wikipedia.org/wiki/Personlig_datamaskin) [NDLA](http://ndla.no/nb/node/83087?fag=43)
  * Prosessor [Wikipedia](https://no.wikipedia.org/wiki/CPU) [NDLA](http://ndla.no/nb/node/83096?fag=43)
  * Hovedkort [Wikipedia](https://no.wikipedia.org/wiki/Hovedkort) [NDLA](http://ndla.no/nb/node/83090?fag=43)
@@ -16,13 +16,13 @@ hovedtrekkene ved virkemåten.
   * SSD [Wikipedia](https://no.wikipedia.org/wiki/Solid_state_drive)
  * Tastatur [Wikipedia](https://no.wikipedia.org/wiki/Tastatur)
  * Mus [Wikipedia](https://no.wikipedia.org/wiki/Datamus)
- * Skjerm [Wikipedia](https://no.wikipedia.org/wiki/Skjerm_(monitor%29)
+ * Skjerm [Wikipedia](https://no.wikipedia.org/wiki/Skjerm_%28monitor%29)
   * Berøringsskjerm [Wikipedia](https://no.wikipedia.org/wiki/Berøringsskjerm)
  * Operativsystem [Wikipedia](https://no.wikipedia.org/wiki/Operativsystem) [NDLA](http://ndla.no/nb/node/83241?fag=43)
 * Datanett [Wikipedia](https://no.wikipedia.org/wiki/Datanett)
- * Hub [Wikipedia](https://no.wikipedia.org/wiki/Hub_(datanettverk%29)
+ * Hub [Wikipedia](https://no.wikipedia.org/wiki/Hub_%28datanettverk%29)
  * Switch [Wikipedia](https://no.wikipedia.org/wiki/Switch) [NDLA](http://ndla.no/nb/node/83330?fag=43)
- * Ruter [Wikipedia](https://no.wikipedia.org/wiki/Ruter_(IT%29)  [NDLA](http://ndla.no/nb/node/83330?fag=43)
+ * Ruter [Wikipedia](https://no.wikipedia.org/wiki/Ruter_%28IT%29)  [NDLA](http://ndla.no/nb/node/83330?fag=43)
  * Repeater [Wikipedia](https://no.wikipedia.org/wiki/Repeater)
  * Nettverkskabel [Wikipedia](https://en.wikipedia.org/wiki/Twisted_pair) [NDLA](http://ndla.no/nb/node/83339?fag=43)
  * Trådløst aksesspunkt [Wikipedia](https://en.wikipedia.org/wiki/Wireless_access_point) [NDLA](http://ndla.no/nb/node/83369?fag=43)
@@ -42,7 +42,7 @@ Digital kommunikasjon
 **Kompetansemål fra læreplanen:** gjøre rede for standarder for kommunikasjon
 mellom ulike former for digitalt utstyr og mellom programmer
 
-* [Protokoller på Internett](https://no.wikipedia.org/wiki/Protokoll_(datamaskiner%29)
+* [Protokoller på Internett](https://no.wikipedia.org/wiki/Protokoll_%28datamaskiner%29)
   * [Datalink-laget](https://no.wikipedia.org/wiki/Datalink-laget)
     * [Ethernet](https://no.wikipedia.org/wiki/Ethernet)
     * [WLAN](https://no.wikipedia.org/wiki/Trådløst_lokalt_datanett)
