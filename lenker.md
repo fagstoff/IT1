@@ -6,7 +6,7 @@ Dette er et midlertidig stoppested for interessante lenker. Dersom de lenkede re
 Internett-fakta og statistikk
 -----------------------------
 * [internet live stats](http://www.internetlivestats.com/)
- * [Antall nettsteder - trend](http://www.internetlivestats.com/total-number-of-websites/#trend)
+  * [Antall nettsteder - trend](http://www.internetlivestats.com/total-number-of-websites/#trend)
 
 
 Frie teksteditorer (åpen kildekode)
@@ -15,9 +15,16 @@ Frie teksteditorer (åpen kildekode)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Atom](https://atom.io/)
 
+Fagstoffressurser
+-----------------
+* [Web Platform Docs](https://docs.webplatform.org/wiki/Main_Page)
+* [Kodegenet HTML5 og CSS](https://kodegenet.no/track/html5)
+* [Kodegenet SQL](https://kodegenet.no/track/sql)
+
 GitHub-tips
 -----------
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)    
+* [Markdown basics](https://help.github.com/articles/markdown-basics/)
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
 Ymse usortert
 -------------
