@@ -64,7 +64,6 @@ Minoriteter i en digital verden
 den digitale verden kan skape for språklige og kulturelle minoriteter
 
 * [Bruk av IKT blant elever fra språklige minoriteter - Norsk Pedagogisk Tidsskrift nr.5 2009](http://www.morsmal.org/documents/members/admin/Bruk_av_IKT_blant_elever_fra_spraaklige_minoriteter.pdf)
-* 
 
 Regelverk og etiske normer
 ==========================

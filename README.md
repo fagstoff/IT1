@@ -1,7 +1,7 @@
 IT1
 ========
 Dette prosjektet har som mål å samle åpne og frie læringsressurser for å jobbe
-med alle kompetansemålene i IT1 (INF1-01).
+med alle kompetansemålene i IT1 ([INF1-01](http://www.udir.no/kl06/INF1-01/)).
 
 Digital samtid
 --------------
