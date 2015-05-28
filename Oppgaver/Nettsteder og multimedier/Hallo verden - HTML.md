@@ -1,6 +1,7 @@
 Hallo verden!
 =============
 [Hallo verden](https://en.wikipedia.org/wiki/"Hello,_World!"_program) er en vanlig måte å teste ut ny teknologi på. I denne oppgaven skal du lage ditt første html-hallo-verden-program.
+
 ![hello world - CC BY-ND by Johannes Martin](https://farm7.staticflickr.com/6090/6060301478_b594aa331b_z.jpg)
 
 Oppgave
@@ -20,3 +21,4 @@ Kompetansemål
 >Oppgaven er lisensiert under en
 >[Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.
 ](http://creativecommons.org/licenses/by-sa/4.0/)
+
