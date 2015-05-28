@@ -1,6 +1,6 @@
 IT1
 ========
-Dette prosjektet har som mål å samle åpne og frie læringsressurser for å jobbe
+Dette prosjektet har som mål å tilby åpne og frie læringsressurser for å jobbe
 med alle kompetansemålene i IT1 (INF1-01).
 
 Digital samtid
