@@ -1,9 +1,16 @@
 Lenker til fagtekster som er relevante for hovedområdet Digital samtid i IT1.
 
+> Hovedområdet handler om hvordan digitalt utstyr fungerer, og hvordan standarder,
+> programvare og grensesnitt muliggjør samhandling mellom datamaskiner og annet
+> utstyr. Videre dreier det seg om hvordan teknologien påvirker og påvirkes av
+> samfunnet, og hvordan den enkelte møter teknologien i hverdagen. Kjennskap til
+> gjeldende regelverk og etiske normer for bruk av informasjonsteknologi er
+> sentralt. I tillegg inngår datasikkerhet i hoved­området.
+
 Digitalt utstyr
 ===============
-**Kompetansemål fra læreplanen:** beskrive ulike typer digitalt utstyr og forklare
-hovedtrekkene ved virkemåten.
+**Kompetansemål fra læreplanen:**
+* beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten.
 
 * Datamaskin [Wikipedia](https://no.wikipedia.org/wiki/Datamaskin)
  * Personlig datamaskin (PC) [Wikipedia](https://no.wikipedia.org/wiki/Personlig_datamaskin) [NDLA](http://ndla.no/nb/node/83087?fag=43)
@@ -29,9 +36,9 @@ hovedtrekkene ved virkemåten.
 
 Digitale signaler
 =================
-**Kompetansemål fra læreplanen:** forklare hvordan de fysiske signalene i
-datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger,
-billedpunkter og lyd
+**Kompetansemål fra læreplanen:**
+* forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall,
+tegnsett, grafiske framstillinger, billedpunkter og lyd
 
 * [Binært tallsystem](https://no.wikipedia.org/wiki/Binært_tallsystem)
 * [Maskinkode](https://no.wikipedia.org/wiki/Maskinkode)
@@ -39,8 +46,9 @@ billedpunkter og lyd
 
 Digital kommunikasjon
 =====================
-**Kompetansemål fra læreplanen:** gjøre rede for standarder for kommunikasjon
-mellom ulike former for digitalt utstyr og mellom programmer
+**Kompetansemål fra læreplanen:**
+* gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt
+utstyr og mellom programmer
 
 * [Protokoller på Internett](https://no.wikipedia.org/wiki/Protokoll_%28datamaskiner%29)
   * [Datalink-laget](https://no.wikipedia.org/wiki/Datalink-laget)
@@ -60,28 +68,30 @@ mellom ulike former for digitalt utstyr og mellom programmer
 
 Minoriteter i en digital verden
 ===============================
-**Kompetansemål fra læreplanen:** gjøre rede for hvilke utfordringer og muligheter
-den digitale verden kan skape for språklige og kulturelle minoriteter
+**Kompetansemål fra læreplanen:**
+* gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape
+for språklige og kulturelle minoriteter
 
 * [Bruk av IKT blant elever fra språklige minoriteter - Norsk Pedagogisk Tidsskrift nr.5 2009](http://www.morsmal.org/documents/members/admin/Bruk_av_IKT_blant_elever_fra_spraaklige_minoriteter.pdf)
 * 
 
 Regelverk og etiske normer
 ==========================
-**Kompetansemål fra læreplanen:** gjøre rede for og argumentere for nødvendigheten
-av regelverk og etiske normer for bruk av informasjonsteknologi
+**Kompetansemål fra læreplanen:**
+* gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer
+for bruk av informasjonsteknologi
 
 
 Muligheter og konsekvenser
 ==========================
-**Kompetansemål fra læreplanen:** beskrive og drøfte informasjonsteknologiens
-muligheter og konsekvenser
+**Kompetansemål fra læreplanen:**
+* beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
 
 
 Datakriminalitet
 =================
-**Kompetansemål fra læreplanen:** beskrive og foreslå tiltak mot trusler i den
-digitale verden
+**Kompetansemål fra læreplanen:**
+* beskrive og foreslå tiltak mot trusler i den digitale verden
   
 * [Datakriminalitet](https://no.wikipedia.org/wiki/Datakriminalitet)
  
