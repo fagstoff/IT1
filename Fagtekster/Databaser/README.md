@@ -14,6 +14,7 @@ Datamodellering
 
 **Ressurser:**
 * [Kræsjkurs i SQL](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/02%20-%20Kr%C3%A6sjkurs%20i%20SQL)
+* [Kodegenet SQL](https://kodegenet.no/track/sql)
 
 
 Dynamiske nettsteder

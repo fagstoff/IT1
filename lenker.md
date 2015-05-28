@@ -18,8 +18,6 @@ Frie teksteditorer (åpen kildekode)
 Fagstoffressurser
 -----------------
 * [Web Platform Docs](https://docs.webplatform.org/wiki/Main_Page)
-* [Kodegenet HTML5 og CSS](https://kodegenet.no/track/html5)
-* [Kodegenet SQL](https://kodegenet.no/track/sql)
 
 GitHub-tips
 -----------

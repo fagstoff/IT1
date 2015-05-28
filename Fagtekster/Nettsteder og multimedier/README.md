@@ -33,5 +33,6 @@ Utvikle nettsteder
 * sette opp krav til og vurdere nettsteder
 
 **Ressurser:**
-* [Lenke](http://...)
+* [Kræsjkurs i HTML og CSS](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/03%20-%20Kr%C3%A6sjkurs%20i%20HTML%20og%20CSS)
+* [uu-skolen for nettsider](http://uu.difi.no/veiledning/nettsider/uu-skolen)
 
