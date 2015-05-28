@@ -13,7 +13,7 @@ Datamodellering
 * lage databaser i henhold til gitte datamodeller
 
 **Ressurser:**
-* [Lenke](http://...)
+* [Kræsjkurs i SQL](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/02%20-%20Kr%C3%A6sjkurs%20i%20SQL)
 
 
 Dynamiske nettsteder
@@ -23,4 +23,5 @@ Dynamiske nettsteder
 * lage dynamiske nettsider som bruker en database ved hjelp av spørrespråk og programvare på tjener
 
 **Ressurser:**
-* [Lenke](http://...)
+* [Kræsjkurs i PHP](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/01%20-%20Kr%C3%A6sjkurs%20i%20PHP)
+* [Dynamiske nettsider med PHP og MySQL](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/04%20-%20Dynamiske%20nettsider%20med%20PHP%20og%20MySQL)
