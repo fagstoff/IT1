@@ -18,7 +18,7 @@ Du trenger en teksteditor, en MySQL-server og en PHP-installasjon. Relevante fag
 
 Kompetansemål
 -------------
-* redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
+* utvikle, presentere og begrunne databaseapplikasjoner
 
 >Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en
