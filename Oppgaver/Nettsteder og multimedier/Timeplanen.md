@@ -6,7 +6,7 @@ Oppgave
 -------
 Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bildet kan du hente fra commons.wikimedia.org. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn “bilder”.
 
-![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan.png)
+![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan2.png)
 
 Ressurser
 ---------
