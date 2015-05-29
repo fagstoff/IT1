@@ -7,7 +7,7 @@ Oppgave
 Lag filen index.html i din favoritteditor, og lagre i egen mappe. Denne filen
 skal inneholde HTML-kode som lager siden vist under når du åpner den i en nettleser.
 
-![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/ostekake.png)
+![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/ostekake2.png)
 
 Ressurser
 ---------
