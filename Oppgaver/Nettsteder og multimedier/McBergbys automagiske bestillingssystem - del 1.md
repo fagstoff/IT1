@@ -9,7 +9,7 @@ Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene ka
 
 Du skal lage nettsiden index.html, slik at den blir slik du ser på bildet. Bildet skal lagres i en egen mappe som har navnet bilder. Hele oppgaven skal lagres i en egen mappe.
 
-![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/McBergbys.png)
+![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/McBergbys2.png)
 
 Ressurser
 ---------
