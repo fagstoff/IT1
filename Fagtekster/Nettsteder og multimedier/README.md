@@ -4,19 +4,20 @@ nedenfor utvalgt fordi de dekker kompetansemålene i læreplanen på en god måt
 og det er forventet at du skal lese disse sidene. Om du ønsker mer fagstoff enn det som
 er lenket til nedenfor, finner du helt sikkert det på nettet.
 
-> Hovedområdet handler om modellering og realisering av databaser, og utvikling av
-> IT-løsninger med utgangspunkt i databaser. Videre dreier det seg om hvordan
-> databaser kan gjøres tilgjengelige på nettsider ved hjelp av spørrespråk og
-> programvare på tjener.
+>Hovedområdet handler om utforming, implementering og vurdering av nettsteder med tekst,
+>lyd, bilde, video og animasjoner. Sentralt i hovedområdet er organisering og helhetlig
+>grafisk utforming av nettstedene, slik at de blir tilgjengelige for brukere. Videre
+>dreier det seg om bruk av standardløsninger i egenutviklede IT-løsninger.
 
 
-Standarder og prinsipper
-========================
+Internettstandarder
+===================
 **Kompetansemål fra læreplanen:**
 * gjøre rede for hvilke standarder og prinsipper som muliggjør Internett
 
 **Ressurser:**
 * [Internet Engineering Task Force](https://no.wikipedia.org/wiki/Internet_Engineering_Task_Force)
+* [WP:Category:Internet Standards](https://en.wikipedia.org/wiki/Category:Internet_Standards)
 
 
 Multimediekomponenter
