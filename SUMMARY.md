@@ -1,0 +1,18 @@
+# Summary
+
+* [Databaser](Fagtekster/Databaser/README.md)
+  * [Hva er en database?](Fagtekster/Databaser/01. Hva er en database.md)
+  * [Introduksjon til SQL](Fagtekster/Databaser/02. Introduksjon til SQL.md)
+  * [En oversikt over SQL-syntaksen](Fagtekster/Databaser/03. En oversikt over SQL-syntaksen.md)
+  * [Opprette og slette tabeller](Fagtekster/Databaser/04. Opprette og slette tabeller.md)
+  * [Legge inn og slette rader i en tabell](Fagtekster/Databaser/05. Legge inn og slette rader i en tabell.md)
+  * [Verdien NULL](Fagtekster/Databaser/06. Verdien NULL.md)
+  * [Tabellnøkler](Fagtekster/Databaser/07. Tabellnøkler.md)
+  * [Filtrering av data med WHERE, LIKE og IN](Fagtekster/Databaser/08. Filtrering av data med WHERE, LIKE og IN.md)
+  * [Ressurser for videre studier](Fagtekster/Databaser/90. Ressurser for videre studier.md)
+  * [Oppgaver](Fagtekster/Databaser/99. Oppgaver.md)
+* [Digital samtid](Fagtekster/Digital samtid/README.md)
+* [Nettsteder og multimedier](Fagtekster/Nettsteder og multimedier/README.md)
+* [Kræsjkurs i programmering]()
+  * [Kræsjkurs i PHP]()
+    * [Kom i gang](Kræsjkurs/Kræsjkurs i PHP/000-kom-i-gang.php)
