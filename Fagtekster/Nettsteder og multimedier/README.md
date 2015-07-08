@@ -1,52 +1,13 @@
-Lenker til fagtekster som er relevante for hovedområdet Nettsteder og multimedier i IT1.
-Det er ikke noe mål å lenke til flest mulig ressurser her. De lenkene du finner
-nedenfor utvalgt fordi de dekker kompetansemålene i læreplanen på en god måte,
-og det er forventet at du skal lese disse sidene. Om du ønsker mer fagstoff enn det som
-er lenket til nedenfor, finner du helt sikkert det på nettet.
+**Hovedområdet handler om utforming, implementering og vurdering av nettsteder med tekst, lyd, bilde, video og animasjoner. Sentralt i hovedområdet er organisering og helhetlig grafisk utforming av nettstedene, slik at de blir tilgjengelige for brukere. Videre dreier det seg om bruk av standardløsninger i egenutviklede IT-løsninger.**
 
->Hovedområdet handler om utforming, implementering og vurdering av nettsteder med tekst,
->lyd, bilde, video og animasjoner. Sentralt i hovedområdet er organisering og helhetlig
->grafisk utforming av nettstedene, slik at de blir tilgjengelige for brukere. Videre
->dreier det seg om bruk av standardløsninger i egenutviklede IT-løsninger.
+Mål for opplæringen er at eleven skal kunne:
+ * gjøre rede for hvilke standarder og prinsipper som muliggjør Internett
+ * planlegge nettsteder som inneholder multimediekomponenter
+ * utvikle nettsteder i henhold til planer og vurdere om krav til brukergrensesnitt er oppfylt
+ * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
+ * organisere og begrunne filstrukturen for nettsteder
+ * sette opp krav til og vurdere nettsteder
 
+---
 
-Internettstandarder
-===================
-**Kompetansemål fra læreplanen:**
-* gjøre rede for hvilke standarder og prinsipper som muliggjør Internett
-
-**Ressurser:**
-* [Internet Engineering Task Force](https://no.wikipedia.org/wiki/Internet_Engineering_Task_Force)
-* [WP:Category:Internet Standards](https://en.wikipedia.org/wiki/Category:Internet_Standards)
-
-
-Multimediekomponenter
-=====================
-**Kompetansemål fra læreplanen:**
-* planlegge nettsteder som inneholder multimediekomponenter
-
-**Ressurser:**
-* [w3schools HTML Multimedia](http://www.w3schools.com/html/html_media.asp)
-  * [HTML5 Video](http://www.w3schools.com/html/html5_video.asp)
-  * [HTML5 Audio](http://www.w3schools.com/html/html5_audio.asp)
-  * [HTML Plug-ins](http://www.w3schools.com/html/html_object.asp)
-  * [HTML YouTube Videos](http://www.w3schools.com/html/html_youtube.asp)
-
-
-Utvikle nettsteder
-==================
-**Kompetansemål fra læreplanen:**
-* utvikle nettsteder i henhold til planer og vurdere om krav til brukergrensesnitt er oppfylt
-* redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
-* organisere og begrunne filstrukturen for nettsteder
-* sette opp krav til og vurdere nettsteder
-
-**Ressurser:**
-* [Kræsjkurs i HTML og CSS](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/03%20-%20Kr%C3%A6sjkurs%20i%20HTML%20og%20CSS)
-* [Kodegenet HTML5 og CSS](https://kodegenet.no/track/html5)
-  * [Komme i gang med HTML5](https://kodegenet.no/track/html5/courses/html5/chapter/html5_ch1)
-  * [Definere nettsidens utseende - Introduksjon til CSS](https://kodegenet.no/track/html5/courses/html5/chapter/html5_ch2)
-  * [Koble sammen sider: Hyperkoblinger](https://kodegenet.no/track/html5/courses/html5/chapter/html5_ch3)
-* [uu-skolen for nettsider](http://uu.difi.no/veiledning/nettsider/uu-skolen)
-
-
+*Denne teksten er hentet fra [læreplan i informasjonsteknologi](http://www.udir.no/kl06/inf1-01/).*
