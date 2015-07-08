@@ -1,3 +1,5 @@
+Nettsteder og multimedier
+=========================
 **Hovedområdet handler om utforming, implementering og vurdering av nettsteder med tekst, lyd, bilde, video og animasjoner. Sentralt i hovedområdet er organisering og helhetlig grafisk utforming av nettstedene, slik at de blir tilgjengelige for brukere. Videre dreier det seg om bruk av standardløsninger i egenutviklede IT-løsninger.**
 
 Mål for opplæringen er at eleven skal kunne:

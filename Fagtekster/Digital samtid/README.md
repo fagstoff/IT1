@@ -1,3 +1,5 @@
+Digital samtid
+==============
 **Hovedområdet handler om hvordan digitalt utstyr fungerer, og hvordan standarder, programvare og grensesnitt muliggjør samhandling mellom datamaskiner og annet utstyr. Videre dreier det seg om hvordan teknologien påvirker og påvirkes av samfunnet, og hvordan den enkelte møter teknologien i hverdagen. Kjennskap til gjeldende regelverk og etiske normer for bruk av informasjonsteknologi er sentralt. I tillegg inngår datasikkerhet i hoved­området.**
 
 Mål for opplæringen er at eleven skal kunne:
