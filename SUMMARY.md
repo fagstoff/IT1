@@ -7,7 +7,6 @@
   * [Minoriteter i en digital verden](Fagtekster/Digital samtid/40. Minoriteter i en digital verden.md)
   * [Regelverk og etiske normer](Fagtekster/Digital samtid/50. Regelverk og etiske normer.md)
   * [Muligheter og konsekvenser](Fagtekster/Digital samtid/60. Muligheter og konsekvenser.md)
-  * [](Fagtekster/Digital samtid/)
   * [Ressurser for videre studier](Fagtekster/Digital samtid/90. Ressurser for videre studier.md)
   * [Oppgaver](Fagtekster/Digital samtid/99. Oppgaver.md)
 * [Nettsteder og multimedier](Fagtekster/Nettsteder og multimedier/README.md)
