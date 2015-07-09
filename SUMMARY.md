@@ -31,5 +31,7 @@
     * [Tabeller i PHP](Fagtekster/Databaser/44. Tabeller i PHP.md)
     * [Funksjoner i PHP](Fagtekster/Databaser/45. Funksjoner i PHP.md)
     * [Løkker i PHP](Fagtekster/Databaser/46. Løkker i PHP.md)
+    * [Lage nettsider med PHP](Fagtekster/Databaser/47. Lage nettsider med PHP.md)
   * [Dynamiske nettsider med SQL og PHP](Fagtekster/Databaser/50. Dynamiske nettsider med SQL og PHP.md)
+    * [Koble til en SQL-database med PHP](Fagtekster/Databaser/51. Koble til en SQL-database med PHP.md)
   * [Ressurser for videre studier](Fagtekster/Databaser/90. Ressurser for videre studier.md)
