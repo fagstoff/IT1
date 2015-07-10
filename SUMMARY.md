@@ -24,6 +24,7 @@
     * [Filtrering av data med WHERE, LIKE og IN](Fagtekster/Databaser/08. Filtrering av data med WHERE, LIKE og IN.md)
     * [Fjerne duplikater med SELECT DISTINCT](Fagtekster/Databaser/09. Fjerne duplikater med SELECT DISTINCT.md)
     * [Relasjoner](Fagtekster/Databaser/10. Relasjoner.md)
+    * [JOIN](Fagtekster/Databaser/11. JOIN.md)
   * [Introduksjon til PHP](Fagtekster/Databaser/40. Introduksjon til PHP.md)
     * [Variabler i PHP](Fagtekster/Databaser/41. Variabler i PHP.md)
     * [Mer om strenger i PHP](Fagtekster/Databaser/42. Mer om strenger i PHP.md)
