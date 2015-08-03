@@ -26,6 +26,8 @@
     * [Relasjoner](Fagtekster/Databaser/10. Relasjoner.md)
     * [JOIN](Fagtekster/Databaser/11. JOIN.md)
     * [TRANSACTION](Fagtekster/Databaser/12. TRANSACTION.md)
+  * [Design av databaser](Fagtekster/Databaser/20. Design av databaser.md)
+    * [Datamodell](Fagtekster/Databaser/21. Datamodell.md)
   * [Introduksjon til PHP](Fagtekster/Databaser/40. Introduksjon til PHP.md)
     * [Variabler i PHP](Fagtekster/Databaser/41. Variabler i PHP.md)
     * [Mer om strenger i PHP](Fagtekster/Databaser/42. Mer om strenger i PHP.md)
