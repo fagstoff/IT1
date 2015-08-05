@@ -1,28 +1,31 @@
-McBergbys automagiske bestillingssystem - del 5
+McBergbys automagiske bestillingssystem - del 6
 ===============================================
-**Det tok litt av for web-designerne når de laget et forslag til nettsiden som skal brukes til bestillinger hos hurtimatkjeden McBergbys. Nå har du fått jobben å fikse siden.**
+**TODO**
 
 Oppgave
 -------
 Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
 
-Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 4`, og sørge for at designet oppfyller kravene til universell utforming. I tillegg skal du rette opp alle feil og problemer i CSS-fila du bruker.
+Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 5`, og lage en PHP-fil som tar imot innholdet i bestillingsskjemaet. Fila skal hete `bestillingsmottak.php`. Legg denne koden inn i form-elementet i HTML-fila di:
+
+`<form action="bestillingsmottak.php" method="post">`
+
+I mottaksfila bruker du funksjonen `print_r` for å skrive ut innholdet i variablen `$_POST`.
+
+![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-6.jpg)
 
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
-* Bruk [uu-skolen for nettsider](http://uu.difi.no/veiledning/nettsider/uu-skolen) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
-* Du kan [validere CSS-fila her](https://jigsaw.w3.org/css-validator/validator.html.en).
+* TODO
 
 Vurderingskriterier
 -------------------
-* Utseendet skal være utformet i henhold til kravene om universell utforming.
-* CSS-fila skal validere uten feil.
+* TODO
 
 Kompetansemål
 -------------
-* redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
-* utvikle nettsteder i henhold til planer og vurdere om krav til brukergrensesnitt er oppfylt
+* TODO
 
 >Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en
