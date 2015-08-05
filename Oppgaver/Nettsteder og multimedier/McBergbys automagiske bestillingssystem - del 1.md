@@ -1,7 +1,6 @@
-McBergbys automagiske bestillingssystem - del 1
+McBergbys automagiske bestillingssystem - del 3
 ===============================================
-Nå skal du lage et skjema i HTML. Senere skal du koble det mot en database, sånn
-at du til slutt har en komplett web-applikasjon.
+Nå skal du lage et skjema i HTML. Senere skal du koble det mot en database, sånn at du til slutt har en komplett web-applikasjon.
 
 Oppgave
 -------
@@ -15,8 +14,11 @@ Ressurser
 ---------
 Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
 
-Bildet du skal sette inn på siden kan [kan du laste ned her](https://github.com/bitjungle/IT1/blob/master/Bilder/hamburgers.jpg). Du må selv sørge for å endre størrelsen på bildet, det skal være maks 400 piksler i bredden i den ferdige HTML-siden.
+Bildet du skal sette inn på siden kan [kan du laste ned her](https://github.com/bitjungle/IT1/blob/master/Bilder/hamburgers.jpg). Du må selv sørge for å endre størrelsen på bildet, det skal være 400 piksler i bredden når det er satt inn i den ferdige HTML-siden.
 
+Vurderingskriterier
+-------------------
+HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/). Bildet skal være 400 piksler i bredden. Skjemaet skal inneholde de samme valgene som vist i eksempelbildet over, men du kan gjøre visuelle forbedringer av siden så lenge den valideres uten feil og advarsler.
 
 Kompetansemål
 -------------
