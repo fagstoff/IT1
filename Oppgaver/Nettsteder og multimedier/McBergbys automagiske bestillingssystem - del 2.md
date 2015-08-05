@@ -1,6 +1,6 @@
 McBergbys automagiske bestillingssystem - del 2
 ===============================================
-Nå skal du sette inn et bilde i en HTML-side. Oppgaven er en del av det store prosjektet hvor vi skal lage en web-applikasjon for en hurtigmatkjede.
+**Nå skal du sette inn et bilde i en HTML-side. Oppgaven er en del av det store prosjektet hvor vi skal lage en web-applikasjon for en hurtigmatkjede.**
 
 Oppgave
 -------
@@ -12,13 +12,13 @@ Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet ned
 
 Ressurser
 ---------
-Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
-
-Bildet du skal sette inn på siden kan [kan du laste ned her](https://github.com/bitjungle/IT1/blob/master/Bilder/hamburgers.jpg). Du må selv sørge for å endre størrelsen på bildet, det skal være 800 piksler i bredden når det er satt inn i den ferdige HTML-siden.
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
+* Bildet du skal sette inn på siden kan [kan du laste ned her](https://github.com/bitjungle/IT1/blob/master/Bilder/hamburgers.jpg). Du må selv sørge for å endre størrelsen på bildet, det skal være 800 piksler i bredden når det er satt inn i den ferdige HTML-siden.
 
 Vurderingskriterier
 -------------------
-HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/). Bildet skal være 800 piksler i bredden.
+* HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
+* Bildet skal være 800 piksler i bredden.
 
 Kompetansemål
 -------------

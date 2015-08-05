@@ -1,6 +1,6 @@
 McBergbys automagiske bestillingssystem - del 1
 ===============================================
-Nå skal du lage den første HTML-siden i et stort prosjekt for en hurtigmatkjede. 
+**Nå skal du lage den første HTML-siden i et stort prosjekt for en hurtigmatkjede.**
 
 Oppgave
 -------
@@ -12,11 +12,11 @@ Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet ned
 
 Ressurser
 ---------
-Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
 
 Vurderingskriterier
 -------------------
-HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/). 
+* HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/). 
 
 Kompetansemål
 -------------
