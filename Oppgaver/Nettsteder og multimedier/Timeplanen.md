@@ -4,9 +4,9 @@ Du skal lage en HTML-side som inneholder både bilde, lister og en tabell.
 
 Oppgave
 -------
-Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bildet kan du hente fra commons.wikimedia.org. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`.
+Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bildet kan du hente fra commons.wikimedia.org. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`. Bildet skal skaleres sånn at det er 400 piksler i bredden.
 
-![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan2.png)
+![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan-1.png)
 
 Ressurser
 ---------
