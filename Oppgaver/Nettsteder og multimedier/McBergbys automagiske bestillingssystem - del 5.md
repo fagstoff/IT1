@@ -27,6 +27,7 @@ Kompetansemål
 -------------
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 * utvikle nettsteder i henhold til planer og vurdere om krav til brukergrensesnitt er oppfylt
+* organisere og begrunne filstrukturen for nettsteder
 
 >Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en

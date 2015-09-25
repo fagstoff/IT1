@@ -23,6 +23,7 @@ Vurderingskriterier
 Kompetansemål
 -------------
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
+* organisere og begrunne filstrukturen for nettsteder
 
 >Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin) og endret av [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en
