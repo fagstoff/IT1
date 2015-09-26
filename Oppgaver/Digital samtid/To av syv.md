@@ -8,7 +8,7 @@ Nettstedinnhold
 Nettstedet kan inneholde:
 * Egenprodusert logo.
 * Minimum tre sider som brukeren kan navigere mellom.
-* Du skal belyse tre av kompetansemåla fra hovedområdet Digital samtid i IT1.
+* Du skal belyse minst av kompetansemåla fra hovedområdet Digital samtid i IT1.
 * Nettstedet skal lages fra bunnen av med HTML og CSS.
 * Koden bør kommenteres og innholdet bør ha kilder. Vær spesielt nøye med å bare bruke bilder som er lov å kopiere.
 * Nettstedet skal publiseres på en web-server, læreren gir deg nærmere instrukser om dette.
