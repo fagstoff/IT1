@@ -6,7 +6,9 @@ Oppgave
 -------
 Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt gjerne ut fagene med de du selv har. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`.
 
-I versjon 3 av timeplanen skal du få infoboks og bilde til å flyte til høyre for selve timeplanen. Opprett en egen CSS-fil som du plasserer i mappa `stiler`. Bruk CSS-koden `float` for å plassere de ulike elementene på siden. Legg merke til hva som skjer dersom du gjør nettleservinduet ditt smalt.
+I versjon 3 av timeplanen skal du få infoboks og bilde til å flyte til høyre for selve timeplanen. Opprett en egen CSS-fil som du plasserer i mappa `stiler`. Bruk CSS-koden `float` for å plassere de ulike elementene på siden. Infoboksen skal være 250 piksler bred og ha fargen `silver`.
+
+Legg merke til hva som skjer med visning av nettsiden dersom du gjør nettleservinduet ditt smalt.
 
 
 ![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan3.png)
