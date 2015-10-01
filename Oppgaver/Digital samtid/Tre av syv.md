@@ -37,7 +37,7 @@ Om du ønsker å belyse et etisk og moralsk tema kan du for eksempel velge deg e
 * [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/wikileaks-documentary.html)
 * [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/tpb-afk.html)
 
-Du står fritt til å velge tema. Ønsker du å lage et nettsted om noe annet enn det som er foreslått ovenfor, er det helt greit så lenge det dekker to eller flere kompetansemål i hovedområdet Digital samtid.
+Du står fritt til å velge tema. Ønsker du å lage et nettsted om noe annet enn det som er foreslått ovenfor, er det helt greit så lenge det dekker tre kompetansemål i hovedområdet Digital samtid.
 
 Kompetansemål
 -------------
