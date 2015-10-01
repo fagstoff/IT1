@@ -1,13 +1,13 @@
-To av syv
+Tre av syv
 ==========
 
-Det er syv kompetansemål i læreplanens hovedområde Digital samtid. Din oppgave er å lage et nettsted som handler om minst to av disse. Du kan selv velge hvilke.
+Det er syv kompetansemål i læreplanens hovedområde Digital samtid. Din oppgave er å lage et nettsted som handler om tre av disse. Du kan selv velge hvilke.
 
 Spesifikasjoner for nettstedet
 ------------------------------
 Nettstedet skal inneholde:
 * Minimum tre sider som brukeren kan navigere mellom, og hver side bør inneholde minst ett bilde.
-* Du skal belyse minst to av kompetansemåla fra hovedområdet Digital samtid i IT1.
+* Du skal belyse tre av kompetansemåla fra hovedområdet Digital samtid i IT1.
 * Nettstedet skal lages fra bunnen av med HTML og CSS. De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org/). Koden bør også kommenteres.
 * Du må ha kildehenvisninger til innholdet. Vær spesielt nøye med å bare bruke bilder som er lov å kopiere.
 * Nettstedet skal inneholde minst én video som belyser temaet på en god måte. Du trenger ikke å produsere videoen selv. Finn én (eller flere) faglig god video(er) som er publisert på nettet (for eksempel på YouTube eller Vimeo).
@@ -16,7 +16,7 @@ Nettstedet skal inneholde:
 
 Valg av kompetansemål i hovedområde Digital samtid
 --------------------------------------------------
-Her er alle kompetansemåla i hovedområde Digital samtid, du skal velge deg minst to av disse:
+Her er alle kompetansemåla i hovedområde Digital samtid, du skal velge deg tre av disse:
  * beskrive ulike typer digitalt utstyr og forklare hovedtrekkene ved virkemåten
  * forklare hvordan de fysiske signalene i datautstyr kan tolkes som binære tall, tegnsett, grafiske framstillinger, billedpunkter og lyd
  * gjøre rede for standarder for kommunikasjon mellom ulike former for digitalt utstyr og mellom programmer
