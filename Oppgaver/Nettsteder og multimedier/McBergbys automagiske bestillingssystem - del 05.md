@@ -15,7 +15,7 @@ Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger i
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
-* Bruk [uu-skolen for nettsider](http://uu.difi.no/veiledning/nettsider/uu-skolen) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
+* Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
 * Du kan [validere CSS-fila her](https://jigsaw.w3.org/css-validator/validator.html.en).
 
 Vurderingskriterier

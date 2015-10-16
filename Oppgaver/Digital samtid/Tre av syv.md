@@ -11,7 +11,7 @@ Nettstedet skal inneholde:
 * Nettstedet skal lages fra bunnen av med HTML og CSS. De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org/). Koden bør også kommenteres.
 * Du må ha kildehenvisninger til innholdet. Vær spesielt nøye med å bare bruke bilder som er lov å kopiere.
 * Nettstedet skal inneholde minst én video som belyser temaet på en god måte. Du trenger ikke å produsere videoen selv. Finn én (eller flere) faglig god video(er) som er publisert på nettet (for eksempel på YouTube eller Vimeo).
-* Nettstedet skal være utformet i henhold til kravene om universell utforming, se [uu-skolen](https://uu.difi.no/veiledning/nettsider/uu-skolen).
+* Nettstedet skal være utformet i henhold til kravene om universell utforming, så langt det er praktisk mulig. Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
 * Nettstedet skal publiseres på en web-server, læreren gir deg nærmere instrukser om dette. Du kan publisere anonymt, men da skal du begrunne hvorfor du velger å gjøre det.
 
 Valg av kompetansemål i hovedområde Digital samtid
