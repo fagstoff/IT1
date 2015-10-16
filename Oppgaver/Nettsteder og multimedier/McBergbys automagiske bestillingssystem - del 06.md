@@ -8,14 +8,14 @@ Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Side
 
 ![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-6.jpg)
 
-Den første videoen på siden må du laste ned på egen PC. Plasser den i en mappe som heter `video`, og legg den inn i HTML-siden ved å bruke HTML5 `<video>`. 
+Den første videoen på siden må du laste ned på egen PC. Plasser den i en mappe som heter `video`, og legg den inn i HTML-siden ved å bruke HTML5 `<video>`-taggen. 
 
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
 * Videoen som skal embeddes med `<video>`-taggen [kan du laste ned her](https://github.com/fagstoff/IT1/tree/master/Video).
 * Du kan lese om bruk av `<video>`-taggen på [w3schools.com](http://www.w3schools.com/tags/tag_video.asp).
-* Videoen som skal embeddes fra YouTube [kan du se her](http://youtu.be/lz0IT4Uk2xQ?t=17s). Den skal embeddes med bruk av `<iframe>`-taggen. Trukk på "Del -> Innbygg" på YouTube. 
+* Videoen som skal embeddes fra YouTube [kan du se her](http://youtu.be/lz0IT4Uk2xQ?t=17s). Den skal embeddes med bruk av `<iframe>`-taggen. Trykk på "Del -> Innbygg" på YouTube. 
 * Du kan lese om bruk av `<iframe>`-taggen på [w3schools.com](http://www.w3schools.com/html/html_youtube.asp).
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
 
