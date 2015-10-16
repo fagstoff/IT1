@@ -6,7 +6,7 @@ Oversikt over McBergbys-oppgaver
  * [Del 4 - CSS](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 4.md)
  * [Del 5 - Universell utforming](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 5.md)
  * [Del 6 - Embedding av video](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 6.md)
- * [Del 7 - **TODO**](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 7.md)
+ * [Del 7 - Menyer og lenker mellom sider **TODO**](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 7.md)
  * [Del 8 - **TODO**](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 8.md)
  * [Del 9 - **TODO**](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 9.md)
  * [Del 10 - Første introduksjon av PHP](Nettsteder og multimedier/McBergbys automagiske bestillingssystem - del 10.md)
