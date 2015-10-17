@@ -1,10 +1,10 @@
 McBergbys automagiske bestillingssystem - del 6
 ===============================================
-**Den smarte markedsføringsavdelinga til McBergbys har funnet ut at nettsidene trenger en "Hamburgerskole" hvor potensielle kunder læres opp til å bli gode forbrukere og hamburger-elskere. De har også hørt at video er et veldig bra medium for reklame. Nå må du lage nettsiden.**
+**Den smarte markedsføringsavdelinga til McBergbys har funnet ut at nettstedet trenger en "Hamburgerskole" hvor potensielle kunder læres opp til å bli gode forbrukere og hamburger-elskere. De har også hørt at video er et veldig bra medium for reklame. Nå må du lage nettsiden.**
 
 Oppgave
 -------
-Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden.
+Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden.
 
 ![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-6.jpg)
 
