@@ -17,12 +17,14 @@ Ressurser
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
 * Kartet henter du fra [karttjenesten fra finn.no](http://kart.finn.no). bruk menyen "Link" oppe til høyre på finn.no og velg "Kartgenerator".
 * Om du ikke orker å skrive noe fornuftig om McBergbys, kan du [generere en test-tekst her](http://no.lipsum.com/).
-* Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming.
+* Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om utforming og presentasjon på denne siden](https://uu.difi.no/artikkel/2015/07/utforming-og-presentasjon).
 
 Vurderingskriterier
 -------------------
 * Tekstboksene på siden skal flyte slik som vist i bildet på en bred skjerm.
 * Siden skal fungere godt på en smal skjerm.
+* Siden skal fungere godt med 200 % forstørrelse i nettleseren.
+* HTML-kode skal ikke brukes for å lage layout på siden, det er kun CSS som skal benyttes til layout.
 * Kartet skal være 250x250 piksler og ha en kartnål som viser hvor restauranten ligger.
 * Klikk på kartet skal lede til et større kart hos [kart.finn.no](http://kart.finn.no)
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).

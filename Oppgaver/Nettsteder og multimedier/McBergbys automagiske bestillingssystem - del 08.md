@@ -21,6 +21,8 @@ Ressurser
 Vurderingskriterier
 -------------------
 * Navigasjonsmeny på alle sidene som gjør det enkelt for besøkende å gå til ønsket side.
+* Alle sidene skal fungere godt på en smal skjerm, men det er ok at videoene i hamburgerskolen blir for brede.
+* Alle sidene skal fungere godt med 200 % forstørrelse i nettleseren.
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Siden skal være utformet i henhold til kravene om universell utforming, så lang det er mulig.
 
