@@ -1,18 +1,18 @@
-McBergbys automagiske bestillingssystem - del 10
-================================================
+McBergbys - del 11
+==================
 **TODO**
 
 Oppgave
 -------
 Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
 
-Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 5`, og lage en PHP-fil som tar imot innholdet i bestillingsskjemaet. Fila skal hete `bestillingsmottak.php`. Legg denne koden inn i form-elementet i HTML-fila di:
+Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 10`, og lage en PHP-fil som tar imot innholdet i bestillingsskjemaet. Fila skal hete `bestillingsmottak.php`. Legg denne koden inn i form-elementet i HTML-fila di:
 
 `<form action="bestillingsmottak.php" method="post">`
 
 I mottaksfila bruker du funksjonen `print_r` for å skrive ut innholdet i variablen `$_POST`.
 
-![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-10.jpg)
+![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-11.jpg)
 
 Ressurser
 ---------
