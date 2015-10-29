@@ -1,5 +1,5 @@
-McBergbys automagiske bestillingssystem - del 8
-===============================================
+McBergbys del 8: Navigasjonsmeny
+================================
 **Nettstedet til McBergbys består nå av tre sider (bestillingskjema, om McBergbys og hamburgerskolen), men det er ingen mulighet for besøkende å navigere mellom de ulike sidene. Det må du gjøre noe med.**
 
 Oppgave
