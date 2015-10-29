@@ -1,12 +1,10 @@
-McBergbys automagiske bestillingssystem - del 5
-===============================================
+McBergbys del 5: Universell utforming
+=====================================
 **Det tok litt av for web-designerne når de laget et forslag til nettsiden som skal brukes til bestillinger hos hurtimatkjeden McBergbys. Nå har du fått jobben å fikse siden.**
 
 Oppgave
 -------
-Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
-
-Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 4`, og sørge for at designet oppfyller kravene til universell utforming. I tillegg skal du rette opp alle feil og problemer i CSS-fila du bruker.
+Du skal ta utgangspunkt i det du laget i `McBergbys del 4`, og sørge for at designet oppfyller kravene til universell utforming. I tillegg skal du rette opp alle feil og problemer i CSS-fila du bruker.
 
 Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger ikke å forsøke å kopiere dette.
 

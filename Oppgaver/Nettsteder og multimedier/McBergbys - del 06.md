@@ -1,5 +1,5 @@
-McBergbys automagiske bestillingssystem - del 6
-===============================================
+McBergbys del 6: Embedding av video
+===================================
 **Den smarte markedsføringsavdelinga til McBergbys har funnet ut at nettstedet trenger en "Hamburgerskole" hvor potensielle kunder læres opp til å bli gode forbrukere og hamburger-elskere. De har også hørt at video er et veldig bra medium for reklame. Nå må du lage nettsiden.**
 
 Oppgave

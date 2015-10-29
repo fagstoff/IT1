@@ -1,5 +1,5 @@
-McBergbys automagiske bestillingssystem - del 7
-===============================================
+McBergbys del 7: Lister og bokser
+=================================
 **Markedsføringsavdelinga til McBergbys har bestemt at nettstedet må ha en "Om McBergbys"-side som forteller litt om selskapet, med kundegaranti, historikk og kart over hvor restauranten ligger. Du skal lage nettsiden.**
 
 Oppgave

@@ -1,11 +1,9 @@
-McBergbys automagiske bestillingssystem - del 4
-===============================================
+McBergbys del 4: CSS
+====================
 **Nettsiden som skal brukes til bestillinger hos hurtimatkjeden McBergbys er ferdig, men den ser veldig kjedelig ut. Noe må gjøres.**
 
 Oppgave
 -------
-Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
-
 Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys automagiske bestillingssystem - del 3`, slik at den blir mye penere og tøffere enn det du ser på bildet nedenfor. For å endre utseende på nettsiden skal du bruke CSS. Legg inn denne koden i `header` på HTML-fila, og opprett CSS-fila i mappa 'stil'. 
 
 ![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-4.jpg)

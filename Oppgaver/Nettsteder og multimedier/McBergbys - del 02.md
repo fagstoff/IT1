@@ -1,11 +1,9 @@
-McBergbys automagiske bestillingssystem - del 2
-===============================================
-**Nå skal du sette inn et bilde i en HTML-side. Oppgaven er en del av det store prosjektet hvor vi skal lage en web-applikasjon for en hurtigmatkjede.**
+McBergbys del 2: Bilder i HTML
+==============================
+**Det store utviklingsprosjektet for hurtigmatkjeden McBergbys fortsetter, og nå skal du sette inn et bilde i en HTML-side.**
 
 Oppgave
 -------
-Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
-
 Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Hamburgerbildet skal lagres i en egen mappe som har navnet `bilder`. 
 
 ![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-2.jpg)

@@ -1,10 +1,10 @@
-McBergbys automagiske bestillingssystem - del 1
-===============================================
-**Nå skal du lage den første HTML-siden i et stort prosjekt for en hurtigmatkjede.**
+McBergbys del 1: Hallo verden
+=============================
+**Hurtigmatkjeden McBergbys satser stort, og trenger gode nettsider. Nå skal du lage den første HTML-siden i et stort utviklingsprosjekt som skal gå over et helt år.**
 
 Oppgave
 -------
-Hurtigmatkjeden McBergbys ønsker å utvikle et bestillingssystem som kundene kan bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
+McBergbys ønsker å utvikle nettsider som blant annet inneholder et bestillingssystem. Dette systemet skal kundene bruke mens de venter på å bestille mat i restauranten og i drive-in. Dette gjør at kjøkkenet får beskjed om hva som skal lages av mat før kundene kommer til kassa, og dermed kan begynne på bestillingen tidligere. Slik avvikles køen raskere.
 
 Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor.
 
