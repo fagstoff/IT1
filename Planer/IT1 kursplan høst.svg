@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Generert med Microsoft Visio, SVG Export IT1 kursplan.svg Høst -->
+<!-- Generert med Microsoft Visio, SVG Export IT1 kursplan høst.svg Høst -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
 		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st20">
@@ -30,7 +30,7 @@
 		.st15 {fill:#000000;font-family:Akashi;font-size:1.5em}
 		.st16 {fill:#41719c;stroke:#c7c8c8;stroke-width:0.25}
 		.st17 {fill:#000000;stroke:#c7c8c8;stroke-width:0.25}
-		.st18 {marker-end:url(#mrkr4-133);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st18 {marker-end:url(#mrkr4-135);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st19 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
 		.st20 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
@@ -47,7 +47,7 @@
 		<g id="lend4">
 			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr4-133" class="st19" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
+		<marker id="mrkr4-135" class="st19" v:arrowType="4" v:arrowSize="2" v:setback="7.04" refX="-7.04" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
 		</marker>
@@ -567,7 +567,7 @@
 					<text x="6" y="586.12" class="st5" v:langID="1044"><v:paragraph/><v:tabList/>Databaser</text>				</g>
 			</g>
 		</g>
-		<g id="shape16-77" v:mID="16" v:groupContext="shape" transform="translate(22.6772,-299.126)">
+		<g id="shape16-77" v:mID="16" v:groupContext="shape" transform="translate(22.6772,-296.22)">
 			<title>Rektangel</title>
 			<desc>Khan academy HTML/CSS</desc>
 			<v:userDefs>
@@ -582,7 +582,7 @@
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="22.35" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Khan <tspan
 						x="14.32" dy="1.2em" class="st13">academy </tspan><tspan x="11.48" dy="1.2em" class="st13">HTML</tspan>/CSS</text>		</g>
-		<g id="shape17-85" v:mID="17" v:groupContext="shape" transform="translate(107.717,-299.126)">
+		<g id="shape17-85" v:mID="17" v:groupContext="shape" transform="translate(107.717,-296.22)">
 			<title>Rektangel.17</title>
 			<desc>McBergbys 1 Hei verden</desc>
 			<v:userDefs>
@@ -604,7 +604,7 @@
 			<v:textRect cx="76" cy="585.276" width="152" height="20"/>
 			<rect x="0" y="575.276" width="152" height="20" class="st14"/>
 			<text x="5.25" y="590.68" class="st15" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>IT1 høst-termin</text>		</g>
-		<g id="shape20-95" v:mID="20" v:groupContext="shape" transform="translate(22.6772,-478.754)">
+		<g id="shape20-95" v:mID="20" v:groupContext="shape" transform="translate(22.6772,-439.37)">
 			<title>Rektangel.20</title>
 			<desc>Digitalt utstyr</desc>
 			<v:userDefs>
@@ -618,7 +618,7 @@
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="4.91" y="577.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Digitalt utstyr</text>		</g>
-		<g id="shape21-101" v:mID="21" v:groupContext="shape" transform="translate(104.882,-478.754)">
+		<g id="shape21-101" v:mID="21" v:groupContext="shape" transform="translate(104.882,-439.37)">
 			<title>Rektangel.21</title>
 			<desc>Digitale signaler</desc>
 			<v:userDefs>
@@ -633,7 +633,7 @@
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="17.17" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Digitale <tspan
 						x="16.74" dy="1.2em" class="st13">signaler</tspan></text>		</g>
-		<g id="shape22-108" v:mID="22" v:groupContext="shape" transform="translate(188.504,-478.754)">
+		<g id="shape22-108" v:mID="22" v:groupContext="shape" transform="translate(188.504,-439.37)">
 			<title>Rektangel.22</title>
 			<desc>Digital kommuni-kasjon</desc>
 			<v:userDefs>
@@ -648,9 +648,9 @@
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="19.66" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Digital <tspan
 						x="11.77" dy="1.2em" class="st13">kommuni</tspan>-<tspan x="19.52" dy="1.2em" class="st13">kasjon</tspan></text>		</g>
-		<g id="shape23-116" v:mID="23" v:groupContext="shape" transform="translate(721.417,-299.126)">
+		<g id="shape23-116" v:mID="23" v:groupContext="shape" transform="translate(721.417,-296.22)">
 			<title>Rektangel.23</title>
-			<desc>«Tre av syv»</desc>
+			<desc>«Tre av syv» prosjekt-oppgave</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
@@ -661,8 +661,9 @@
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
-			<text x="7.42" y="577.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>«Tre av syv»</text>		</g>
-		<g id="shape24-122" v:mID="24" v:groupContext="shape" transform="translate(73.7008,-425.197)">
+			<text x="7.42" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>«Tre av syv» <tspan
+						x="14.47" dy="1.2em" class="st13">prosjekt</tspan>-<tspan x="15.21" dy="1.2em" class="st13">oppgave</tspan></text>		</g>
+		<g id="shape24-124" v:mID="24" v:groupContext="shape" transform="translate(73.7008,-392.066)">
 			<title>Rektangel.24</title>
 			<desc>Prøve</desc>
 			<v:userDefs>
@@ -670,29 +671,29 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="21.6142" cy="579.065" width="43.23" height="32.4213"/>
-			<g id="shadow24-123" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow24-125" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st10"/>
 			</g>
 			<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st17"/>
 			<text x="9.9" y="582.07" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Prøve</text>		</g>
-		<g id="shape25-128" v:mID="25" v:groupContext="shape" v:layerMember="1" transform="translate(55.2756,-478.754)">
+		<g id="shape25-130" v:mID="25" v:groupContext="shape" v:layerMember="1" transform="translate(55.2756,-439.37)">
 			<title>Dynamisk kobling</title>
-			<path d="M0 595.28 L0 632.62 L11.39 632.62" class="st18"/>
+			<path d="M0 595.28 L0 626.37 L11.39 626.37" class="st18"/>
 		</g>
-		<g id="shape26-134" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(87.874,-492.927)">
+		<g id="shape26-136" v:mID="26" v:groupContext="shape" v:layerMember="1" transform="translate(87.874,-453.543)">
 			<title>Dynamisk kobling.26</title>
 			<path d="M0 588.19 L9.97 588.19" class="st18"/>
 		</g>
-		<g id="shape27-139" v:mID="27" v:groupContext="shape" v:layerMember="1" transform="translate(170.079,-492.927)">
+		<g id="shape27-141" v:mID="27" v:groupContext="shape" v:layerMember="1" transform="translate(170.079,-453.543)">
 			<title>Dynamisk kobling.27</title>
 			<path d="M0 588.19 L11.39 588.19" class="st18"/>
 		</g>
-		<g id="shape28-144" v:mID="28" v:groupContext="shape" v:layerMember="1" transform="translate(87.874,-313.299)">
+		<g id="shape28-146" v:mID="28" v:groupContext="shape" v:layerMember="1" transform="translate(87.874,-310.394)">
 			<title>Dynamisk kobling.28</title>
 			<path d="M0 588.19 L12.8 588.19" class="st18"/>
 		</g>
-		<g id="shape29-149" v:mID="29" v:groupContext="shape" transform="translate(192.756,-299.126)">
+		<g id="shape29-151" v:mID="29" v:groupContext="shape" transform="translate(192.756,-296.22)">
 			<title>Rektangel.29</title>
 			<desc>McBergbys 2 Bilde i HTML</desc>
 			<v:userDefs>
@@ -700,18 +701,18 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow29-150" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow29-152" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 2 <v:newlineChar/><tspan
 						x="7.13" dy="1.2em" class="st13">Bilde i HTML</tspan></text>		</g>
-		<g id="shape30-156" v:mID="30" v:groupContext="shape" v:layerMember="1" transform="translate(172.913,-313.299)">
+		<g id="shape30-158" v:mID="30" v:groupContext="shape" v:layerMember="1" transform="translate(172.913,-310.394)">
 			<title>Dynamisk kobling.30</title>
 			<path d="M0 588.19 L12.8 588.19" class="st18"/>
 		</g>
-		<g id="shape32-161" v:mID="32" v:groupContext="shape" transform="translate(70.8661,-219.685)">
+		<g id="shape32-163" v:mID="32" v:groupContext="shape" transform="translate(95.6693,-219.685)">
 			<title>Rektangel.32</title>
 			<desc>Timeplanen 1 Lister og tabeller</desc>
 			<v:userDefs>
@@ -719,14 +720,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow32-162" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow32-164" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="4.96" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Timeplanen 1<v:newlineChar/><tspan
 						x="15.37" dy="1.2em" class="st13">Lister og </tspan><tspan x="16.89" dy="1.2em" class="st13">tabeller</tspan></text>		</g>
-		<g id="shape33-169" v:mID="33" v:groupContext="shape" transform="translate(155.906,-219.685)">
+		<g id="shape33-171" v:mID="33" v:groupContext="shape" transform="translate(180.709,-219.685)">
 			<title>Rektangel.33</title>
 			<desc>Timeplanen 1 HTML Box Model</desc>
 			<v:userDefs>
@@ -734,14 +735,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow33-170" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow33-172" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="4.96" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Timeplanen 1<v:newlineChar/><tspan
 						x="12.02" dy="1.2em" class="st13">HTML Box </tspan><tspan x="19.42" dy="1.2em" class="st13">Model</tspan></text>		</g>
-		<g id="shape34-177" v:mID="34" v:groupContext="shape" transform="translate(239.528,-219.685)">
+		<g id="shape34-179" v:mID="34" v:groupContext="shape" transform="translate(264.331,-219.685)">
 			<title>Rektangel.34</title>
 			<desc>Timeplanen 1 Farger</desc>
 			<v:userDefs>
@@ -749,14 +750,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow34-178" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow34-180" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="4.96" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Timeplanen 1<v:newlineChar/><tspan
 						x="19.58" dy="1.2em" class="st13">Farger</tspan></text>		</g>
-		<g id="shape35-184" v:mID="35" v:groupContext="shape" transform="translate(328.11,-224.734)">
+		<g id="shape35-186" v:mID="35" v:groupContext="shape" transform="translate(347.953,-224.734)">
 			<title>Rektangel.35</title>
 			<desc>Prøve</desc>
 			<v:userDefs>
@@ -764,29 +765,29 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="21.6142" cy="579.065" width="43.23" height="32.4213"/>
-			<g id="shadow35-185" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow35-187" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st10"/>
 			</g>
 			<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st17"/>
 			<text x="9.9" y="582.07" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Prøve</text>		</g>
-		<g id="shape36-190" v:mID="36" v:groupContext="shape" v:layerMember="1" transform="translate(225.354,-299.126)">
+		<g id="shape36-192" v:mID="36" v:groupContext="shape" v:layerMember="1" transform="translate(225.354,-296.22)">
 			<title>Dynamisk kobling.36</title>
-			<path d="M0 595.28 L0 605.91 L-121.89 605.91 L-121.89 625.16" class="st18"/>
+			<path d="M0 595.28 L0 609.73 L-97.09 609.73 L-97.09 622.25" class="st18"/>
 		</g>
-		<g id="shape37-195" v:mID="37" v:groupContext="shape" v:layerMember="1" transform="translate(136.063,-233.858)">
+		<g id="shape37-197" v:mID="37" v:groupContext="shape" v:layerMember="1" transform="translate(160.866,-233.858)">
 			<title>Dynamisk kobling.37</title>
 			<path d="M0 588.19 L12.8 588.19" class="st18"/>
 		</g>
-		<g id="shape38-200" v:mID="38" v:groupContext="shape" v:layerMember="1" transform="translate(221.102,-233.858)">
+		<g id="shape38-202" v:mID="38" v:groupContext="shape" v:layerMember="1" transform="translate(245.906,-233.858)">
 			<title>Dynamisk kobling.38</title>
 			<path d="M0 588.19 L11.39 588.19" class="st18"/>
 		</g>
-		<g id="shape39-205" v:mID="39" v:groupContext="shape" v:layerMember="1" transform="translate(304.724,-233.858)">
+		<g id="shape39-207" v:mID="39" v:groupContext="shape" v:layerMember="1" transform="translate(329.528,-233.858)">
 			<title>Dynamisk kobling.39</title>
-			<path d="M0 588.19 L16.35 588.19" class="st18"/>
+			<path d="M0 588.19 L11.39 588.19" class="st18"/>
 		</g>
-		<g id="shape40-210" v:mID="40" v:groupContext="shape" transform="translate(277.795,-299.126)">
+		<g id="shape40-212" v:mID="40" v:groupContext="shape" transform="translate(277.795,-296.22)">
 			<title>Rektangel.40</title>
 			<desc>McBergbys 3 Forms</desc>
 			<v:userDefs>
@@ -794,14 +795,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow40-211" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow40-213" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 3 <v:newlineChar/><tspan
 						x="19.97" dy="1.2em" class="st13">Forms</tspan></text>		</g>
-		<g id="shape41-217" v:mID="41" v:groupContext="shape" transform="translate(360,-299.126)">
+		<g id="shape41-219" v:mID="41" v:groupContext="shape" transform="translate(360,-296.22)">
 			<title>Rektangel.41</title>
 			<desc>McBergbys 4 Sidedesign</desc>
 			<v:userDefs>
@@ -809,14 +810,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow41-218" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow41-220" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 4 <v:newlineChar/><tspan
 						x="10.84" dy="1.2em" class="st13">Sidedesign</tspan></text>		</g>
-		<g id="shape42-224" v:mID="42" v:groupContext="shape" transform="translate(443.622,-299.126)">
+		<g id="shape42-226" v:mID="42" v:groupContext="shape" transform="translate(443.622,-296.22)">
 			<title>Rektangel.42</title>
 			<desc>McBergbys 5 UU/WCAG</desc>
 			<v:userDefs>
@@ -824,14 +825,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow42-225" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow42-227" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 5 <v:newlineChar/><tspan
 						x="11.09" dy="1.2em" class="st13">UU</tspan>/WCAG</text>		</g>
-		<g id="shape43-231" v:mID="43" v:groupContext="shape" transform="translate(403.937,-219.685)">
+		<g id="shape43-233" v:mID="43" v:groupContext="shape" transform="translate(403.937,-219.685)">
 			<title>Rektangel.43</title>
 			<desc>McBergbys 6 HTML video</desc>
 			<v:userDefs>
@@ -839,30 +840,30 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow43-232" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow43-234" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 6 <v:newlineChar/><tspan
 						x="8.38" dy="1.2em" class="st13">HTML video</tspan></text>		</g>
-		<g id="shape44-238" v:mID="44" v:groupContext="shape" v:layerMember="1" transform="translate(257.953,-313.299)">
+		<g id="shape44-240" v:mID="44" v:groupContext="shape" v:layerMember="1" transform="translate(257.953,-310.394)">
 			<title>Dynamisk kobling.44</title>
 			<path d="M0 588.19 L12.8 588.19" class="st18"/>
 		</g>
-		<g id="shape45-243" v:mID="45" v:groupContext="shape" v:layerMember="1" transform="translate(342.992,-313.299)">
+		<g id="shape45-245" v:mID="45" v:groupContext="shape" v:layerMember="1" transform="translate(342.992,-310.394)">
 			<title>Dynamisk kobling.45</title>
 			<path d="M0 588.19 L9.97 588.19" class="st18"/>
 		</g>
-		<g id="shape46-248" v:mID="46" v:groupContext="shape" v:layerMember="1" transform="translate(425.197,-313.299)">
+		<g id="shape46-250" v:mID="46" v:groupContext="shape" v:layerMember="1" transform="translate(425.197,-310.394)">
 			<title>Dynamisk kobling.46</title>
 			<path d="M0 588.19 L11.39 588.19" class="st18"/>
 		</g>
-		<g id="shape47-253" v:mID="47" v:groupContext="shape" v:layerMember="1" transform="translate(476.22,-299.126)">
+		<g id="shape47-255" v:mID="47" v:groupContext="shape" v:layerMember="1" transform="translate(476.22,-296.22)">
 			<title>Dynamisk kobling.47</title>
-			<path d="M0 595.28 L0 605.91 L-39.69 605.91 L-39.69 625.16" class="st18"/>
+			<path d="M0 595.28 L0 605.91 L-39.69 605.91 L-39.69 622.25" class="st18"/>
 		</g>
-		<g id="shape48-258" v:mID="48" v:groupContext="shape" transform="translate(487.559,-219.685)">
+		<g id="shape48-260" v:mID="48" v:groupContext="shape" transform="translate(487.559,-219.685)">
 			<title>Rektangel.48</title>
 			<desc>McBergbys 7 HTML Box Model</desc>
 			<v:userDefs>
@@ -870,14 +871,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow48-259" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow48-261" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 7 <v:newlineChar/><tspan
 						x="12.02" dy="1.2em" class="st13">HTML Box </tspan><tspan x="19.42" dy="1.2em" class="st13">Model</tspan></text>		</g>
-		<g id="shape49-266" v:mID="49" v:groupContext="shape" transform="translate(572.598,-219.685)">
+		<g id="shape49-268" v:mID="49" v:groupContext="shape" transform="translate(572.598,-219.685)">
 			<title>Rektangel.49</title>
 			<desc>McBergbys 8 Navigasjons-meny</desc>
 			<v:userDefs>
@@ -885,60 +886,60 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow49-267" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow49-269" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
 			<text x="6.39" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 8 <v:newlineChar/><tspan
 						x="6.92" dy="1.2em" class="st13">Navigasjons</tspan>-<tspan x="21.23" dy="1.2em" class="st13">meny</tspan></text>		</g>
-		<g id="shape50-274" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(469.134,-233.858)">
+		<g id="shape50-276" v:mID="50" v:groupContext="shape" v:layerMember="1" transform="translate(469.134,-233.858)">
 			<title>Dynamisk kobling.50</title>
 			<path d="M0 588.19 L11.39 588.19" class="st18"/>
 		</g>
-		<g id="shape51-279" v:mID="51" v:groupContext="shape" v:layerMember="1" transform="translate(552.756,-233.858)">
+		<g id="shape51-281" v:mID="51" v:groupContext="shape" v:layerMember="1" transform="translate(552.756,-233.858)">
 			<title>Dynamisk kobling.51</title>
 			<path d="M0 588.19 L12.8 588.19" class="st18"/>
 		</g>
-		<g id="shape52-284" v:mID="52" v:groupContext="shape" transform="translate(538.583,-299.126)">
+		<g id="shape52-286" v:mID="52" v:groupContext="shape" transform="translate(538.583,-296.22)">
 			<title>Rektangel.52</title>
-			<desc>McBergbys 9 Opphavsrett og deling</desc>
+			<desc>McBergbys 9 Personvern</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow52-285" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow52-287" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
-			<text x="6.39" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 9 <v:newlineChar/><tspan
-						x="7.22" dy="1.2em" class="st13">Opphavsrett </tspan><tspan x="14.09" dy="1.2em" class="st13">og deling</tspan></text>		</g>
-		<g id="shape53-292" v:mID="53" v:groupContext="shape" transform="translate(623.622,-299.126)">
+			<text x="6.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 9 <v:newlineChar/><tspan
+						x="9.45" dy="1.2em" class="st13">Personvern</tspan></text>		</g>
+		<g id="shape53-293" v:mID="53" v:groupContext="shape" transform="translate(622.13,-296.22)">
 			<title>Rektangel.53</title>
-			<desc>McBergbys 10 Personvern</desc>
+			<desc>McBergbys 10 Opphavsrett og deling</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow53-293" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<v:textRect cx="35.4331" cy="574.016" width="70.87" height="42.5197"/>
+			<g id="shadow53-294" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
-				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
+				<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st10"/>
 			</g>
-			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st11"/>
-			<text x="10.06" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys <tspan
-						x="27.53" dy="1.2em" class="st13">10 <v:newlineChar/></tspan><tspan x="9.45" dy="1.2em" class="st13">Personvern</tspan></text>		</g>
-		<g id="shape54-300" v:mID="54" v:groupContext="shape" v:layerMember="1" transform="translate(605.197,-262.205)">
+			<rect x="0" y="552.756" width="70.8661" height="42.5197" class="st11"/>
+			<text x="6.7" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 10 <v:newlineChar/><tspan
+						x="10.05" dy="1.2em" class="st13">Opphavsrett </tspan><tspan x="16.92" dy="1.2em" class="st13">og deling</tspan></text>		</g>
+		<g id="shape54-301" v:mID="54" v:groupContext="shape" v:layerMember="1" transform="translate(605.197,-262.205)">
 			<title>Dynamisk kobling.54</title>
-			<path d="M0 595.28 L0 584.65 L-34.02 584.65 L-34.02 565.39" class="st18"/>
+			<path d="M0 595.28 L0 584.65 L-34.02 584.65 L-34.02 568.3" class="st18"/>
 		</g>
-		<g id="shape55-305" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(603.78,-313.299)">
+		<g id="shape55-306" v:mID="55" v:groupContext="shape" v:layerMember="1" transform="translate(603.78,-310.394)">
 			<title>Dynamisk kobling.55</title>
-			<path d="M0 588.19 L12.8 588.19" class="st18"/>
+			<path d="M0 588.19 L11.31 588.19" class="st18"/>
 		</g>
-		<g id="shape56-310" v:mID="56" v:groupContext="shape" transform="translate(359.291,-478.754)">
+		<g id="shape56-311" v:mID="56" v:groupContext="shape" transform="translate(319.998,-478.754)">
 			<title>Rektangel.56</title>
 			<desc>Muligheter, konsekvenser, trusler Wikileaks</desc>
 			<v:userDefs>
@@ -946,7 +947,7 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="49.6063" cy="574.016" width="99.22" height="42.5197"/>
-			<g id="shadow56-311" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow56-312" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="99.2126" height="42.5197" class="st10"/>
 			</g>
@@ -954,7 +955,7 @@
 			<text x="25.79" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Muligheter, <tspan
 						x="6.04" dy="1.2em" class="st13">konsekvenser</tspan>, trusler<v:newlineChar/><tspan x="30.33" dy="1.2em"
 						class="st13">Wikileaks</tspan></text>		</g>
-		<g id="shape57-318" v:mID="57" v:groupContext="shape" transform="translate(474.094,-478.754)">
+		<g id="shape57-319" v:mID="57" v:groupContext="shape" transform="translate(599.844,-478.754)">
 			<title>Rektangel.57</title>
 			<desc>Muligheter, konsekvenser, trusler Aaron Swartz</desc>
 			<v:userDefs>
@@ -962,7 +963,7 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="49.6063" cy="574.016" width="99.22" height="42.5197"/>
-			<g id="shadow57-319" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow57-320" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="99.2126" height="42.5197" class="st10"/>
 			</g>
@@ -970,7 +971,7 @@
 			<text x="25.79" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Muligheter, <tspan
 						x="6.04" dy="1.2em" class="st13">konsekvenser</tspan>, trusler<v:newlineChar/><tspan x="22.52" dy="1.2em"
 						class="st13">Aaron Swartz</tspan></text>		</g>
-		<g id="shape59-326" v:mID="59" v:groupContext="shape" transform="translate(588.898,-478.754)">
+		<g id="shape59-327" v:mID="59" v:groupContext="shape" transform="translate(714.647,-478.754)">
 			<title>Rektangel.59</title>
 			<desc>Muligheter, konsekvenser, trusler Pirate Bay</desc>
 			<v:userDefs>
@@ -978,7 +979,7 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="49.6063" cy="574.016" width="99.22" height="42.5197"/>
-			<g id="shadow59-327" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow59-328" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="99.2126" height="42.5197" class="st10"/>
 			</g>
@@ -986,7 +987,7 @@
 			<text x="25.79" y="565.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Muligheter, <tspan
 						x="6.04" dy="1.2em" class="st13">konsekvenser</tspan>, trusler<v:newlineChar/><tspan x="29.07" dy="1.2em"
 						class="st13">Pirate Bay</tspan></text>		</g>
-		<g id="shape62-334" v:mID="62" v:groupContext="shape" transform="translate(463.465,-396.85)">
+		<g id="shape62-335" v:mID="62" v:groupContext="shape" transform="translate(616.943,-396.85)">
 			<title>Rektangel.62</title>
 			<desc>Opphavsrett og deling</desc>
 			<v:userDefs>
@@ -994,14 +995,14 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow62-335" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow62-336" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="7.22" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Opphavsrett <tspan
 						x="14.09" dy="1.2em" class="st13">og deling</tspan></text>		</g>
-		<g id="shape63-341" v:mID="63" v:groupContext="shape" transform="translate(550.63,-396.85)">
+		<g id="shape63-342" v:mID="63" v:groupContext="shape" transform="translate(511.97,-396.85)">
 			<title>Rektangel.63</title>
 			<desc>Personvern</desc>
 			<v:userDefs>
@@ -1009,13 +1010,13 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow63-342" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow63-343" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="9.45" y="577.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Personvern</text>		</g>
-		<g id="shape64-347" v:mID="64" v:groupContext="shape" transform="translate(376.299,-396.85)">
+		<g id="shape64-348" v:mID="64" v:groupContext="shape" transform="translate(402.52,-396.85)">
 			<title>Rektangel.64</title>
 			<desc>Universell utforming</desc>
 			<v:userDefs>
@@ -1023,38 +1024,39 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow64-348" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow64-349" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="12.39" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Universell <tspan
 						x="12.27" dy="1.2em" class="st13">utforming</tspan></text>		</g>
-		<g id="shape65-354" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(408.898,-396.85)">
+		<g id="shape65-355" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(435.118,-396.85)">
 			<title>Dynamisk kobling.65</title>
-			<path d="M0 595.28 L0 605.2 L67.32 605.2 L67.32 643.44" class="st18"/>
+			<path d="M0 595.28 L0 605.2 L41.1 605.2 L41.1 646.35" class="st18"/>
 		</g>
-		<g id="shape66-359" v:mID="66" v:groupContext="shape" v:layerMember="1" transform="translate(496.063,-396.85)">
+		<g id="shape66-360" v:mID="66" v:groupContext="shape" v:layerMember="1" transform="translate(646.465,-396.85)">
 			<title>Dynamisk kobling.66</title>
-			<path d="M0 595.28 L0 606.61 L75.12 606.61 L75.12 643.44" class="st18"/>
+			<path d="M3.08 595.28 L3.08 605.91 L11.1 605.91 L11.1 646.35" class="st18"/>
 		</g>
-		<g id="shape67-364" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(583.228,-396.85)">
+		<g id="shape67-365" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(544.569,-396.85)">
 			<title>Dynamisk kobling.67</title>
-			<path d="M0 595.28 L0 609.45 L72.99 609.45 L72.99 643.44" class="st18"/>
+			<path d="M0 595.28 L0 604.6 L26.61 604.6 L26.61 646.35" class="st18"/>
 		</g>
-		<g id="shape68-369" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(253.701,-500.014)">
+		<g id="shape68-370" v:mID="68" v:groupContext="shape" v:layerMember="1" transform="translate(253.701,-460.63)">
 			<title>Dynamisk kobling.68</title>
-			<path d="M0 595.28 L35.43 595.28 L35.43 644.01 L386.93 644.01 L386.93 704.11 L500.31 704.11 L500.31 746.6" class="st18"/>
+			<path d="M0 595.28 L288.51 595.28 A2.3622 2.3622 0 0 1 293.23 595.28 L477.58 595.28 L477.58 664.72 L500.31 664.72 L500.31
+						 710.13" class="st18"/>
 		</g>
-		<g id="shape69-374" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(688.819,-313.299)">
+		<g id="shape69-375" v:mID="69" v:groupContext="shape" v:layerMember="1" transform="translate(692.996,-310.394)">
 			<title>Dynamisk kobling.69</title>
-			<path d="M0 588.19 L25.56 588.19" class="st18"/>
+			<path d="M0 588.19 L21.38 588.19" class="st18"/>
 		</g>
-		<g id="shape70-379" v:mID="70" v:groupContext="shape" v:layerMember="1" transform="translate(637.795,-240.945)">
+		<g id="shape70-380" v:mID="70" v:groupContext="shape" v:layerMember="1" transform="translate(637.795,-240.945)">
 			<title>Dynamisk kobling.70</title>
-			<path d="M0 595.28 L10.63 595.28 L10.63 566.93 L116.22 566.93 L116.22 544.13" class="st18"/>
+			<path d="M0 595.28 L42.52 595.28 L42.52 566.93 L116.22 566.93 L116.22 547.04" class="st18"/>
 		</g>
-		<g id="shape76-384" v:mID="76" v:groupContext="shape" transform="translate(721.417,-208.524)">
+		<g id="shape76-385" v:mID="76" v:groupContext="shape" transform="translate(721.417,-208.524)">
 			<title>Rektangel.76</title>
 			<desc>Termin-vurdering</desc>
 			<v:userDefs>
@@ -1062,18 +1064,18 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="579.065" width="65.2" height="32.4213"/>
-			<g id="shadow76-385" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow76-386" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="562.854" width="65.1969" height="32.4213" class="st10"/>
 			</g>
 			<rect x="0" y="562.854" width="65.1969" height="32.4213" class="st17"/>
 			<text x="16.63" y="576.07" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Termin-<tspan
 						x="12.98" dy="1.2em" class="st13">vurdering</tspan></text>		</g>
-		<g id="shape77-391" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(779.528,-320.386)">
+		<g id="shape77-392" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(779.528,-317.48)">
 			<title>Dynamisk kobling.77</title>
-			<path d="M7.09 595.28 L27.21 595.28 L27.21 690.93 L14.13 690.93" class="st18"/>
+			<path d="M7.09 595.28 L27.21 595.28 L27.21 688.02 L14.13 688.02" class="st18"/>
 		</g>
-		<g id="shape78-396" v:mID="78" v:groupContext="shape" transform="translate(666.142,-408.189)">
+		<g id="shape78-397" v:mID="78" v:groupContext="shape" transform="translate(432.992,-478.754)">
 			<title>Rektangel.78</title>
 			<desc>Etikk</desc>
 			<v:userDefs>
@@ -1081,13 +1083,13 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow78-397" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow78-398" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="22.79" y="577.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Etikk</text>		</g>
-		<g id="shape79-402" v:mID="79" v:groupContext="shape" transform="translate(742.677,-408.189)">
+		<g id="shape79-403" v:mID="79" v:groupContext="shape" transform="translate(511.97,-478.754)">
 			<title>Rektangel.79</title>
 			<desc>Risiko-vurdering</desc>
 			<v:userDefs>
@@ -1095,36 +1097,76 @@
 			</v:userDefs>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="32.5984" cy="574.016" width="65.2" height="42.5197"/>
-			<g id="shadow79-403" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+			<g id="shadow79-404" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
 					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
 				<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st10"/>
 			</g>
 			<rect x="0" y="552.756" width="65.1969" height="42.5197" class="st16"/>
 			<text x="19.19" y="571.02" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Risiko-<tspan
 						x="12.98" dy="1.2em" class="st13">vurdering</tspan></text>		</g>
-		<g id="shape80-409" v:mID="80" v:groupContext="shape" v:layerMember="1" transform="translate(408.898,-478.754)">
+		<g id="shape80-410" v:mID="80" v:groupContext="shape" v:layerMember="1" transform="translate(419.015,-492.927)">
 			<title>Dynamisk kobling.80</title>
-			<path d="M0 595.28 L0 605.91 L289.84 605.91 L289.84 616.28" class="st18"/>
+			<path d="M0.2 588.19 L6.94 588.19" class="st18"/>
 		</g>
-		<g id="shape81-414" v:mID="81" v:groupContext="shape" v:layerMember="1" transform="translate(523.701,-478.754)">
-			<title>Dynamisk kobling.81</title>
-			<path d="M0 595.28 L0 605.91 L175.04 605.91 L175.04 616.28" class="st18"/>
+		<g id="shape1000-415" v:mID="1000" v:groupContext="shape" transform="translate(28.3465,-245.374)">
+			<title>Rektangel.1000</title>
+			<desc>Vurdering</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.2835" cy="579.065" width="54.57" height="32.4213"/>
+			<g id="shadow1000-416" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="562.854" width="54.5669" height="32.4213" class="st10"/>
+			</g>
+			<rect x="0" y="562.854" width="54.5669" height="32.4213" class="st17"/>
+			<text x="7.09" y="582.07" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Vurdering</text>		</g>
+		<g id="shape1001-421" v:mID="1001" v:groupContext="shape" v:layerMember="1" transform="translate(48.3661,-296.22)">
+			<title>Dynamisk kobling.1001</title>
+			<path d="M6.91 595.28 L6.91 605.91 L7.26 605.91 L7.26 606.66" class="st18"/>
 		</g>
-		<g id="shape82-419" v:mID="82" v:groupContext="shape" v:layerMember="1" transform="translate(638.504,-478.754)">
-			<title>Dynamisk kobling.82</title>
-			<path d="M0 595.28 L0 605.91 L60.24 605.91 L60.24 616.28" class="st18"/>
+		<g id="shape1002-426" v:mID="1002" v:groupContext="shape" transform="translate(240.236,-392.066)">
+			<title>Rektangel.1002</title>
+			<desc>Prøve?</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.6142" cy="579.065" width="43.23" height="32.4213"/>
+			<g id="shadow1002-427" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st10"/>
+			</g>
+			<rect x="0" y="562.854" width="43.2283" height="32.4213" class="st17"/>
+			<text x="7.58" y="582.07" class="st12" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Prøve?</text>		</g>
+		<g id="shape1003-432" v:mID="1003" v:groupContext="shape" v:layerMember="1" transform="translate(221.102,-439.37)">
+			<title>Dynamisk kobling.1003</title>
+			<path d="M0 595.28 L0 626.37 L12.09 626.37" class="st18"/>
 		</g>
-		<g id="shape83-424" v:mID="83" v:groupContext="shape" v:layerMember="1" transform="translate(523.701,-478.754)">
-			<title>Dynamisk kobling.83</title>
-			<path d="M0 595.28 L0 605.91 L251.57 605.91 L251.57 616.28" class="st18"/>
+		<g id="shape1004-437" v:mID="1004" v:groupContext="shape" v:layerMember="1" transform="translate(497.993,-492.927)">
+			<title>Dynamisk kobling.1004</title>
+			<path d="M0.2 588.19 L6.94 588.19" class="st18"/>
 		</g>
-		<g id="shape84-429" v:mID="84" v:groupContext="shape" v:layerMember="1" transform="translate(698.74,-408.189)">
-			<title>Dynamisk kobling.84</title>
-			<path d="M0 595.28 L0 612.28 L55.28 612.28 L55.28 654.78" class="st18"/>
+		<g id="shape1005-442" v:mID="1005" v:groupContext="shape" v:layerMember="1" transform="translate(577.167,-492.927)">
+			<title>Dynamisk kobling.1005</title>
+			<path d="M0 588.19 L15.64 588.19" class="st18"/>
 		</g>
-		<g id="shape85-434" v:mID="85" v:groupContext="shape" v:layerMember="1" transform="translate(775.276,-408.189)">
-			<title>Dynamisk kobling.85</title>
-			<path d="M0 595.28 L0 611.72 L-21.26 611.72 L-21.26 654.78" class="st18"/>
+		<g id="shape1006-447" v:mID="1006" v:groupContext="shape" v:layerMember="1" transform="translate(699.057,-492.927)">
+			<title>Dynamisk kobling.1006</title>
+			<path d="M0 588.19 L8.55 588.19" class="st18"/>
+		</g>
+		<g id="shape1007-452" v:mID="1007" v:groupContext="shape" v:layerMember="1" transform="translate(766.221,-478.754)">
+			<title>Dynamisk kobling.1007</title>
+			<path d="M-1.97 595.28 L-1.97 620.49 L-12.21 620.49 L-12.21 728.25" class="st18"/>
+		</g>
+		<g id="shape1008-457" v:mID="1008" v:groupContext="shape" v:layerMember="1" transform="translate(656.582,-439.37)">
+			<title>Dynamisk kobling.1008</title>
+			<path d="M-7.04 595.28 L-7.04 571.75 L-7.13 571.75 L-7.13 562.93" class="st18"/>
+		</g>
+		<g id="shape1009-462" v:mID="1009" v:groupContext="shape" v:layerMember="1" transform="translate(537.482,-478.754)">
+			<title>Dynamisk kobling.1009</title>
+			<path d="M7.09 595.28 L7.09 627.62" class="st18"/>
 		</g>
 	</g>
 </svg>
