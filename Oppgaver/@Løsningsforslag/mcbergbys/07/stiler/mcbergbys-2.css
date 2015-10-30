@@ -1,0 +1,89 @@
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+body {
+    background-color: #2B1A01;
+    color: #FCDAA9;
+    font: 14px/20px "Poiret One", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: yellow;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 24px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+h3 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+iframe {
+	border: 0;
+}
+
+img.float-left {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+img.float-right {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+img.center {
+    margin: 0 auto;
+    display: block;
+}
+
+#kartboks {
+	width: 250px;
+	float: right;
+	background-color: #FCDAA9;
+	color: black;
+	font-weight: bold;
+	border-style: solid;
+	border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-left: 20px;
+	text-align: center;
+}
+
+#garantiboks {
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	color: black;
+	background-color: silver;
+}
+
+
+.text-left 	  { text-align: left; }
+.text-center  { text-align: center; }
+.text-right   { text-align: right; }
+.text-justify { text-align: justify; }
+
+.kildeinfo {
+	font-size: 80%;
+}
