@@ -6,6 +6,10 @@ body {
     font: 14px/20px "Poiret One", Helvetica, Arial, sans-serif;
 }
 
+.hoved {
+	margin: 1em;
+}
+
 a {
     color: white;
     text-decoration: none;
