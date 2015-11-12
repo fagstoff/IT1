@@ -11,11 +11,11 @@ body {
 }
 
 a {
-    color: white;
+    color: maroon;
     text-decoration: none;
 }
 a:hover, a:focus {
-    color: yellow;
+    color: silver;
     text-decoration: underline;
 }
 a:active {
