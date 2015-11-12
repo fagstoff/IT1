@@ -67,30 +67,6 @@ img.center {
     margin-top: 1em;
 }
 
-#kartboks {
-	width: 250px;
-	float: right;
-	background-color: #FCDAA9;
-	color: black;
-	font-weight: bold;
-	border-style: solid;
-	border-radius: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	margin-left: 20px;
-	text-align: center;
-}
-
-#garantiboks {
-	float: left;
-	margin: 20px;
-	padding: 20px;
-	color: black;
-	background-color: silver;
-}
-
-
 .text-left 	  { text-align: left; }
 .text-center  { text-align: center; }
 .text-right   { text-align: right; }
@@ -100,51 +76,7 @@ img.center {
 	font-size: 80%;
 }
 
-footer {
-    background-color: #333;
-    margin-left: 0;
-    margin-right: 0;
-	margin-top: 1em;
-	text-align: center;
-	font-size: x-small;
-}
-
 #logo {
     font: 20px "Poiret One", Helvetica, Arial, sans-serif;
     color: #FFFFFF;
-}
-
-nav {
-    background-color: #333;
-    margin: 0;
-    overflow: hidden;
-}
-
-/* 
-Kilde for kode til navigasjonsmeny: http://www.webcodegeeks.com/html5/html5-navigation-bar-example/ 
-*/
-
-nav ul{
-    margin: 0;
-    padding: 0;
-}
-nav ul li {
-    /* This allow us to arrange list items in a row, without using float */
-    display: inline-block;
-    list-style-type: none;
-}
-
-/* Create a style for the first level items */
-nav > ul > li > a {
-    color: white;
-    background-color: #333;
-    display: block;
-    line-height: 2em;
-    padding: 0.5em 0.5em;
-    text-decoration: none;
-}
-
-#aktiv {
-	background-color: #FCDAA9;
-	color: black;
 }
