@@ -37,6 +37,10 @@ h2 {
 h3 {
     font-size: 1.5em;
 }
+h4 {
+    font-size: 1em;
+    margin-bottom: 0em;
+}
 
 p {
     margin-bottom: 20px;
@@ -57,6 +61,10 @@ img.float-right {
 img.center {
     margin: 0 auto;
     display: block;
+}
+
+#skjemaknapper {
+    margin-top: 1em;
 }
 
 #kartboks {
@@ -90,4 +98,53 @@ img.center {
 
 .kildeinfo {
 	font-size: 80%;
+}
+
+footer {
+    background-color: #333;
+    margin-left: 0;
+    margin-right: 0;
+	margin-top: 1em;
+	text-align: center;
+	font-size: x-small;
+}
+
+#logo {
+    font: 20px "Poiret One", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+}
+
+nav {
+    background-color: #333;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* 
+Kilde for kode til navigasjonsmeny: http://www.webcodegeeks.com/html5/html5-navigation-bar-example/ 
+*/
+
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    /* This allow us to arrange list items in a row, without using float */
+    display: inline-block;
+    list-style-type: none;
+}
+
+/* Create a style for the first level items */
+nav > ul > li > a {
+    color: white;
+    background-color: #333;
+    display: block;
+    line-height: 2em;
+    padding: 0.5em 0.5em;
+    text-decoration: none;
+}
+
+#aktiv {
+	background-color: #FCDAA9;
+	color: black;
 }
