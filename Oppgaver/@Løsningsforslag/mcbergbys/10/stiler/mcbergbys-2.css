@@ -50,17 +50,29 @@ iframe {
 	border: 0;
 }
 
+/* Klasse for bilder som du ønsker at skal flyte til venstre */
 img.float-left {
     float: left;
     margin: 0 20px 20px 0;
+    /* De to neste linjene sørger for at bilder aldri
+     * blir bredere enn skjermen.
+     */
+    max-width: 100%;
+    height: auto;
 }
+/* Klasse for bilder som du ønsker at skal flyte til høyre */
 img.float-right {
     float: right;
     margin: 0 0 20px 20px;
+    max-width: 100%;
+    height: auto;
 }
+/* Klasse for bilder som du ønsker å midtjustere */
 img.center {
     margin: 0 auto;
     display: block;
+    max-width: 100%;
+    height: auto;
 }
 
 #skjemaknapper {
