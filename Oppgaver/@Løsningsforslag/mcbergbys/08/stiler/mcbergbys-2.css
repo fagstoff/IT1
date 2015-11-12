@@ -153,4 +153,5 @@ nav > ul > li > a {
 #aktiv {
 	background-color: #FCDAA9;
 	color: black;
+    border-top: solid 6px #333;
 }
