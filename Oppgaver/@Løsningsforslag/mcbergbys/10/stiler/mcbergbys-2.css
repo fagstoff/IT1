@@ -118,6 +118,7 @@ nav {
     background-color: #333;
     margin: 0;
     overflow: hidden;
+    border: none;
 }
 
 /* 
@@ -128,6 +129,11 @@ nav ul{
     margin: 0;
     padding: 0;
 }
+nav a:hover {
+    background-color: #999999;
+    color: #000000;
+}
+
 nav ul li {
     /* This allow us to arrange list items in a row, without using float */
     display: inline-block;
