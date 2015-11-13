@@ -29,7 +29,8 @@ body {
  * navigasjon og footer) står.
  */
 .hoved {
-	margin: 1em;
+	margin-left: 12.5%;
+    width: 75%
 }
 
 /*
