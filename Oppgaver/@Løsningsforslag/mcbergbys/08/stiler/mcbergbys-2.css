@@ -1,15 +1,41 @@
+/*
+ * Denne CSS-fila er laget av bitjungle <skole@bitjungle.com>
+ * for bruk i faget IT1 på videregående skole.
+ * Fila har lisensen https://www.apache.org/licenses/LICENSE-2.0
+ */
+
+/*
+ * I denne løsninga bruker jeg web fonts, se
+ * http://www.w3schools.com/css/css3_fonts.asp
+ * for mer informasjon. Du kan finne fonter på
+ * https://www.google.com/fonts#
+ */
 @import url(http://fonts.googleapis.com/css?family=Poiret+One);
 
+/*
+ * Setter standard forgrunns- og bakgrunnsfarge
+ * samt font for hele HTML-fila, dette kan jeg
+ * overstyre i selektorer senere.
+ */
 body {
     background-color: #FCDAA9;
     color: #000000;
     font-family:  sans-serif;
 }
 
+/*
+ * I alle HTML-filene har jeg satt inn en <div> med
+ * klasse "hoved" hvor hovedinnholdet (alt unntatt
+ * navigasjon og footer) står.
+ */
 .hoved {
 	margin: 1em;
 }
 
+/*
+ * Her styler jeg alle lenkene i HTML-fila.
+ *
+ */
 a {
     color: maroon;
     text-decoration: none;
@@ -22,10 +48,16 @@ a:active {
     color: yellow;
 }
 
+/*
+ * Ønsker en spesiell font på alle overskrifter.
+ */
 h1, h2, h3, h4 {
     font-family: "Poiret One", Helvetica, Arial, sans-serif;
 }
 
+/*
+ * Setter fontstørrelse og marginer for overskriftene.
+ */
 h1 {
     font-size: 3em;
     line-height: 1em;
@@ -35,21 +67,32 @@ h2 {
     font-size: 2em;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 h4 {
-    font-size: 1em;
+    font-size: 1.2em;
     margin-bottom: 0em;
 }
 
+/*
+ * Setter ønsket avstand mellom avsnitt i teksten.
+ */
 p {
-    margin-bottom: 20px;
+    margin-bottom: 1em;
 }
 
+/*
+ * Jeg vil ikke ha noe ramme rundt innhold som er 
+ * satt inn med iframe.
+ */
 iframe {
 	border: 0;
 }
 
+/*
+ * Her definerer jeg tre klasser for justering
+ * av bilder, venstre - midt - høyre.
+ */
 img.float-left {
     float: left;
     margin: 0 20px 20px 0;
