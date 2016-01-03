@@ -1,0 +1,23 @@
+- title: Databaser
+  docs:
+  - Start
+  - fagstoff/Databaser/01-Hva_er_en_database
+  - fagstoff/Databaser/02. SQL
+  - fagstoff/Databaser/03. Design av databaser
+
+- title: Oppgaver
+  docs:
+  - Start
+  - oppgaver/eksempel-1
+  - oppgaver/eksempel-2
+
+- title: Nyttige verktøy
+  docs:
+  - Start
+  - verktoy/eksempel-1
+  - verktoy/eksempel-2
+
+- title: Meta
+  docs:
+  - contributing
+  - history

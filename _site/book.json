@@ -1,0 +1,20 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": [""],
+    "title": "IT1",
+    "author": "Rune Mathisen",
+    "description": "Et læreverk for IT1",
+    
+    "language": "no",
+    "links": {
+        "sidebar": {
+            "Contact us / Support": "https://www.gitbook.com/contact"
+        }
+    },
+    "styles": {
+        "website": "css/website.css",
+        "pdf": "css/pdf.css",
+        "epub": "css/epub.css"
+    }, 
+    "pluginsConfig": {}
+}
