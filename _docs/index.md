@@ -13,11 +13,11 @@ I fag- og oppgavetekstene finner du mange små men nyttige informasjonsbiter som
 
 Programkode skrives slik:
 
-```SQL
+``` sql
 SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
 ```
 
-```HTML
+``` html
 <html>
   <head>
     <title>Hallo verden</title>
@@ -28,14 +28,14 @@ SELECT * FROM Lagerbeholdning WHERE Beholdning < 100;
 </html>
 ```
 
-```JS
+``` js
 var hallo = function() {
   //Dette er en kommentar
   return "Hallo verden!";
 }
 ```
 
-```PHP
+``` php
 <?php
 /* Dette er en kommentar */
 echo 'Hallo verden!';

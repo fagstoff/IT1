@@ -996,3 +996,21 @@ code.output {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+
+/* Auto-generated TOC in HTML-files
+*/
+#markdown-toc {
+  background-color: #333;
+  list-style-type: square;
+  list-style-position: inside;
+  @include border-radius(5px);
+  @include box-shadow(inset 0 1px 10px rgba(0,0,0,.3),
+    0 1px 0 rgba(255,255,255,.1),
+    0 -1px 0 rgba(0,0,0,.5));
+}
+
+#markdown-toc:before {
+  content: 'Innhold';
+  font-weight: bold;
+  line-height: 2em;
+}

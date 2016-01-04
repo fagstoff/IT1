@@ -1,9 +1,10 @@
 - title: Databaser
   docs:
   - Start
-  - fagstoff/Databaser/01-Hva_er_en_database
-  - fagstoff/Databaser/02. SQL
-  - fagstoff/Databaser/03. Design av databaser
+  - Databaser/01. Hva er en database
+  - Databaser/02. SQL
+  - Databaser/03. Design av databaser
+  - Databaser/04. PHP
 
 - title: Oppgaver
   docs:

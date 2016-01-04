@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
   <meta charset="UTF-8">
-  <title>Hva er en database?</title>
+  <title>Design av databaser</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="generator" content="Jekyll v3.0.1">
   <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="IT1 • Læremidler for informasjonsteknologifaget" />
@@ -107,23 +107,7 @@
 
   
     
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-
-  
+      <option value="/docs/Databaser/01. Hva er en database/">Hva er en database?</option>
     
   
     
@@ -145,9 +129,51 @@
     
   
     
+      <option value="/docs/Databaser/02. SQL/">SQL</option>
+    
   
     
   
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+    
+      <option value="/docs/Databaser/03. Design av databaser/">Design av databaser</option>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+      <option value="/docs/Databaser/04. PHP/">PHP</option>
     
   
     
@@ -336,192 +362,39 @@
       <div class="unit four-fifths">
         <article>
           <div class="improve right hide-on-mobiles">
-            <a href="https://github.com/fagstoff/IT1/blob/master//_docs/Databaser/01-Hva_er_en_database.md"><i class="fa fa-pencil"></i> &nbsp;Gjør denne siden bedre</a>
+            <a href="https://github.com/fagstoff/IT1/blob/master//_docs/Databaser/03. Design av databaser.md"><i class="fa fa-pencil"></i> &nbsp;Gjør denne siden bedre</a>
           </div>
-          <h1>Hva er en database?</h1>
-          <p><strong>En database er en organisert samling av data, for eksempel tabeller, spørringer og rapporter.</strong></p>
+          <h1>Design av databaser</h1>
+          <p><strong>Før vi begynner å lage et databasesystem må vi tenke grundig gjennom hva det er vi ønsker å oppnå. Hva er egentlig målet med systemet, og hvilke behov skal det dekke? I den innledende fasen av designprosessen er det viktig å kun ha fokus på hva systemet skal gjøre, og ikke på hvordan systemet skal gjøre det.</strong></p>
 
 <ul id="markdown-toc">
-  <li><a href="#databasesystemer" id="markdown-toc-databasesystemer">Databasesystemer</a></li>
+  <li><a href="#design-av-databaser" id="markdown-toc-design-av-databaser">Design av databaser</a></li>
+  <li><a href="#datamodell" id="markdown-toc-datamodell">Datamodell</a></li>
 </ul>
 
-<h2 id="databasesystemer">Databasesystemer</h2>
+<h2 id="design-av-databaser">Design av databaser</h2>
 
-<p>Det finnes flere ulike databasebasesystemer, men den mest brukte typen i dag er det som kalles for en relasjonsdatabase. I en relasjonsdatabase er dataene organisert i tabeller, og det kan lages relasjoner (sammenhenger) mellom tabellene i databasen.</p>
+<p>Vi begynner designprosessen med å formulere et overordnet designmål for databasesystemet vårt. Dette overordnede målet skal være veiledende under hele prosessen, sånn at vi unngår å legge til funksjoner som er “kjekt å ha” underveis. Da risikerer vi å få et prosjekt som sklir ut i omfang, og som aldri blir ferdig.</p>
 
-<p>Tenk deg for eksempel at vi har en database som holder rede på lagerbeholdning, menyer, oppskrifter og salg i en hurtigmatrestaurant. I databasen har vi fire tabeller:</p>
+<p>Vi skal lage et databasesystem for hurtigmatkjeden McBergbys, og vi starter med å formulere et overordnet designmål:</p>
 
-<p><strong>Tabell: Lagerbeholdning</strong></p>
+<blockquote>
+  <p>McBergbys skal ha et databasesystem som holder rede på lagerbeholdning av råvarer, oppskrifter, menyer med priser og registrering av salg.</p>
+</blockquote>
 
-<table>
-  <thead>
-    <tr>
-      <th>Varenavn</th>
-      <th style="text-align: right">Beholdning</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Hamburger 150 g</td>
-      <td style="text-align: right">90</td>
-    </tr>
-    <tr>
-      <td>Hamburger 200 g</td>
-      <td style="text-align: right">447</td>
-    </tr>
-    <tr>
-      <td>Tomatskiver</td>
-      <td style="text-align: right">1232</td>
-    </tr>
-    <tr>
-      <td>Sylteagurkskiver</td>
-      <td style="text-align: right">987</td>
-    </tr>
-    <tr>
-      <td>Cheddarostskiver</td>
-      <td style="text-align: right">376</td>
-    </tr>
-    <tr>
-      <td>Jarlsbergostskiver</td>
-      <td style="text-align: right">83</td>
-    </tr>
-    <tr>
-      <td>Burgerbrød</td>
-      <td style="text-align: right">1995</td>
-    </tr>
-  </tbody>
-</table>
+<p>Når vi har det overordende designmålet på plass, kan vi formulere flere målsetninger som er mer detaljerte i forhold til oppgavene som systemet skal gjøre. I denne delen av designprosessen bør brukerne delta aktivt. Brukerne er de som skal bruke systemet og kjenner behovene. Brukerne kan fortelle systemutviklerne hva systemet må kunne utføre av oppgaver for å nå det overordnede designmålet.</p>
 
-<p><strong>Tabell: Meny</strong></p>
+<p>For systemet til McBergbys kan vi for eksempel sette opp disse målsetningene:<br />
+ * Til enhver tid ha oversikt over råvarelagerbeholdningen<br />
+ * Hente frem oppskriften for en gitt meny<br />
+ * Holde rede på menyene og utsalgsprisene for disse<br />
+ * Registrere alle salg og samtidig oppdatere lagerbeholdning for råvarer</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Menynavn</th>
-      <th style="text-align: right">Pris</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Superburger</td>
-      <td style="text-align: right">89</td>
-    </tr>
-    <tr>
-      <td>Cheeseburger</td>
-      <td style="text-align: right">99</td>
-    </tr>
-    <tr>
-      <td>Veggis</td>
-      <td style="text-align: right">49</td>
-    </tr>
-  </tbody>
-</table>
+<h2 id="datamodell">Datamodell</h2>
 
-<p><strong>Tabell: Oppskrift</strong></p>
+<p><strong>Nå har vi det overordnede målet på plass, og vi har planlagt hvilke oppgaver databasen vår skal løse. Da er tiden inne for å lage en datamodell. Denne datamodellen er en grafisk representasjon av databasen vi skal lage.</strong></p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Menynavn</th>
-      <th>Ingrediens</th>
-      <th style="text-align: right">Antall</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Superburger</td>
-      <td>Hamburger 150</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Superburger</td>
-      <td>Tomatskiver</td>
-      <td style="text-align: right">2</td>
-    </tr>
-    <tr>
-      <td>Superburger</td>
-      <td>Sylteagurkskiver</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Superburger</td>
-      <td>Burgerbrød</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Cheeseburger</td>
-      <td>Hamburger 200 g</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Cheeseburger</td>
-      <td>Cheddarostskiver</td>
-      <td style="text-align: right">2</td>
-    </tr>
-    <tr>
-      <td>Cheeseburger</td>
-      <td>Burgerbrød</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Veggis</td>
-      <td>Tomatskiver</td>
-      <td style="text-align: right">4</td>
-    </tr>
-    <tr>
-      <td>Veggis</td>
-      <td>Jarlsbergostskiver</td>
-      <td style="text-align: right">1</td>
-    </tr>
-    <tr>
-      <td>Veggis</td>
-      <td>Burgerbrød</td>
-      <td style="text-align: right">1</td>
-    </tr>
-  </tbody>
-</table>
-
-<p><strong>Tabell: Salg</strong></p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Menynavn</th>
-      <th style="text-align: right">Antall</th>
-      <th style="text-align: right">Sum</th>
-      <th>Dato</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Superburger</td>
-      <td style="text-align: right">2</td>
-      <td style="text-align: right">178</td>
-      <td>2015-06-26 13:04</td>
-    </tr>
-    <tr>
-      <td>Veggis</td>
-      <td style="text-align: right">2</td>
-      <td style="text-align: right">98</td>
-      <td>2015-06-26 13:07</td>
-    </tr>
-    <tr>
-      <td>Superburger</td>
-      <td style="text-align: right">1</td>
-      <td style="text-align: right">89</td>
-      <td>2015-06-26 13:11</td>
-    </tr>
-    <tr>
-      <td>Cheeseburger</td>
-      <td style="text-align: right">3</td>
-      <td style="text-align: right">297</td>
-      <td>2015-06-26 13:13</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>TODO: Si noe om rader og kolonner. Antyde noe om relasjoner.</p>
-
+<p><strong>TODO: Kort om normalisering. Vise eksempler, f.eks. vise hvorfor det ikke er noen god idé å ha oppskriften som en kolonne i menytabellen.</strong></p>
 
           
 
@@ -540,31 +413,24 @@
 
   
   
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-
+    <div class="section-nav">
+      <div class="left align-right">
+          
+            
+            
+            <a href="/docs/Databaser/02. SQL/" class="prev">Back</a>
+          
+      </div>
+      <div class="right align-left">
+          
+            
+            
+            <a href="/docs/Databaser/04. PHP/" class="next">Next</a>
+          
+      </div>
+    </div>
+    <div class="clear"></div>
+    
         </article>
       </div>
 
@@ -589,7 +455,7 @@
   
 
   
-  <li class=""><a href=""></a></li>
+  <li class=""><a href="/docs/Databaser/01. Hva er en database/">Hva er en database?</a></li>
 
 
   
@@ -597,7 +463,7 @@
   
 
   
-  <li class=""><a href=""></a></li>
+  <li class=""><a href="/docs/Databaser/02. SQL/">SQL</a></li>
 
 
   
@@ -605,7 +471,15 @@
   
 
   
-  <li class=""><a href=""></a></li>
+  <li class="current"><a href="/docs/Databaser/03. Design av databaser/">Design av databaser</a></li>
+
+
+  
+
+  
+
+  
+  <li class=""><a href="/docs/Databaser/04. PHP/">PHP</a></li>
 
 
 </ul>
