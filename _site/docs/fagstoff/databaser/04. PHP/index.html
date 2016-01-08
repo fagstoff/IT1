@@ -686,31 +686,40 @@
 </code></pre>
 </div>
 
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/800px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG" alt="Rasmus Lerdorf, skaperen av PHP. Foto: William Stadtwald Demchick (CC BY-SA)" /> <br />
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rasmus_Lerdorf_August_2014_%28cropped%29.JPG/800px-Rasmus_Lerdorf_August_2014_%28cropped%29.JPG" alt="Rasmus Lerdorf, skaperen av PHP. Foto: William Stadtwald Demchick (CC BY-SA)" /> <br /><br />
 <em>Rasmus Lerdorf, skaperen av PHP. Foto: William Stadtwald Demchick (CC BY-SA)</em></p>
 
 <h2 id="variabler-i-php">Variabler i PHP</h2>
 
 <p><strong>I dataprogrammering er en variabel et lagringssted som har et symbolsk navn (en identifikator) og en verdi. Her skal vi se på ulike variabeltyper som du kan bruke i PHP.</strong></p>
 
-<p>Variabler i PHP kan være av fire ulike datatyper: <br />
- * Integer - heltall, for eksempel -4 eller 19<br />
- * Float - desimaltall, for eksempel 3.1416 (punktum brukes som desimalskilletegn)<br />
- * String - tekststrenger, for eksempel “Hallo verden!”<br />
- * Boolean - en variabel som bare kan ha to verdier (sant/usant)</p>
+<p>Variabler i PHP kan være av fire ulike datatyper:</p>
 
-<p>Variabler i PHP:<br />
- * Starter med et $-tegn<br />
- * Vi tilordner verdi med et likhetstegn: <code class="highlighter-rouge">$var = verdi</code><br />
- * Vi kan også ha sammensatte datatyper i Array eller Object, det skal vi se på senere</p>
+<ul>
+  <li>Integer - heltall, for eksempel -4 eller 19</li>
+  <li>Float - desimaltall, for eksempel 3.1416 (punktum brukes som desimalskilletegn)</li>
+  <li>String - tekststrenger, for eksempel “Hallo verden!”</li>
+  <li>Boolean - en variabel som bare kan ha to verdier (sant/usant)</li>
+</ul>
 
-<p>Aritmetiske operatorer i PHP:<br />
- * <code class="highlighter-rouge">$x + $y</code>      Addisjon<br />
- * <code class="highlighter-rouge">$x - $y</code>      Subtraksjon<br />
- * <code class="highlighter-rouge">$x * $y</code>      Multiplikasjon<br />
- * <code class="highlighter-rouge">$x / $y</code>      Divisjon<br />
- * <code class="highlighter-rouge">$x % $y</code>      Modulo-operasjon (rest etter divisjon av heltall)<br />
- * <code class="highlighter-rouge">$x ** $y</code>     Eksponent (x opphøyd i y)</p>
+<p>Variabler i PHP:</p>
+
+<ul>
+  <li>Starter med et $-tegn</li>
+  <li>Vi tilordner verdi med et likhetstegn: <code class="highlighter-rouge">$var = verdi</code></li>
+  <li>Vi kan også ha sammensatte datatyper i Array eller Object, det skal vi se på senere</li>
+</ul>
+
+<p>Aritmetiske operatorer i PHP:</p>
+
+<ul>
+  <li><code class="highlighter-rouge">$x + $y</code>      Addisjon</li>
+  <li><code class="highlighter-rouge">$x - $y</code>      Subtraksjon</li>
+  <li><code class="highlighter-rouge">$x * $y</code>      Multiplikasjon</li>
+  <li><code class="highlighter-rouge">$x / $y</code>      Divisjon</li>
+  <li><code class="highlighter-rouge">$x % $y</code>      Modulo-operasjon (rest etter divisjon av heltall)</li>
+  <li><code class="highlighter-rouge">$x ** $y</code>     Eksponent (x opphøyd i y)</li>
+</ul>
 
 <p>Vi avslutter alle linjer i PHP med et semikolon <code class="highlighter-rouge">;</code>. Koden <code class="highlighter-rouge">\n</code> betyr ny linje i utskriften fra programmet. For å skrive ut noe fra programmet vårt, bruker vi kommandoen echo.</p>
 
@@ -749,12 +758,16 @@
 <div class="highlighter-rouge"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 <span class="nv">$var</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="c1">//Vi starter med verdien 1
 </span><span class="k">echo</span> <span class="s1">'Verdien er '</span> <span class="o">.</span> <span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
-<span class="k">echo</span> <span class="s1">'Med ++ før variablen blir verdien '</span> <span class="o">.</span> <span class="o">++</span><span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span><span class="c1">//Variabelen øker med 1 før strengen evalueres
-</span><span class="k">echo</span> <span class="s1">'Med ++ etter variablen blir verdien '</span> <span class="o">.</span> <span class="nv">$var</span><span class="o">++</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span><span class="c1">//Variabelen øker med 1 etter at strengen evalueres
-</span><span class="k">echo</span> <span class="s1">'...og nå er verdien '</span> <span class="o">.</span> <span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
-<span class="k">echo</span> <span class="s1">'Med -- før variablen blir verdien '</span> <span class="o">.</span> <span class="o">--</span><span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span><span class="c1">//Variabelen minker med 1 før strengen evalueres
-</span><span class="k">echo</span> <span class="s1">'Med ++ etter variablen blir verdien '</span> <span class="o">.</span> <span class="nv">$var</span><span class="o">--</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span><span class="c1">//Variabelen minker med 1 etter at strengen evalueres
-</span><span class="k">echo</span> <span class="s1">'...og nå er verdien '</span> <span class="o">.</span> <span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="c1">//Variabelen øker med 1 før strengen evalueres
+</span><span class="k">echo</span> <span class="s1">'Med ++ før variablen blir verdien '</span> <span class="o">.</span> <span class="o">++</span><span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="c1">//Variabelen øker med 1 etter at strengen evalueres
+</span><span class="k">echo</span> <span class="s1">'Med ++ etter variablen blir verdien '</span> <span class="o">.</span> <span class="nv">$var</span><span class="o">++</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="k">echo</span> <span class="s1">'...og nå er verdien '</span> <span class="o">.</span> <span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="c1">//Variabelen minker med 1 før strengen evalueres
+</span><span class="k">echo</span> <span class="s1">'Med -- før variablen blir verdien '</span> <span class="o">.</span> <span class="o">--</span><span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="c1">//Variabelen minker med 1 etter at strengen evalueres
+</span><span class="k">echo</span> <span class="s1">'Med ++ etter variablen blir verdien '</span> <span class="o">.</span> <span class="nv">$var</span><span class="o">--</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
+<span class="k">echo</span> <span class="s1">'...og nå er verdien '</span> <span class="o">.</span> <span class="nv">$var</span> <span class="o">.</span> <span class="s2">"</span><span class="se">\n</span><span class="s2">"</span><span class="p">;</span>
 <span class="cp">?&gt;</span>
 </code></pre>
 </div>
@@ -822,11 +835,14 @@
 
 <p><strong>TODO: Skriv ingress</strong></p>
 
-<p>Resultatet av sammenlikninger i PHP blir en boolean verdi (sann/usann, true/false). De enkleste typene sammenlikninger er:<br />
- * <code class="highlighter-rouge">7 &gt; 4</code> gir TRUE     (sant at 7 er større enn 4)<br />
- * <code class="highlighter-rouge">7 &lt; 4</code> gir FALSE    (usant at 7 er ikke mindre enn 4)<br />
- * <code class="highlighter-rouge">7 == 4</code> gir FALSE    (usant at 7 er lik 4)<br />
- * <code class="highlighter-rouge">7 != 4</code> gir TRUE     (sant at 7 ikke er lik 4)</p>
+<p>Resultatet av sammenlikninger i PHP blir en boolean verdi (sann/usann, true/false). De enkleste typene sammenlikninger er:</p>
+
+<ul>
+  <li><code class="highlighter-rouge">7 &gt; 4</code> gir TRUE     (sant at 7 er større enn 4)</li>
+  <li><code class="highlighter-rouge">7 &lt; 4</code> gir FALSE    (usant at 7 er ikke mindre enn 4)</li>
+  <li><code class="highlighter-rouge">7 == 4</code> gir FALSE    (usant at 7 er lik 4)</li>
+  <li><code class="highlighter-rouge">7 != 4</code> gir TRUE     (sant at 7 ikke er lik 4)</li>
+</ul>
 
 <p>Vi kan også bruke større enn eller lik &gt;= og mindre enn eller lik &lt;=.</p>
 
