@@ -1,20 +1,28 @@
 - title: Databaser
   docs:
-  - Start
-  - Databaser/01. Hva er en database
-  - Databaser/02. SQL
-  - Databaser/03. Design av databaser
-  - Databaser/04. PHP
+  - fagstoff/databaser/01. Hva er en database
+  - fagstoff/databaser/02. SQL
+  - fagstoff/databaser/03. Design av databaser
+  - fagstoff/databaser/04. PHP
+
+- title: Digital samtid
+  docs:
+  - fagstoff/digital samtid/10. Digitalt utstyr
+  - fagstoff/digital samtid/20. Digitale signaler
+
+- title: Nettsteder og multimedier
+  docs:
+  - fagstoff/nettsteder og multimedier/10. Internettstandarder
+  - fagstoff/nettsteder og multimedier/20. HTML
+  - fagstoff/nettsteder og multimedier/30. CSS
 
 - title: Oppgaver
   docs:
-  - Start
   - oppgaver/eksempel-1
   - oppgaver/eksempel-2
 
 - title: Nyttige verktøy
   docs:
-  - Start
   - verktoy/eksempel-1
   - verktoy/eksempel-2
 
