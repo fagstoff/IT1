@@ -11,3 +11,4 @@ Oversikt over McBergbys-oppgaver
  * [Del 9 - Opphavsrett](Nettsteder og multimedier/McBergbys - del 09.md)
  * [Del 10 - Personvern](Nettsteder og multimedier/McBergbys - del 10.md)
  * [Del 11 - Motta innhold fra HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 11.md)
+ * [Del 12 - Dynamiske nettsider](Nettsteder og multimedier/McBergbys - del 12.md)
