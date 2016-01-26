@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="no">
   <head>
-    <meta name="generator"
-    content="HTML Tidy for HTML5 (experimental) for Windows https://github.com/w3c/tidy-html5/tree/c63cc39" />
     <meta charset="utf-8" />
     <title>Bestillingsmottak</title>
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
@@ -39,22 +37,23 @@
         </thead>
 		<?php 
 		foreach($_POST as $key => $value) {
-			if (!in_array($key,array("navn","tlf"))) {
-				//Vi vil bare skrive ut innholdet dersom det ikke er
-				//navn eller telefonnummer (som allerede er skrevet ut ovenfor).
-				if (is_array($value)) {
-					//Vis $value er en array må vi loope over innholdet
-					//I vårt tilfelle er det "ekstra" som kan inneholde en array
-					echo "<tr><td>".ucfirst($key).":</td><td><ul>\n";
-					foreach($value as $v) {
-							echo "<li>".ucfirst($v)."</li>\n";
-					}
-					echo "</ul></td><td>???</td></tr>\n";
-				} else {
-					//Her skriver vi ut innholdet i bestillingen
-					echo "<tr><td>".ucfirst($key).":</td><td>".ucfirst($value)."</td><td>???</td></tr>\n";
-				}
+		  //Vi vil bare skrive ut innholdet dersom det ikke er
+		  //navn eller telefonnummer (som allerede er skrevet ut ovenfor).
+		  if (!in_array($key,array("navn","tlf"))) {
+			//Dersom $value er en array må vi loope over innholdet.
+			//I vårt tilfelle er det "ekstra" i bestillingsskjemaet
+			//som kan inneholde en array.
+			if (is_array($value)) {
+			  //Funksjonen ucfirst gjør første bokstav i ordet stor
+			  echo "<tr><td>".ucfirst($key).":</td><td><ul>\n";
+			  foreach($value as $v) {
+				echo "<li>".ucfirst($v)."</li>\n";
+			  }
+			  echo "</ul></td><td>???</td></tr>\n";
+			} else { //Her skriver vi ut innholdet i bestillingen
+				echo "<tr><td>".ucfirst($key).":</td><td>".ucfirst($value)."</td><td>???</td></tr>\n";
 			}
+		  }
 		}
       ?>
       </table>
