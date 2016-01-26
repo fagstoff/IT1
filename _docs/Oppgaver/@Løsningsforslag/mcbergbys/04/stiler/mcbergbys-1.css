@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
+body {
+    background-color: yellow;
+    color: #333;
+    font: 14px/20px "Indie Flower", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #105CB6;
+    text-decoration: none;
+}
+a:hover, a:focus {
+    color: #105CB6;
+    text-decoration: underline;
+}
+a:active {
+    color: #105CB6;
+}
+
+h1 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 24px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+h3 {
+    font-size: 20px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+img.float-left {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+img.float-right {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+img.center {
+    margin: 0 auto;
+    display: block;
+}
+
+.text-left 	  { text-align: left; }
+.text-center  { text-align: center; }
+.text-right   { text-align: right; }
+.text-justify { text-align: justify; }
