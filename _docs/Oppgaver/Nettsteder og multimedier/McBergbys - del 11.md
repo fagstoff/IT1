@@ -12,7 +12,7 @@ Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssyste
 
 I mottaksfila bruker du funksjonen `print_r` for å skrive ut innholdet i variablen `$_POST`.
 
-![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-11.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-11.jpg)
 
 Ressurser
 ---------

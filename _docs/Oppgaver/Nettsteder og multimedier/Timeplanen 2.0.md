@@ -9,7 +9,7 @@ Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i b
 I versjon 2 av timeplanen skal du lage fargekoder og leke deg med rammer på tabellen. La hvert fag få egen bakgrunnsfarge, og lag tykkere ramme på tabellen. Opprett en egen CSS-fil som du plasserer i mappa `stiler`.
 
 
-![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan2.png)
+![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/img/timeplan2.png)
 
 Ressurser
 ---------

@@ -6,7 +6,7 @@ Oppgave
 -------
 Kopier de tre sidene du har laget fra før (i oppgavedelene fra 1 til 7) over i et nytt prosjekt. Ta også med alle mapper som inneholder bilder, videoer og stilark. Du skal nå lage en navigasjonsmeny som gjør at besøkende enkelt kan forflytte seg mellom dem. En mulig løsning er vist i bildet nedenfor.
 
-![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-8.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-8.jpg)
 
 Siden som inneholder bestillingsskjemaet skal hete `index.html`. Siden som forteller om McBergbys skal hete `om.html`. Siden som inneholder hamburgerskolen skal hete `hamburgerskolen.html`.
 

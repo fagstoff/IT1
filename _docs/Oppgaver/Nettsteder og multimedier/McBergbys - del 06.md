@@ -6,7 +6,7 @@ Oppgave
 -------
 Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden.
 
-![McBergbys](https://github.com/bitjungle/IT1/blob/master/Bilder/mcbergbys-6.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-6.jpg)
 
 Den første videoen på siden må du laste ned på egen PC. Plasser den i en mappe som heter `video`, og legg den inn i HTML-siden ved å bruke HTML5 `<video>`-taggen. 
 

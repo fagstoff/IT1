@@ -11,7 +11,7 @@ I versjon 3 av timeplanen skal du få infoboks og bilde til å flyte til høyre 
 Legg merke til hva som skjer med visning av nettsiden dersom du gjør nettleservinduet ditt smalt.
 
 
-![Den ferdige nettsiden](https://github.com/bitjungle/IT1/blob/master/Bilder/timeplan3.png)
+![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/img/timeplan3.png)
 
 
 Ressurser
