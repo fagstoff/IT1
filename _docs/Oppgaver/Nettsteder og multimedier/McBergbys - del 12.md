@@ -17,7 +17,7 @@ Bestillingen kommer som et `array` i variablen `$_POST`, og du må lage en løkk
 * Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Du må ha tilgang til en Web-server som kan kjøre PHP-filer.
 * Relevant fagtekst til oppgaven [finner du her](https://github.com/fagstoff/IT1/blob/master/_docs/fagstoff/databaser/04.%20PHP.md).
-* Du bør også bruke [http://www.w3schools.com/php/default.asp](PHP 5 Tutorial) fra W3Schools som oppslagsverk når du jobber.
+* Du bør også bruke [PHP 5 Tutorial](http://www.w3schools.com/php/default.asp) fra W3Schools som oppslagsverk når du jobber.
 
 ## Vurderingskriterier
 
