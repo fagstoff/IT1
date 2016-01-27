@@ -1,6 +1,6 @@
 # Gjennomfør kurset "Intro til SQL: oppgave og databehandling"
 
-Du skal gjennomføre kurset ["Intro til SQL: oppgave og databehandling"](https://nb.khanacademy.org/computing/computer-programming) på Khan Academy. Læreren gir deg en klassekode på Khan Academy, slik at han/hun kan følge progresjonen din. 
+Du skal gjennomføre kurset ["Intro til SQL: oppgave og databehandling"](https://nb.khanacademy.org/computing/computer-programming/sql) på Khan Academy. Læreren gir deg en klassekode på Khan Academy, slik at han/hun kan følge progresjonen din. 
 
 Khan Academy-kurset består av fire seksjoner. I seksjonen "Relational Queries in SQL" skal du kun gjennomføre de tre første delene (fram til og med "Challenge: Bobby's Hobbies"). Resten av denne seksjonen er valgfritt fordypningsstoff. Du bør forsøke å fullføre alle de andre seksjonene i kurset, se vurderingskriteriene nedenfor.
 
