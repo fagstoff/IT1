@@ -25,38 +25,33 @@
     </nav>
     <div class="hoved">
       <h1>Din bestilling</h1>
-      <p>Tusen takk for din bestilling <?php echo $_POST['navn']?>. Vi har registrert bestillingen din på telefonnummer 
-      <strong><?php echo $_POST['tlf']?></strong>. Vennligst oppgi dette nummeret når du henter bestillingen din. Her er en oversikt over hva du har bestilt:</p>
-      <table>
-        <thead>
-          <tr>
-            <th>Varegruppe</th>
-            <th>Varenavn</th>
-            <th>Pris</th>
-          </tr>
-        </thead>
-		<?php 
-		foreach($_POST as $key => $value) {
-		  //Vi vil bare skrive ut innholdet dersom det ikke er
-		  //navn eller telefonnummer (som allerede er skrevet ut ovenfor).
-		  if (!in_array($key,array("navn","tlf"))) {
-			//Dersom $value er en array må vi loope over innholdet.
-			//I vårt tilfelle er det "ekstra" i bestillingsskjemaet
-			//som kan inneholde en array.
-			if (is_array($value)) {
-			  //Funksjonen ucfirst gjør første bokstav i ordet stor
-			  echo "<tr><td>".ucfirst($key).":</td><td><ul>\n";
-			  foreach($value as $v) {
-				echo "<li>".ucfirst($v)."</li>\n";
-			  }
-			  echo "</ul></td><td>???</td></tr>\n";
-			} else { //Her skriver vi ut innholdet i bestillingen
-				echo "<tr><td>".ucfirst($key).":</td><td>".ucfirst($value)."</td><td>???</td></tr>\n";
-			}
-		  }
-		}
-      ?>
-      </table>
+      <p>
+	  Tusen takk for din bestilling <?php echo $_POST['navn']?>. Vi har registrert bestillingen din på telefonnummer 
+      <strong><?php echo $_POST['tlf']?></strong>. Vennligst oppgi dette nummeret når du henter bestillingen din.
+	  </p>
+	  <p>
+	  Vi ser at du bestilte en <?php echo ucfirst($_POST['burger'])?>, det er et godt valg. 
+	  <?php 
+        if ($_POST['drikke'] == 'vann') {
+          echo "Du bestilte også vann, det er veldig bra!";
+        } else {
+          echo "Du bestilte også ".ucfirst($_POST['drikke']).". Jaja. Vann hadde vært et bedre valg, men du vet vel liksom best du da.";
+        }
+	  ?>
+	  Som tilbehør bestilte du <?php echo $_POST['tilbehør']?>. Greit nok.
+	  </p>
+	  <p>
+	  <?php 
+      if(is_array($_POST['ekstra'])) {
+        echo "Vi noterte oss også at du bestilte litt ekstrautstyr til burgeren din. Her er hva vi har registrert:";
+        echo "<ul>\n";
+        foreach($_POST['ekstra'] as $e) {
+          echo "<li>".$e."</li>\n";
+        }
+        echo "</ul>\n";
+      }
+	  ?>
+	  </p>
     </div>
     <footer>
       <a href="personvern.html">Personvernerklæring</a>
