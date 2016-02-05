@@ -94,20 +94,20 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   echo "Gå tilbake til bestillingsskjemaet og rett det opp ";
   echo "(trykk på tilbakeknappen i nettleseren din).</p>";
 } else {//Dersom telefonnummeret er ok, kjøres koden nedenfor.
-  echo "<p>Tusen takk for din bestilling {$navn}.";
+  echo "<p>Tusen takk for din bestilling {$navn}. ";
   echo "Vi har registrert bestillingen din på telefonnummer "; 
   echo "<strong>{$tlf}</strong>. "; 
   echo "Vennligst oppgi dette nummeret når du henter bestillingen din.</p>\n";
   echo "<p>";//Begynner et nytt avsnitt her
   if (isset($burger)) {//Brukeren har bestilt burger
-    echo "Vi ser at du bestilte en {$burger}, det er et godt valg.";
+    echo "Vi ser at du bestilte en {$burger}, det er et godt valg. ";
   }
   if (isset($drikke)) {//Brukeren har bestilt drikke
     if ($drikke == 'vann') {//Brukeren bestilte vann
-      echo "Du bestilte vann, det er veldig bra!";
+      echo "Du bestilte vann, det er veldig bra! ";
     } else {//Brukeren bestilte noe annet enn vann
       echo "Du bestilte {$drikke}. ";
-      echo "Jaja. Vann hadde vært et bedre valg, men du vet vel liksom best du da.";
+      echo "Jaja. Vann hadde vært et bedre valg, men du vet vel liksom best du da. ";
     }
   }
   if (isset($tilbehør)) {//Brukeren har bestilt tilbehør
