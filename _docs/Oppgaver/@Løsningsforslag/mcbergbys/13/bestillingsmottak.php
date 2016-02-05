@@ -6,7 +6,11 @@
 //Noen kan finne på å skrive telefonnummeret slik: 999 88 777.
 //Vi fjerner alle mellomrom før vi sjekker om det er et gyldig nummer.
 //Se http://php.net/manual/en/function.str-replace.php
-$tlf = str_replace(" ","", $_POST['tlf']);
+if (isset($_POST['tlf'])) {
+  $tlf = str_replace(" ","", $_POST['tlf']);
+} else {
+  $tlf = NULL;
+}
 
 //Nå er vi klare for å teste om det er et gyldig telefonnummer.
 //Vi sjekker om det er et tall med 8 siffer. Dersom kravene ikke
