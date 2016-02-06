@@ -1,7 +1,8 @@
 <?php
 //Før vi gir brukeren en bestillingsbekreftelse og lagrer bestillingen 
 //i en database, må vi sjekke om vi har fått all nødvendig informasjon.
-//Foreløpig velger vi å bare sjekke brukerens telefonnummer.
+//Vi sier at vi "validerer" informasjonen som brukeren sender fra skjemaet.
+//Foreløpig velger vi å bare sjekke brukerens telefonnummer og navn.
 
 //Noen kan finne på å skrive telefonnummeret slik: 999 88 777.
 //Vi fjerner alle mellomrom før vi sjekker om det er et gyldig nummer.
@@ -23,17 +24,21 @@ if (is_numeric($tlf) && strlen((string)$tlf) == 8) {//Vi har et gyldig nummer
   $tlf_ok = false;
 }
 
-//I koden nedenfor henter vi verdier fra $_POST og setter interne variabler.
-//Vi gjør en sjekk på innholdet i $_POST, og setter eventuelt de interne
-//variablene til tomme verdier dersom det ikke finnes noe relatert innhold i $_POST.
-//Ønsker du å gjøre en grundigere validering av verdiene i $_POST,
-//kan du gjøre det her.
-
+//Inputfeltet "navn" fra HTML-skjemaet er et tekstfelt, og av sikkerhetsmessige
+//grunner er det lurt å gjøre noen sjekker her også. Vi velger å kode alle 
+//spesialtegn i tekststrengen brukeren har tastet inn. Hvis brukeren for eksempel
+//taster inn ">" vil det kodes til "&gt;".
 if (isset($_POST['navn'])) {
-  $navn = $_POST['navn'];
+  $navn = htmlspecialchars($_POST['navn']);
 } else {
   $navn = NULL;
 }
+
+//I koden nedenfor henter vi resten av verdiene fra $_POST og setter interne variabler.
+//Vi gjør en sjekk på innholdet i $_POST, og setter eventuelt de interne
+//variablene til tomme verdier dersom det ikke finnes noe relatert innhold i $_POST.
+//Ønsker du å gjøre en grundigere validering av disse verdiene i $_POST,
+//kan du gjøre det her.
 
 if (isset($_POST['burger'])) {
   $burger = $_POST['burger'];
