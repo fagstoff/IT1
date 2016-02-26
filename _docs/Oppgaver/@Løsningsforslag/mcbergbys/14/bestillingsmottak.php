@@ -71,9 +71,9 @@ $tidspunkt = date("Y-m-d H:i:s");
 //---------------------------------------------------
 //Før du kjører denne koden må du manuelt opprette en database i MySQL.
 //Nedenfor finner du SQL-koden du kan kjøre for å opprette databasen.
-//Husk å fjerne // før du kjører koden i MySQL.
 //Du kan godt endre brukernavn og passord som er brukt nedenfor, men
 //pass på at du gjør endringene i både SQL-koden og PHP-koden!
+//Husk å fjerne // før du kjører koden i MySQL.
 //
 //CREATE DATABASE mcbergbysdb;
 //GRANT ALL PRIVILEGES ON mcbergbysdb.* TO 'mcbruker'@'localhost' IDENTIFIED BY 'keHH-172QW_p';
@@ -104,7 +104,7 @@ if (mysqli_connect_errno()) {
   die('Kunne ikke opprette forbindelse med databasen: ' . mysqli_connect_error()) ;
 }
 
-//For å kunne lagre informasjonen i $_POST til databasen, må bi gjøre den om til
+//For å kunne lagre informasjonen i $_POST til databasen, må vi gjøre den om til
 //en spesielt formatert tekststreng. Det gjør vi enkelt med funksjonen serialize().
 //Se https://secure.php.net/manual/en/function.serialize.php
 $bestilling = serialize($_POST);
