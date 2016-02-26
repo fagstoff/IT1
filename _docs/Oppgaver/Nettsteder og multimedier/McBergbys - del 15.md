@@ -11,14 +11,6 @@ Hun som er PHP-ekspert i utviklingsteamet til McBerbys har laget en fil som er f
 ``` php
 <?php
 /**
- * I denne fila er det implementert en rekke funksjoner som brukes av web-applikasjonen til McBergbys.
- * Inkluder denne fila på alle sidene til McBergbys med denne koden helt i starten av hver fil:
- * require 'funksjoner.php';
- *
- */
-
- 
-/**
  * Henter skjemadata fra $_POST.
  *
  * @param string $feltnavn Navnet på feltet du vil hente data fra
@@ -160,6 +152,8 @@ function fjern_mellomrom($tekststreng) {
 ?>
 ```
 
+For at du skal kunne bruke `funksjoner.php` i alle filene på nettstedet til McBergbys, må du endre navn sånn at alle slutter på `.php`. Deretter skriver du koden `<?php require 'funksjoner.php';?> inn i toppen av alle filene.
+
 Når du har tilgang til alle funksjonene ovenfor, kan du forenkle starten av `bestillingsmottak.php` ganske mye. Her er et eksempel på hvordan denne nå kan se ut (mesteparten av koden nedenfor er bare kommentarer):
 
 ``` php
@@ -211,7 +205,7 @@ lukke_db_forbindelse($db_forbindelse);
  ...
 ```
 
-Her er det mye som skal klaffe for at alt skal fungere. Spør om hjelp dersom du står helt fast (men prøv først selv).
+Her er det mye som skal klaffe for at alt skal fungere. Spør om hjelp dersom du står helt fast (men prøv først selv). 
 
 
 ## Ressurser
