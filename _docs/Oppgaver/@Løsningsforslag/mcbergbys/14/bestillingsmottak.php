@@ -4,7 +4,8 @@
 //Vi sier at vi "validerer" informasjonen som brukeren sender fra skjemaet.
 //Foreløpig velger vi å bare sjekke brukerens telefonnummer og navn.
 
-//Noen kan finne på å skrive telefonnummeret slik: 999 88 777.
+//Noen kan finne på å skrive telefonnummeret med mellomrom
+//slik: 999 88 777 eller slik: 33 44 55 66.
 //Vi fjerner alle mellomrom før vi sjekker om det er et gyldig nummer.
 //Se http://php.net/manual/en/function.str-replace.php
 if (isset($_POST['tlf'])) {
@@ -159,13 +160,13 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   echo "Gå tilbake til bestillingsskjemaet og rett det opp ";
   echo "(trykk på tilbakeknappen i nettleseren din).</p>";
 } else {//Dersom telefonnummeret er ok, kjøres koden nedenfor.
-  echo "<p>Tusen takk for din bestilling {$navn}.";
+  echo "<p>Tusen takk for din bestilling {$navn}. ";
   echo "Vi har registrert bestillingen din på telefonnummer "; 
   echo "<strong>{$tlf}</strong>. "; 
   echo "Vennligst oppgi dette nummeret når du henter bestillingen din.</p>\n";
   echo "<p>";//Begynner et nytt avsnitt her
   if (isset($burger)) {//Brukeren har bestilt burger
-    echo "Vi ser at du bestilte en {$burger}, det er et godt valg.";
+    echo "Vi ser at du bestilte en {$burger}, det er et godt valg. ";
   }
   if (isset($drikke)) {//Brukeren har bestilt drikke
     if ($drikke == 'vann') {//Brukeren bestilte vann
