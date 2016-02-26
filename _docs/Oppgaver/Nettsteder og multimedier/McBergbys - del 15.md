@@ -152,7 +152,7 @@ function fjern_mellomrom($tekststreng) {
 ?>
 ```
 
-For at du skal kunne bruke `funksjoner.php` i alle filene på nettstedet til McBergbys, må du endre navn sånn at alle slutter på `.php`. Deretter skriver du koden `<?php require 'funksjoner.php';?> inn i toppen av alle filene.
+For at du skal kunne bruke `funksjoner.php` i alle filene på nettstedet til McBergbys, må du endre navn sånn at alle slutter på `.php`. Deretter skriver du koden `<?php require 'funksjoner.php';?>` inn i toppen av alle filene.
 
 Når du har tilgang til alle funksjonene ovenfor, kan du forenkle starten av `bestillingsmottak.php` ganske mye. Her er et eksempel på hvordan denne nå kan se ut (mesteparten av koden nedenfor er bare kommentarer):
 
