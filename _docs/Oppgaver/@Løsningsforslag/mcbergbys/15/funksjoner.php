@@ -103,6 +103,7 @@ function lukke_db_forbindelse($db_forbindelse) {
  *
  * @param array $bestillingsdata Array med bestillingen som skal lagres til databasen
  * @param object $db_forbindelse Forbindelsen til databasen
+ * @return boolean TRUE hvis alt gikk ok, FALSE om noe gikk galt
  */
 function lagre_bestilling($bestillingsdata, $db_forbindelse) {
   //For å kunne lagre informasjonen i $_POST til databasen, må bi gjøre den om til
@@ -115,7 +116,7 @@ function lagre_bestilling($bestillingsdata, $db_forbindelse) {
   //kjører vi den i databasen som vi har opprettet en forbindelse til.
   //Se https://secure.php.net/manual/en/mysqli.query.php
   $spørring = "INSERT INTO Bestillinger(tidspunkt, bestilling) VALUES ('{$tidspunkt}', '{$bestilling}');";
-  mysqli_query($db_forbindelse, $spørring);
+  return mysqli_query($db_forbindelse, $spørring);
   
   //Kode som er bedre/sikrere enn det som står ovenfor, og som vi skal bruke senere.
   //$spørring = "INSERT INTO Bestillinger(tidspunkt,bestilling) VALUES (?,?);";
