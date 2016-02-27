@@ -34,15 +34,13 @@ $drikke = hent_skjemadata('drikke');
 $tilbehør = hent_skjemadata('tilbehør');
 $ekstra = hent_skjemadata('ekstra');
 
-
-//Først må vi opprette en forbindelse med databasen
+//Først må vi opprette en forbindelse med databasen. Vi må alltid huske å lukke denne
+//forbindelsen igjen, men gjør ikke det før vi er sikker på at vi er helt ferdig
+//med å bruke forbindelsen. Helt i bunn av denne fila blir forbindelsen lukket (sjekk!).
 $db_forbindelse = åpne_db_forbindelse();
 
 //Så lagrer vi bestillingen til databasen
 lagre_bestilling($_POST, $db_forbindelse);
-
-//Nå er vi ferdig, og kan lukke forbindelsen til databasen
-lukke_db_forbindelse($db_forbindelse);
 
 ?>
 <!DOCTYPE html>
@@ -105,3 +103,7 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
     <?php lag_footer(); ?>
   </body>
 </html>
+<?php
+  //Nå er vi ferdig, og kan lukke forbindelsen til databasen.
+  lukke_db_forbindelse($db_forbindelse);
+?>
