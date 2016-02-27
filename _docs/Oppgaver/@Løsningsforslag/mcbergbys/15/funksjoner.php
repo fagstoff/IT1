@@ -49,6 +49,36 @@ function valider_telefonnummer($nummer) {
 
 
 /**
+ * Lager en HTML-formattert liste fra en array (liste i PHP).
+ * Som standard lager funksjonen en unummerert liste (<ul>),
+ * men den kan også lage nummererte lister (<ol>).
+ *
+ * @param array $listedata Array-et som skal gjøres om til en HTML-liste
+ * @param boolean $nummerert Lager en nummerert <ol> liste ved TRUE
+ * @return string En HTML-liste (<ol> eller <ul>)
+ */
+function lag_liste($listedata, $nummerert = FALSE) {
+  if ($nummerert) {
+    $liste = "<ol>\n";
+  } else {
+    $liste = "<ul>\n";
+  }
+  //Nå jobber vi oss steg for steg gjennom hele lista, 
+  //og skriver ut innholdet som en liste i HTML.
+  //Se http://php.net/manual/en/control-structures.foreach.php
+  foreach($listedata as $l) {
+    $liste .= "<li>{$l}</li>\n";
+  }
+  if ($nummerert) {
+    $liste .= "</ol>\n";
+  } else {
+    $liste .= "</ul>\n";
+  }
+  return $liste;
+}
+
+
+/**
  * Åpner forbindelsen mot McBergbys-databasen.
  * Før du kjører denne koden må du manuelt opprette en database i MySQL.
  * Nedenfor finner du SQL-koden du kan kjøre for å opprette databasen.

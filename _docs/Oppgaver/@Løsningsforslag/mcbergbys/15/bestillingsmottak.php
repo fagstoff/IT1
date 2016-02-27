@@ -88,15 +88,9 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   if(is_array($ekstra)) {
     echo "Vi noterte oss også at du bestilte litt ekstrautstyr til burgeren din. ";
     echo "Her er hva vi har registrert:\n";
-    echo "<ul>\n";
-    //Nå jobber vi oss steg for steg gjennom hele lista, 
-    //og skriver ut innholdet som en punktliste i HTML.
-    //Se http://php.net/manual/en/control-structures.foreach.php
-    foreach($ekstra as $e) {
-      echo "<li>{$e}</li>\n";
-    }
-    echo "</ul></p>\n";
+    echo lag_liste($ekstra);
   }
+  echo "</p>\n";
 }
 ?>
     </div>
