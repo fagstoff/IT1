@@ -2,8 +2,12 @@
 /**
  * I denne fila er det implementert en rekke funksjoner som brukes av web-applikasjonen til McBergbys.
  * Inkluder denne fila på alle sidene til McBergbys med denne koden helt i starten av hver fil:
- * require 'funksjoner.php';
+ *     require 'funksjoner.php';
  *
+ * ---------------------------------------------------
+ * Copyright 2016 BITJUNGLE Rune Mathisen
+ * Lisens: https://www.apache.org/licenses/LICENSE-2.0
+ * ---------------------------------------------------
  */
 
  
