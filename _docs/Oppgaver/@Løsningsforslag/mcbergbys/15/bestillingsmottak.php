@@ -39,8 +39,11 @@ $ekstra = hent_skjemadata('ekstra');
 //med å bruke forbindelsen. Helt i bunn av denne fila blir forbindelsen lukket (sjekk!).
 $db_forbindelse = åpne_db_forbindelse();
 
-//Så lagrer vi bestillingen til databasen
-lagre_bestilling($_POST, $db_forbindelse);
+//Så lagrer vi bestillingen til databasen,
+//men bare dersom skjemaet validerte til ok
+if ($tlf_ok) {
+  lagre_bestilling($_POST, $db_forbindelse);
+}
 
 ?>
 <!DOCTYPE html>
