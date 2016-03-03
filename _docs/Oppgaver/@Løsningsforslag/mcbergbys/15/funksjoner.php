@@ -2,7 +2,14 @@
 /**
  * I denne fila er det implementert en rekke funksjoner som brukes av web-applikasjonen til McBergbys.
  * Inkluder denne fila på alle sidene til McBergbys med denne koden helt i starten av hver fil:
+ * 
  *     require 'funksjoner.php';
+ * 
+ * For å finne den siste og mest oppdaterte versjonen av denne fila må du gå til det siste 
+ * løsningsforslaget i serien av McBergbys-oppgaver. 
+ * 
+ * Med noen tilpasninger bør denne fila kunne brukes i andre små webapplikasjonsprosjekter, 
+ * og den er tenkt brukt som hjelpemiddel på eksamen i IT1.
  *
  * ---------------------------------------------------
  * Copyright 2016 BITJUNGLE Rune Mathisen
