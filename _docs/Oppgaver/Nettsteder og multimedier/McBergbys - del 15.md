@@ -187,8 +187,11 @@ $ekstra = hent_skjemadata('ekstra');
 //Først må vi opprette en forbindelse med databasen
 $db_forbindelse = åpne_db_forbindelse();
 
-//Så lagrer vi bestillingen til databasen
-lagre_bestilling($_POST, $db_forbindelse);
+//Så lagrer vi bestillingen til databasen,
+//men bare dersom skjemaet validerte til ok
+if ($tlf_ok) {
+  lagre_bestilling($_POST, $db_forbindelse);
+}
 
 //Nå er vi ferdig, og kan lukke forbindelsen til databasen
 lukke_db_forbindelse($db_forbindelse);
@@ -196,7 +199,7 @@ lukke_db_forbindelse($db_forbindelse);
 ?>
 <!DOCTYPE html>
 <html lang="no">
- ...
+ ... (resten av html-koden her) ...
 ```
 
 Her er det mye som skal klaffe for at alt skal fungere. Spør om hjelp dersom du står helt fast (men prøv først selv). 
