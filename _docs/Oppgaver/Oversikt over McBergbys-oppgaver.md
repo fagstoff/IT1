@@ -16,3 +16,4 @@ Oversikt over McBergbys-oppgaver
  * [Del 14 - Lagring av skjemadata til database](Nettsteder og multimedier/McBergbys - del 14.md)
  * [Del 15 - Vi rydder!](Nettsteder og multimedier/McBergbys - del 15.md)
  * [Del 16 - Lese data fra en database](Nettsteder og multimedier/McBergbys - del 16.md)
+ * [Del 17 - Database-design](Nettsteder og multimedier/McBergbys - del 17.md)

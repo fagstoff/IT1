@@ -382,7 +382,7 @@ Her er det mye som skal klaffe for at alt skal fungere. Spør om hjelp dersom du
 
 ## Vurderingskriterier
 
-* Når du trykker "Send bestilling" i bestillingsskjemaet skal bestillingen lagres til en database.
+* Når du åpner `bestillingsliste.php` i nettleseren skal alle bestillinger i databasen listes opp på siden.
 
 ## Kompetansemål
 
