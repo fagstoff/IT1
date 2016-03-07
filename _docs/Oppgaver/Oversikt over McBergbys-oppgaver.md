@@ -1,6 +1,6 @@
 Oversikt over McBergbys-oppgaver
 ================================
- * [Del 1 - En enkel "Hallo verden"-oppgave](Nettsteder og multimedier/McBergbys - del 01.md)
+ * [Del 1 - Hallo verden](Nettsteder og multimedier/McBergbys - del 01.md)
  * [Del 2 - Bilder i HTML](Nettsteder og multimedier/McBergbys - del 02.md)
  * [Del 3 - HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 03.md)
  * [Del 4 - CSS](Nettsteder og multimedier/McBergbys - del 04.md)
@@ -17,3 +17,5 @@ Oversikt over McBergbys-oppgaver
  * [Del 15 - Vi rydder!](Nettsteder og multimedier/McBergbys - del 15.md)
  * [Del 16 - Lese data fra en database](Nettsteder og multimedier/McBergbys - del 16.md)
  * [Del 17 - Database-design](Nettsteder og multimedier/McBergbys - del 17.md)
+ * [Del 18 - Implementering av database-design](Nettsteder og multimedier/McBergbys - del 18.md)
+ * [Del 19 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 19.md)
