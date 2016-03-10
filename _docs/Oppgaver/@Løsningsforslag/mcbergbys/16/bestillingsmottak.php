@@ -37,7 +37,7 @@ $ekstra = hent_skjemadata('ekstra');
 //Først må vi opprette en forbindelse med databasen. Vi må alltid huske å lukke denne
 //forbindelsen igjen, men gjør ikke det før vi er sikker på at vi er helt ferdig
 //med å bruke forbindelsen. Helt i bunn av denne fila blir forbindelsen lukket (sjekk!).
-$db_forbindelse = åpne_db_forbindelse();
+$db_forbindelse = apne_db_forbindelse();
 
 //Så lagrer vi bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok

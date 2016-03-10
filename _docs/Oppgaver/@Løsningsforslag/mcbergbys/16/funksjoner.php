@@ -103,7 +103,7 @@ function lag_liste($listedata, $nummerert = FALSE) {
  *
  * @return object databaseforbindelse
  */
-function åpne_db_forbindelse() {
+function apne_db_forbindelse() {
   //Her legger vi inn databasenavn, brukernavn og passord som vi har satt opp i MySQL:
   $db_host = 'localhost';
   $db_navn = 'mcbergbysdb';

@@ -5,7 +5,7 @@
 require 'funksjoner.php';
 
 //Først må vi opprette en forbindelse med databasen
-$db_forbindelse = åpne_db_forbindelse();
+$db_forbindelse = apne_db_forbindelse();
 //Så henter vi alle bestillinger som ligger i databasen
 $bestillinger = hent_bestillinger($db_forbindelse);
 ?>
