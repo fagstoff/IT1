@@ -24,7 +24,7 @@ $bestillinger = hent_bestillinger($db_forbindelse);
       <h1>Liste over bestillinger</h1>
       <div id="bestillinger">
       <!-- Her tar vi bestillingene vi hentet ovenfor og gjør om til en pent formattert liste -->
-      <?php bestillingsliste_til_html($bestillinger); ?>
+      <?php echo bestillingsliste_til_html($bestillinger); ?>
       </div>
     </div>
     <!-- Vi lager en footer -->
