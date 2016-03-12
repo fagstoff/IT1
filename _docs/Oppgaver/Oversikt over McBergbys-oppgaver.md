@@ -16,6 +16,6 @@ Oversikt over McBergbys-oppgaver
  * [Del 14 - Lagring av skjemadata til database](Nettsteder og multimedier/McBergbys - del 14.md)
  * [Del 15 - Vi rydder!](Nettsteder og multimedier/McBergbys - del 15.md)
  * [Del 16 - Lese data fra en database](Nettsteder og multimedier/McBergbys - del 16.md)
- * [Del 17 - Database-design](Nettsteder og multimedier/McBergbys - del 17.md)
- * [Del 18 - Implementering av database-design](Nettsteder og multimedier/McBergbys - del 18.md)
+ * [Del 17 - Databasedesign](Nettsteder og multimedier/McBergbys - del 17.md)
+ * [Del 18 - Implementering av databasedesign](Nettsteder og multimedier/McBergbys - del 18.md)
  * [Del 19 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 19.md)
