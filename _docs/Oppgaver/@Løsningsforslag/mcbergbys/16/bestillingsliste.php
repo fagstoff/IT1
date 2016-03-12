@@ -18,28 +18,24 @@ $bestillinger = hent_bestillinger($db_forbindelse);
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
+    <!-- Vi lager navigasjonsmenyen -->
     <?php lag_navigasjonsmeny(""); ?>
     <div class="hoved">
       <h1>Liste over bestillinger</h1>
       <div id="bestillinger">
-      <?php
-      while($bestilling = hent_bestilling($bestillinger)) {
-        echo "<div class=\"bestilling\"><strong>Bestilling som ble registrert den {$bestilling['tidspunkt']}:</strong><br>";
-        echo bestilling_til_html(unserialize($bestilling['bestilling']));
-        echo "</div><hr>";
-      }
-      ?>
+      <!-- Her tar vi bestillingene vi hentet ovenfor og gjør om til en pent formattert liste -->
+      <?php bestillingsliste_til_html($bestillinger); ?>
       </div>
     </div>
+    <!-- Vi lager en footer -->
     <?php lag_footer(); ?>
   </body>
 </html>
-<?php
 
+<?php
 //Nå må vi frigjøre resultatet fra spørringen vi kjørte tidligere,
 //sånn at det ikke opptar noe minne.
 frigjør_data($bestillinger);
 //Nå er vi ferdig, og kan lukke forbindelsen til databasen.
 lukke_db_forbindelse($db_forbindelse);
-
 ?>

@@ -245,6 +245,22 @@ function bestilling_til_html($bestillingsdata) {
 
 
 /**
+ * Gjør output fra hent_bestillinger() om til en HTML-formattert liste
+ *
+ * @param $bestillinger
+ * @return string HTML-formattert bestillingsliste
+ */
+function bestillingsliste_til_html($bestillinger) {
+  $html = "";
+  while($bestilling = hent_bestilling($bestillinger)) {
+    $html .= "<div class=\"bestilling\"><strong>Bestilling som ble registrert den {$bestilling['tidspunkt']}:</strong><br>";
+    $html .= bestilling_til_html(unserialize($bestilling['bestilling']));
+    $html .= "</div><hr>";
+  }
+  return $html;
+}
+
+/**
  * Returnerer nåtidspunktet på formatet Y-m-d H:i:s
  * Se https://secure.php.net/manual/en/function.date.php
  *
