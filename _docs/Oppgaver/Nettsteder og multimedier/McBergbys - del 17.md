@@ -6,7 +6,7 @@
 
 Det settes ned flere prosjektgrupper som hver for seg skal utarbeide et forslag til design. Forslagene skal presenteres for alle de andre gruppene. Hver prosjektgruppe skal ha 3-5 deltakere.
 
-Prosjektgruppene skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 16` og lage et nytt databasedesign som er i henhold til reglene for 1., 2. og 3. normalform så langt som det er praktisk mulig. Det skal tegnes et ER-diagram som viser designet.
+Prosjektgruppene skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 16` og lage et nytt databasedesign som er i henhold til reglene for 1., 2. og 3. normalform så langt som det er praktisk mulig. Det skal tegnes et ER-diagram (eventuelt med kråkefot-notasjon) som viser designet.
 
 Tenk nøye gjennom hva slags data dere vil lagre. Hvilke tabeller (entiteter) trenger dere? Hva skal lagres i hver enkelt tabell? Kan det være nyttig å vite hvilken status en bestilling har (bestilt, laget, utlevert osv.)? Bør vi registrere og oppdatere lagerstatus for råvarer? Hva er relasjonene mellom tabellene? Det er mange spørsmål dere bør tenke gjennom her. Det kan også hende at gruppene må foreslå endringer i bestillingsskjemaet for å få til det nye databasedesignet.
 
@@ -18,6 +18,7 @@ Når prosjektgruppene har laget designet skal de implementere det i et databases
 * Se sidene som handler om databasedesign i læreboka di!
 * [Artikkel om databasedesign på engelsk Wikipedia](https://en.wikipedia.org/wiki/Database_design)
 * [Artikkel om ER-modellering på engelsk Wikipedia](https://en.wikipedia.org/wiki/Entity–relationship_model)
+* [Artikkel om ER-modellering og kråkefot-notasjon](http://www.codeproject.com/Articles/878359/Data-modelling-using-ERD-with-Crow-Foot-Notation)
 * Et dataprogram for å tegne ER-diagrammer, for eksempel Visio (desktop) eller [draw.io (online)](https://www.draw.io/)
 
 ## Vurderingskriterier
