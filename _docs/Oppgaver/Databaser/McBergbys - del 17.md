@@ -20,7 +20,7 @@ Når prosjektgruppene har laget designet skal de implementere det i et databases
 * [Artikkel om ER-modellering på engelsk Wikipedia](https://en.wikipedia.org/wiki/Entity–relationship_model)
 * [Artikkel om ER-modellering og kråkefot-notasjon](http://www.codeproject.com/Articles/878359/Data-modelling-using-ERD-with-Crow-Foot-Notation)
 * Et dataprogram for å tegne ER-diagrammer, for eksempel Visio (desktop) eller [draw.io (online)](https://www.draw.io/)
-* [Datatyper i SQL (W3Schools](http://www.w3schools.com/sql/sql_datatypes_general.asp)
+* [Datatyper i SQL (W3Schools)](http://www.w3schools.com/sql/sql_datatypes_general.asp)
 
 ## Vurderingskriterier
 
