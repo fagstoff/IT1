@@ -142,11 +142,11 @@ function lukke_db_forbindelse($db_forbindelse) {
  *   bestilling TEXT
  * );
  *
- * @param array $bestillingsdata Array med bestillingen som skal lagres til databasen
  * @param object $db_forbindelse Forbindelsen til databasen
+ * @param array $bestillingsdata Array med bestillingen som skal lagres til databasen
  * @return boolean TRUE hvis alt gikk ok, FALSE om noe gikk galt
  */
-function lagre_bestilling($bestillingsdata, $db_forbindelse) {
+function lagre_bestilling($db_forbindelse, $bestillingsdata) {
   //For å kunne lagre informasjonen i $_POST til databasen, må bi gjøre den om til
   //en spesielt formatert tekststreng. Det gjør vi enkelt med funksjonen serialize().
   //Se https://secure.php.net/manual/en/function.serialize.php
