@@ -126,9 +126,10 @@ function apne_db_forbindelse() {
  * Lukker forbindelsen til en database.
  * 
  * @param object $db_forbindelse Forbindelsen som skal lukkes
+ * @return bool  TRUE ved suksess, FALSE ved feil (ikke i bruk)
  */
 function lukke_db_forbindelse($db_forbindelse) {
-  mysqli_close($db_forbindelse);
+  return mysqli_close($db_forbindelse);
 }
 
 
@@ -244,6 +245,7 @@ function lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $produkt) {
   return TRUE;//Alternativt droppe die() og heller sette denne til FALSE ved problemer.
 }
 
+
 /**
  * Henter ut en liste over alle ordrer fra databasen.
  *
@@ -278,7 +280,7 @@ function hent_ordredetaljer($db_forbindelse, $ordreid) {
 
 
 /**
- * Frigjør resultatet fra en database-spørring
+ * Frigjør resultatet fra en database-spørring.
  *
  * @param $resultat Resultatet fra en spørring som er kjørt tidligere
  * @return bool TRUE ved suksess, FALSE ved feil
@@ -289,52 +291,7 @@ function frigjør_data($resultat) {
 
 
 /**
- * Gjør en array med bestillingsdata om til HTML.
- * Funksjonen forutsetter at disse feltene er tilgjengelige i
- * bestillingsdataene (sjekk HTML-skjemaet ditt):
- * navn, tlf, burger, drikke, tilbehør, ekstra
- *
- * @param $bestillingsdata En array med bestillingsdata, slik det kommer fra bestillingskjemaet
- * @return string HTML-formattert bestilling
- */
-function bestilling_til_html($bestillingsdata) {
-  $utdata = "<div class=\"bestilling\">\n";
-  if (isset($bestillingsdata['navn']))
-    $utdata .= "<span class=\"bestillernavn\">Bestilt av: " . $bestillingsdata['navn'] . "</span><br>\n";
-  if (isset($bestillingsdata['tlf']))
-    $utdata .= "<span class=\"telefonnummer\">Telefon: " . $bestillingsdata['tlf'] . "</span><br>\n";
-  if (isset($bestillingsdata['burger']))
-    $utdata .= "<span class=\"burger\">Burger: " . $bestillingsdata['burger'] . "</span><br>\n";
-  if (isset($bestillingsdata['drikke']))
-    $utdata .= "<span class=\"drikke\">Drikke: " . $bestillingsdata['drikke'] . "</span><br>\n";
-  if (isset($bestillingsdata['tilbehør']))
-    $utdata .= "<span class=\"tilbehør\">Tilbehør: " . $bestillingsdata['tilbehør'] . "</span><br>\n";
-  if (isset($bestillingsdata['ekstra']))
-    $utdata .= "<span class=\"ekstra\">Ekstra: " . lag_liste($bestillingsdata['ekstra']) . "</span><br>\n";
-  $utdata .= "</div>\n";
-  return $utdata;
-}
-
-
-/**
- * Gjør output fra hent_bestillinger() om til en HTML-formattert liste
- *
- * @param $bestillinger
- * @return string HTML-formattert bestillingsliste
- */
-function bestillingsliste_til_html($bestillinger) {
-  $html = "";
-  while($bestilling = hent_bestilling($bestillinger)) {
-    $html .= "<div class=\"bestilling\"><strong>Bestilling som ble registrert den {$bestilling['tidspunkt']}:</strong><br>";
-    $html .= bestilling_til_html(unserialize($bestilling['bestilling']));
-    $html .= "</div><hr>";
-  }
-  return $html;
-}
-
-
-/**
- * Gjør resultatet fra en SQL-spørring om til en HTML-tabell
+ * Gjør resultatet fra en SQL-spørring om til en HTML-tabell.
  *
  * @param $resultat
  * @param $cssklasse
