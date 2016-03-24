@@ -158,12 +158,6 @@ function lagre_bestilling($db_forbindelse, $bestillingsdata) {
   //Se https://secure.php.net/manual/en/mysqli.query.php
   $spørring = "INSERT INTO Bestillinger(tidspunkt, bestilling) VALUES ('{$tidspunkt}', '{$bestilling}');";
   return mysqli_query($db_forbindelse, $spørring);
-  
-  //Kode som er bedre/sikrere enn det som står ovenfor, og som vi skal bruke senere.
-  //$spørring = "INSERT INTO Bestillinger(tidspunkt,bestilling) VALUES (?,?);";
-  //$stmt = mysqli_prepare($db_forbindelse, $spørring);
-  //mysqli_stmt_bind_param($stmt, 'ss', $tidspunkt, $bestilling);
-  //$stmt->execute();
 }
 
 
