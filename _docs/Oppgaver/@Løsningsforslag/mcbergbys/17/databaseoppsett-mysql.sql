@@ -3,7 +3,7 @@ CREATE TABLE Kunder (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
     fornavn VARCHAR(255), 
     etternavn VARCHAR(255), 
-    tlf INTEGER NOT NULL
+    tlf INTEGER NOT NULL UNIQUE
 );
 
 CREATE TABLE Ordrer (
@@ -24,7 +24,7 @@ CREATE TABLE Ordredetaljer (
 
 CREATE TABLE Produkter (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
-    produktnavn VARCHAR(255),
+    produktnavn VARCHAR(255) NOT NULL UNIQUE,
     beholdning INTEGER,
     pris DECIMAL(5,2)
 );
