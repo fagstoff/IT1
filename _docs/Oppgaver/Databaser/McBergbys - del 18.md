@@ -6,7 +6,7 @@
 
 Bruk diagrammet nedenfor som utgangspunkt for implementeringen av databasen. Du må skrive all nødvendig SQL-kode for å opprette tabellene (`CREATE TABLE ...` og så videre).
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18.png)
 
 
 
