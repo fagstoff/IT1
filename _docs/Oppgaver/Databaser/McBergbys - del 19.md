@@ -1,4 +1,4 @@
-# McBergbys - del 18: Implementering av databasedesign - PHP
+# McBergbys - del 19: Implementering av databasedesign - PHP
 
 **PHP-eksperten i McBergbys har fått dine forslag til implementering av databasen, og alle de fine SQL-spørringene du laget. Hun er strålende fornøyd, og nå har hun laget en fiks ferdig web-applikasjon i PHP basert på dine SQL-løsninger.**
 
