@@ -94,20 +94,23 @@ VALUES
 	(15, 12, 1, 2.50);
 ``` 
 
+
 ## Ressurser
 
 * Se sidene som handler om databasedesign i læreboka di!
 * [SQL Quick Reference](http://www.w3schools.com/sql/sql_quickref.asp) fra W3Schools
-* 
+
 
 ## Vurderingskriterier
 
 * Alle de 8 SQL-spørringene fungerer og gir forventet resultat.
 
-Eksempel på forventet resultat fra spørring 7:
+**Eksempel på forventet resultat fra spørring 7:**
+
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18-q7.png)
 
-Eksempel på forventet resultat fra spørring 8:
+**Eksempel på forventet resultat fra spørring 8:**
+
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18-q8.png)
 
 
