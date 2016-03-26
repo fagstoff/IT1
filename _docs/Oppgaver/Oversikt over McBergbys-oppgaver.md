@@ -1,22 +1,23 @@
 Oversikt over McBergbys-oppgaver
 ================================
- * [Del 1 - Hallo verden](Nettsteder og multimedier/McBergbys - del 01.md)
- * [Del 2 - Bilder i HTML](Nettsteder og multimedier/McBergbys - del 02.md)
- * [Del 3 - HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 03.md)
- * [Del 4 - CSS](Nettsteder og multimedier/McBergbys - del 04.md)
- * [Del 5 - Universell utforming](Nettsteder og multimedier/McBergbys - del 05.md)
- * [Del 6 - Embedding av video](Nettsteder og multimedier/McBergbys - del 06.md)
- * [Del 7 - Lister og bokser](Nettsteder og multimedier/McBergbys - del 07.md)
- * [Del 8 - Navigasjonsmeny](Nettsteder og multimedier/McBergbys - del 08.md)
- * [Del 9 - Opphavsrett](Nettsteder og multimedier/McBergbys - del 09.md)
- * [Del 10 - Personvern](Nettsteder og multimedier/McBergbys - del 10.md)
- * [Del 11 - Motta innhold fra HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 11.md)
- * [Del 12 - Dynamiske nettsider](Nettsteder og multimedier/McBergbys - del 12.md)
- * [Del 13 - Validering av skjemadata](Nettsteder og multimedier/McBergbys - del 13.md)
- * [Del 14 - Lagring av skjemadata til database](Databaser/McBergbys - del 14.md)
- * [Del 15 - Vi rydder!](Databaser/McBergbys - del 15.md)
- * [Del 16 - Lese data fra en database](Databaser/McBergbys - del 16.md)
- * [Del 17 - Databasedesign](Databaser/McBergbys - del 17.md)
- * [Del 18 - Implementering av databasedesign - SQL](Databaser/McBergbys - del 18.md)
- * [Del 19 - Implementering av databasedesign - PHP](Databaser/McBergbys - del 19.md)
- * [Del 20 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 20.md)
+ * [Del 1 - Hallo verden](Nettsteder og multimedier/McBergbys - del 01.md) *(Nettsteder og multimedier)*
+ * [Del 2 - Bilder i HTML](Nettsteder og multimedier/McBergbys - del 02.md) *(Nettsteder og multimedier)*
+ * [Del 3 - HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 03.md) *(Nettsteder og multimedier)*
+ * [Del 4 - CSS](Nettsteder og multimedier/McBergbys - del 04.md) *(Nettsteder og multimedier)*
+ * [Del 5 - Universell utforming](Nettsteder og multimedier/McBergbys - del 05.md) *(Nettsteder og multimedier)*
+ * [Del 6 - Embedding av video](Nettsteder og multimedier/McBergbys - del 06.md) *(Nettsteder og multimedier)*
+ * [Del 7 - Lister og bokser](Nettsteder og multimedier/McBergbys - del 07.md) *(Nettsteder og multimedier)*
+ * [Del 8 - Navigasjonsmeny](Nettsteder og multimedier/McBergbys - del 08.md) *(Nettsteder og multimedier)*
+ * [Del 9 - Opphavsrett](Digital samtid/McBergbys - del 09.md) *(Digital samtid)*
+ * [Del 10 - Personvern](Digital samtid/McBergbys - del 10.md) *(Digital samtid)*
+ * [Del 11 - Motta innhold fra HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 11.md) *(Nettsteder og multimedier)*
+ * [Del 12 - Dynamiske nettsider](Nettsteder og multimedier/McBergbys - del 12.md) *(Nettsteder og multimedier)*
+ * [Del 13 - Validering av skjemadata](Nettsteder og multimedier/McBergbys - del 13.md) *(Nettsteder og multimedier)*
+ * [Del 14 - Lagring av skjemadata til database](Databaser/McBergbys - del 14.md) *(Databaser)*
+ * [Del 15 - Vi rydder!](Databaser/McBergbys - del 15.md) *(Databaser)*
+ * [Del 16 - Lese data fra en database](Databaser/McBergbys - del 16.md) *(Databaser)*
+ * [Del 17 - Databasedesign](Databaser/McBergbys - del 17.md) *(Databaser)*
+ * [Del 18 - Implementering av databasedesign - SQL](Databaser/McBergbys - del 18.md) *(Databaser)*
+ * [Del 19 - Implementering av databasedesign - PHP](Databaser/McBergbys - del 19.md) *(Databaser)*
+ * [Del 20 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 20.md) *(Nettsteder og multimedier)*
+ * [Del 21 - SQL injection](Databaser/McBergbys - del 21.md) *(Databaser)*
