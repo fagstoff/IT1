@@ -19,5 +19,5 @@ Oversikt over McBergbys-oppgaver
  * [Del 17 - Databasedesign](Databaser/McBergbys - del 17.md) *(Databaser)*
  * [Del 18 - Implementering av databasedesign - SQL](Databaser/McBergbys - del 18.md) *(Databaser)*
  * [Del 19 - Implementering av databasedesign - PHP](Databaser/McBergbys - del 19.md) *(Databaser)*
- * [Del 20 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 20.md) *(Nettsteder og multimedier)*
- * [Del 21 - SQL injection](Databaser/McBergbys - del 21.md) *(Databaser)*
+ * [Del 20 - SQL injection](Databaser/McBergbys - del 21.md) *(Databaser)*
+ * [Del 21 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 20.md) *(Nettsteder og multimedier)*
