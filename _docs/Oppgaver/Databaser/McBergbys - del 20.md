@@ -1,6 +1,6 @@
 # McBergbys - del 20: SQL injection
 
-**TODO**
+**"Skandale. Skandale!". SQL-sjefen i McBergbys kom løpende inn på kontoret ditt. "Noen har slettet hele Kunder-tabellen vår, vi har mistet all kundeinformasjonen vår!". Nå må du finne ut av hva som har skjedd.**
 
 
 ## Oppgave
@@ -9,9 +9,9 @@ TODO
 
 Tenk deg at noen fyller ut denne kundeinformasjonen i bestillingsskjemaet
 
->Fornavn: Slem
->Etternavn: Hacker',666); DROP TABLE Kunder; -- 
->Mobilnr.: 99999999
+>**Fornavn:** Slem  
+>**Etternavn:** Hacker',666); DROP TABLE Kunder; --  
+>**Mobilnr.:** 99999999
 
 Dette er PHP-koden i `funksjoner.php` som genererer SQL-spørringen:
 
