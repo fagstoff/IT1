@@ -10,9 +10,6 @@ Prosjektgruppene skal ta utgangspunkt i det du laget i `McBergbys automagiske be
 
 Tenk nøye gjennom hva slags data dere vil lagre. Hvilke tabeller (entiteter) trenger dere? Hva skal lagres i hver enkelt tabell? Kan det være nyttig å vite hvilken status en bestilling har (bestilt, laget, utlevert osv.)? Bør vi registrere og oppdatere lagerstatus for råvarer? Hva er relasjonene mellom tabellene? Det er mange spørsmål dere bør tenke gjennom her. Det kan også hende at gruppene må foreslå endringer i bestillingsskjemaet for å få til det nye databasedesignet.
 
-Når prosjektgruppene har laget designet skal de implementere det i et databasesystem (for eksempel MySQL), og legge inn noen testdata manuelt. Lag også noen spørringer som bruker `JOIN` for å få ut hensiktsmessige og lett lesbare lister over bestillinger. Prosjektgruppene skal foreløpig ikke gjøre noen endringer i web-applikasjonen, det gjør vi etter at vi har tatt et endelig valg og testet databasedesignet vårt.
-
-
 ## Ressurser
 
 * Se sidene som handler om databasedesign i læreboka di!
@@ -26,7 +23,6 @@ Når prosjektgruppene har laget designet skal de implementere det i et databases
 
 * Designet skal være i henhold til 1., 2. og 3. normalform. Eventuelle avvik må begrunnes godt.
 * Datatypene for de ulike kolonnene i tabellene skal være gjennomtenkte og velbegrunnede.
-* En spørring som henter ut relevante data fra tabellene, og som kan brukes for å liste opp bestillinger.
 
 ## Kompetansemål
 

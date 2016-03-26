@@ -17,5 +17,6 @@ Oversikt over McBergbys-oppgaver
  * [Del 15 - Vi rydder!](Databaser/McBergbys - del 15.md)
  * [Del 16 - Lese data fra en database](Databaser/McBergbys - del 16.md)
  * [Del 17 - Databasedesign](Databaser/McBergbys - del 17.md)
- * [Del 18 - Implementering av databasedesign](Databaser/McBergbys - del 18.md)
- * [Del 19 - Lage logo i et bilderedigeringsprogram](Databaser/McBergbys - del 19.md)
+ * [Del 18 - Implementering av databasedesign - SQL](Databaser/McBergbys - del 18.md)
+ * [Del 19 - Implementering av databasedesign - PHP](Databaser/McBergbys - del 19.md)
+ * [Del 20 - Lage logo i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 20.md)

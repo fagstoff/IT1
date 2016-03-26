@@ -271,7 +271,7 @@ function hent_ordrer($db_forbindelse, $status = NULL) {
  * @return object Resultatet fra spørringen
  */
 function hent_ordredetaljer($db_forbindelse, $ordreid) {
-  $spørring = "SELECT Produkter.produktnavn, kvantitet, enhetspris
+  $spørring = "SELECT Produkter.produktnavn, Ordredetaljer.kvantitet, Ordredetaljer.enhetspris
                FROM Ordredetaljer 
                JOIN Produkter ON produkt_id = Produkter.id
                WHERE ordre_id = {$ordreid}";
