@@ -8,8 +8,8 @@ Oversikt over McBergbys-oppgaver
  * [Del 6 - Embedding av video](Nettsteder og multimedier/McBergbys - del 06.md) *(Nettsteder og multimedier)*
  * [Del 7 - Lister og bokser](Nettsteder og multimedier/McBergbys - del 07.md) *(Nettsteder og multimedier)*
  * [Del 8 - Navigasjonsmeny](Nettsteder og multimedier/McBergbys - del 08.md) *(Nettsteder og multimedier)*
- * [Del 9 - Opphavsrett](Digital samtid/McBergbys - del 09.md) *(Digital samtid)*
- * [Del 10 - Personvern](Digital samtid/McBergbys - del 10.md) *(Digital samtid)*
+ * [Del 9 - Personvern](Digital samtid/McBergbys - del 09.md) *(Digital samtid)*
+ * [Del 10 - Opphavsrett](Digital samtid/McBergbys - del 10.md) *(Digital samtid)*
  * [Del 11 - Motta innhold fra HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 11.md) *(Nettsteder og multimedier)*
  * [Del 12 - Dynamiske nettsider](Nettsteder og multimedier/McBergbys - del 12.md) *(Nettsteder og multimedier)*
  * [Del 13 - Validering av skjemadata](Nettsteder og multimedier/McBergbys - del 13.md) *(Nettsteder og multimedier)*
