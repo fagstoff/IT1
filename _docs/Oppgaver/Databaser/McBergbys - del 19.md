@@ -7,7 +7,7 @@
 
 Hent den ferdige PHP-applikasjonen, og tilpass sånn at den passer inn i din løsning. Pass spesielt på å endre databasenavn, brukernavn og passord i funksjonen `apne_db_forbindelse()` i fila `funksjoner.php`.
 
-Du kan [laste ned den ferdige PHP-applikasjonen her]().
+Du kan [laste ned den ferdige PHP-applikasjonen her](https://github.com/fagstoff/IT1/raw/master/_docs/Oppgaver/%40L%C3%B8sningsforslag/mcbergbys/19.zip).
 
 Når du har fått alt på plass og konfigurert applikasjonen skal du teste de to nye sidene `ordreliste.php` og `ordredetaljer.php`. Legg merke til at disse filene også kan ta imot parametere fra URL-en, for eksempel `ordreliste.php?ordrestatus=ferdig` og `ordredetaljer.php?ordreid=14`.
 
