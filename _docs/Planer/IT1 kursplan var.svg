@@ -867,7 +867,7 @@
 						x="10.64" dy="1.2em" class="st15">kommunika</tspan>-<tspan x="27.73" dy="1.2em" class="st15">sjon</tspan></text>		</g>
 		<g id="shape1018-257" v:mID="1018" v:groupContext="shape" transform="translate(405.354,-255.118)">
 			<title>Rektangel.1018</title>
-			<desc>McBergbys 14-18 PHP og SQL</desc>
+			<desc>McBergbys 14-20 PHP og SQL</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
@@ -879,7 +879,7 @@
 			</g>
 			<rect x="0" y="552.756" width="72.2835" height="42.5197" class="st13"/>
 			<text x="13.6" y="565.02" class="st14" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys <v:lf/><tspan
-						x="24.47" dy="1.2em" class="st15">14</tspan>-18<v:newlineChar/><tspan x="12.85" dy="1.2em" class="st15">PHP og SQL</tspan></text>		</g>
+						x="24.47" dy="1.2em" class="st15">14</tspan>-20<v:newlineChar/><tspan x="12.85" dy="1.2em" class="st15">PHP og SQL</tspan></text>		</g>
 		<g id="shape1019-265" v:mID="1019" v:groupContext="shape" v:layerMember="1" transform="translate(382.677,-70.8661)">
 			<title>Dynamisk kobling.1019</title>
 			<path d="M0 595.28 L58.82 595.28 L58.82 564.05" class="st17"/>
@@ -909,7 +909,7 @@
 						x="24.57" dy="1.2em" class="st15">bilde</tspan>-<tspan x="15.42" dy="1.2em" class="st15">redigering</tspan></text>		</g>
 		<g id="shape1023-288" v:mID="1023" v:groupContext="shape" transform="translate(500.315,-255.118)">
 			<title>Rektangel.1023</title>
-			<desc>McBergbys 19 Lage logo</desc>
+			<desc>McBergbys 21 Lage logo</desc>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
@@ -920,7 +920,7 @@
 				<rect x="0" y="552.756" width="72.2835" height="42.5197" class="st12"/>
 			</g>
 			<rect x="0" y="552.756" width="72.2835" height="42.5197" class="st13"/>
-			<text x="7.4" y="571.02" class="st14" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 19<v:newlineChar/><tspan
+			<text x="7.4" y="571.02" class="st14" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>McBergbys 21<v:newlineChar/><tspan
 						x="16.9" dy="1.2em" class="st15">Lage logo</tspan></text>		</g>
 		<g id="shape1024-295" v:mID="1024" v:groupContext="shape" transform="translate(419.882,-24.2717)">
 			<title>Rektangel.1024</title>
@@ -975,5 +975,13 @@
 			<rect x="0" y="535.181" width="361.134" height="60.0945" class="st20"/>
 			<text x="136.02" y="560.43" class="st21" v:langID="1044"><v:paragraph v:horizAlign="1"/><v:tabList/>Heldagsprøve<v:newlineChar/><tspan
 						x="151.49" dy="1.2em" class="st15">Eksamen</tspan></text>		</g>
+		<g id="shape1031-330" v:mID="1031" v:groupContext="shape" v:layerMember="1" transform="translate(382.603,-123.307)">
+			<title>Dynamisk kobling.1031</title>
+			<path d="M0 588.19 L15.71 588.19" class="st17"/>
+		</g>
+		<g id="shape1032-335" v:mID="1032" v:groupContext="shape" v:layerMember="1" transform="translate(572.598,-269.291)">
+			<title>Dynamisk kobling.1032</title>
+			<path d="M0 588.19 L165.31 588.19" class="st17"/>
+		</g>
 	</g>
 </svg>
