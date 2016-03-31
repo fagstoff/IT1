@@ -1,7 +1,7 @@
 # Forslag til utforming av eksamensoppgaver i IT1 
 ## Lokalgitt eksamen i Informasjonsteknologi 1 (fagkode REA3014)
 
-Dette er et forslag til lokalgitt eksamen i IT1. Eksamensoppgavene skal bestå av tre deloppgaver:
+Dette er et forslag en mal for oppgavesett til lokalgitt eksamen i IT1. Eksamensoppgavene skal bestå av tre deloppgaver:
 
 ### Del 1: Lag et dynamisk nettsted
 En oppgave med hovedvekt på kompetansemålene i hovedområdet “Nettsteder og multimedier” i læreplanen for IT1, men som også inneholder deler fra hovedområdene “Databaser” og “Digital samtid”. Det skal lages et nettsted med dynamiske sider og lagring av data til en database. I tillegg skal det gjøres noen vurderinger av nettstedet opp mot utvalgte kompetansemål i “Digital samtid”. Dette er den mest omfattende oppgaven, og den vi telle 50 % på totalkarakteren. I oppgaven skal eleven utforme et nettsted etter gitte spesifikasjoner. Nettstedet skal implementeres i forberedelsesperioden, og skal demonstreres for eksaminator og sensor på den muntlige delen av eksamen. Eleven må da også gjøre rede for de tekniske valgene som er gjort. Elevene vil kunne få utdelt et rammeverk for nettstedet, slik at den totale arbeidsmengden ikke blir for stor.
