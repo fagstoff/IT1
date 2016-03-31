@@ -10,7 +10,7 @@ Du kan bruke [Adobe Photoshop](https://www.adobe.com/no/products/photoshop.html)
 
 Du skal gjøre deg kjent med ulike verktøy og funksjoner i bilderedigeringsprogrammet, og trene spesielt på å bruke markeringsverktøyet (selection tool) og lag-funksjonen (layers). Plakaten skal også inneholde firmanavn (MCBergbys) og et slagord.
 
-Den ferdige reklamaplakaten må optimaliseres for bruk på nettsider. Den skal ha en bredde på maksimalt 400 piksler, og filstørrelsen skal være så liten som mulig uten at det går synlig utover bildekvaliteten.
+Den ferdige reklameplakaten må optimaliseres for bruk på nettsider. Den skal ha en bredde på maksimalt 400 piksler, og filstørrelsen skal være så liten som mulig uten at det går synlig utover bildekvaliteten.
 
 ## Ressurser
 
@@ -24,6 +24,7 @@ Den ferdige reklamaplakaten må optimaliseres for bruk på nettsider. Den skal h
 * Plakaten skal inneholde et utsnitt av et eksisterende bilde, og du skal bruke markeringsverktøyet i bilderedigeringsprogrammet til dette.
 * Plakaten skal settes sammen i flere lag, minimum tre (en bakgrunn, et bildeutsnitt og tekst).
 * Den ferdige plakaten skal optimaliseres for bruk på nettsidene. Bredden skal være maksimalt 400 piksler. Filstørrelsen skal være så liten som mulig, men må balanseres opp mot bildekvaliteten.
+* Eventuelle kildebilder må være opphavsrettslig klarerte (oppgi kilde og lisensbetingelser).
 
 ## Kompetansemål
 
