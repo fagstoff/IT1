@@ -4,13 +4,13 @@
 
 ## Oppgave
 
-Bruk et bilderedigeringsprogram og lag en logo for McBergbys. Ta gjerne utgangspunkt i et bilde du finner på nettet, men sørg for at opphavsmannen gir deg nødvendige rettigheter til å bruke bildet.
+Bruk et bilderedigeringsprogram og lag en reklameplakat for McBergbys. Ta gjerne utgangspunkt i et bilde du finner på nettet, men sørg for at opphavsmannen gir deg nødvendige rettigheter til å bruke bildet.
 
 Du kan bruke [Adobe Photoshop](https://www.adobe.com/no/products/photoshop.html), [GIMP](https://www.gimp.org/) eller [Paint.NET](http://www.getpaint.net/index.html) for å løse denne oppgaven.
 
-Du skal gjøre deg kjent med ulike verktøy og funksjoner i bilderedigeringsprogrammet, og trene spesielt på å bruke utvalgsverktøyet (selection tool) og lag-funksjonen (layers).
+Du skal gjøre deg kjent med ulike verktøy og funksjoner i bilderedigeringsprogrammet, og trene spesielt på å bruke markeringsverktøyet (selection tool) og lag-funksjonen (layers). Plakaten skal også inneholde firmanavn (MCBergbys) og et slagord.
 
-Den ferdige logoen må optimaliseres for bruk på nettsider.
+Den ferdige reklamaplakaten må optimaliseres for bruk på nettsider. Den skal ha en bredde på maksimalt 400 piksler, og filstørrelsen skal være så liten som mulig uten at det går synlig utover bildekvaliteten.
 
 ## Ressurser
 
@@ -21,7 +21,9 @@ Den ferdige logoen må optimaliseres for bruk på nettsider.
 
 ## Vurderingskriterier
 
-* TODO
+* Plakaten skal inneholde et utsnitt av et eksisterende bilde, og du skal bruke markeringsverktøyet i bilderedigeringsprogrammet til dette.
+* Plakaten skal settes sammen i flere lag, minimum tre (en bakgrunn, et bildeutsnitt og tekst).
+* Den ferdige plakaten skal optimaliseres for bruk på nettsidene. Bredden skal være maksimalt 400 piksler. Filstørrelsen skal være så liten som mulig, men må balanseres opp mot bildekvaliteten.
 
 ## Kompetansemål
 
