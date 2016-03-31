@@ -53,7 +53,10 @@ Biblioteket på Porsgrunn videregående skole skal ha et nytt databasesystem, og
 * Bøker
  * Tittel
  * Forfatter
- * Årstall for første utgivelse
+ * Forlag
+ * Utgivelsesår
+ * Utgave
+ * Språk
  * ISBN
 * Forfattere 
  * Navn
@@ -85,5 +88,65 @@ En av disse fire oppgavene vil bli trukket tilfeldig ut under eksamineringen, og
 TODO
 
 ## Vedlegg 2: Eksempeldata for biblioteksdatabase
-TODO
+
+### Bøker:
+
+* Boktittel: Tekniske tenester, faktabok
+ * Forfattere: Jørn Kenneth Andersen, Eyolf Herø, Svein Olaf Michelsen, Rolf Rønning, Rune Mathisen
+ * Forlag: Gyldendal
+ * Utgivelsesår: 2012
+ * 2. utgave
+ * Nynorsk
+ * ISBN: 9788205418066 
+* Boktittel: Sosial kapital i et velferdsperspektiv
+ * Forfattere: Rolf Rønning, Bengt Starrin 
+ * Forlag: Gyldendal
+ * Utgivelsesår: 2009
+ * 1. utgave
+ * Bokmål
+ * ISBN: 9788205392489
+* Boktittel: Empowerment i teori og praksis
+ * Forfattere: Lars Dahlgren, Bengt Starrin
+ * Forlag: Liber
+ * Utgivelsesår: 2004
+ * 1. utgave
+ * Svensk
+ * ISBN: 9789147074334
+
+### Forfattere: 
+* Jørn Kenneth Andersen
+ * Statsborgerskap: Norsk
+ * Fødselsår: 1964
+* Eyolf Herø
+ * Statsborgerskap: Norsk
+ * Fødselsår: 1944
+* Svein Olaf Michelsen
+ * Statsborgerskap: Norsk
+ * Fødselsår: 1943
+* Rolf Rønning
+ * Statsborgerskap: Norsk
+ * Fødselsår: 1946
+* Rune Mathisen
+ * Statsborgerskap: Norsk
+ * Fødselsår: 1968
+* Bengt Starrin
+ * Statsborgerskap: Svensk
+ * Fødselsår: 1947
+* Lars Dahlgren
+ * Statsborgerskap: Svensk
+ * Fødselsår: 1948
+
+### Låntakere:
+* Ole Olsen
+ * Nygata 2
+ * 4609
+ * 99988777
+* Jens Jensen
+ * Gamlegata 3
+ * 4609
+ * 44455666
+* Nils Nilsen
+ * Slottsplassen 1
+ * 0010 Oslo
+ * 12345678
 
