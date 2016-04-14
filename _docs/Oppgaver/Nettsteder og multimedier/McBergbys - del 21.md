@@ -8,9 +8,9 @@ Bruk et bilderedigeringsprogram og lag en reklameplakat for McBergbys. Ta gjerne
 
 Du kan bruke [Adobe Photoshop](https://www.adobe.com/no/products/photoshop.html), [GIMP](https://www.gimp.org/) eller [Paint.NET](http://www.getpaint.net/index.html) for å løse denne oppgaven.
 
-Du skal gjøre deg kjent med ulike verktøy og funksjoner i bilderedigeringsprogrammet, og trene spesielt på å bruke markeringsverktøyet (eng: selection tool) og lag-funksjonen (eng: layers). Plakaten skal også inneholde firmanavn (McBergbys) og et slagord (for eksempel "Helt greie burgere"). Den ferdige plakaten skal være sammensatt av flere lag med minimum en bakgrunn, et utsnitt fra et annet bilde, tekst og effektlag.
+Du skal gjøre deg kjent med ulike verktøy og funksjoner i bilderedigeringsprogrammet, og trene spesielt på å bruke markeringsverktøyet (eng: selection tool) og lag-funksjonen (eng: layers). Plakaten skal også inneholde firmanavn (McBergbys) og et slagord (for eksempel "Helt greie burgere"). Den ferdige plakaten skal være sammensatt av flere lag med minimum en bakgrunn, et utsnitt fra et annet bilde, tekst og justeringslag. Du skal også bruke effekter / filtre på noen av bildeelementene.
 
-Den ferdige reklameplakaten skal optimaliseres for bruk på nettsider. Den skal ha en bredde på maksimalt 400 piksler, og filstørrelsen skal være så liten som mulig uten at det går synlig utover bildekvaliteten.
+Den ferdige reklameplakaten skal optimaliseres for bruk på nettsider. Den skal ha en bredde på maksimalt 400 piksler, og filstørrelsen skal være så liten som mulig uten at det går synlig utover bildekvaliteten. Du skal levere inn både dokumentfila fra bilderedingeringsprogrammet og det nett-optimaliserte bildet.
 
 
 ## Ressurser
@@ -28,7 +28,8 @@ Den ferdige reklameplakaten skal optimaliseres for bruk på nettsider. Den skal 
 * Plakaten skal ha et bakgrunnsbilde som ikke er det samme som bildet/bildene du tar ut utsnitt fra.
 * Plakaten skal ha en tekst med firmanavn og et slagord.
 * Plakaten skal settes sammen i flere lag, minimum tre (en bakgrunn, et bildeutsnitt og tekst).
-* Du skal bruke minst ett effektlag (eng: layer effect) i plakaten.
+* Du skal bruke minst ett justeringslag (eng: adjustment layer) i plakaten.
+* Du skal bruke minst en effekt / et filter på deler av den ferdige plakaten. Om du bruker Photoshop skal du bruke "Smart Filter").
 * Den ferdige plakaten skal optimaliseres for bruk på nettsidene. Bredden skal være maksimalt 400 piksler. Filstørrelsen skal være så liten som mulig, men må balanseres opp mot bildekvaliteten. Formatet skal være JPG.
 * Du skal levere inn både PSD-fila og den optimaliserte JPG-bildefila til vurdering.
 
