@@ -4,11 +4,11 @@
 
 ## Oppgave
 
-Ta utgangspunkt i de løsningene du har laget tidligere (oppgave 13 og tidligere), og re-implementer dine tidligere valg av layout, farger og fonter. Hent også inn teksten du har skrevet til "Om McBergbys" (og eventuelt til de andre sidene, om du har gjort andre valg enn det du fikk utdelt som løsningsforslag til oppgave 21).
+Ta utgangspunkt i de løsningene du har laget tidligere (oppgave 13 og tidligere), og re-implementer dine tidligere valg av layout, farger og fonter. Hent også inn teksten du har skrevet til "Om McBergbys" (og eventuelt til de andre sidene, om du har gjort andre valg enn det du fikk utdelt som løsningsforslag til oppgave 19).
 
 Bildet som står på siden med bestillingsskjemaet (index.php) skal byttes ut med plakaten du laget i oppgave 21. Plakaten skal ha en bredde på maksimalt 400 piksler, og være optimalisert for bruk på web.
 
-Målet med denne oppgaven er at du skal ha en implementering som tydelig bærer ditt personlige preg. Se også etter løsninger for brukergrensesnittet som du mener at er bedre enn den løsninga du fikk i oppgave 21.
+Målet med denne oppgaven er at du skal ha en implementering som tydelig bærer ditt personlige preg. Se også etter løsninger for brukergrensesnittet som du mener at er bedre enn den løsninga du fikk i oppgave 19.
 
 Du har full frihet til å gjøre alle de endringene du måtte ønske, så lenge det ikke påvirker funksjonaliteten til web-applikasjonen og du forholder det til kravene om universell utforming. Sidene må også validere som gyldig HTML5.
 
@@ -24,8 +24,8 @@ Du har full frihet til å gjøre alle de endringene du måtte ønske, så lenge 
 
 * Alle sidene skal validere som HTML5 uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Plakatbildet skal være korrekt satt inn, og ha en bredde på maksimalt 400 piksler.
-* Farger og fonter skal være forskjellig fra løsningsforslaget som ble utdelt til oppgave 21.
-* Teksten på siden "Om McBergbys" skal være forskjellig fra løsningsforslaget som ble utdelt til oppgave 21.
+* Farger og fonter skal være forskjellig fra løsningsforslaget som ble utdelt til oppgave 19.
+* Teksten på siden "Om McBergbys" skal være forskjellig fra løsningsforslaget som ble utdelt til oppgave 19.
 
 
 ## Kompetansemål
