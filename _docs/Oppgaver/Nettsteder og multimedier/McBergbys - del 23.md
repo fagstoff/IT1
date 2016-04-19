@@ -22,7 +22,8 @@ Du ser et eksempel på hvordan løsningen kan se ut nedenfor.
 ## Vurderingskriterier
 
 * Siden skal validere som HTML5 uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
-* Submit fra det ene skjemaet skal hente fram siden `ordreliste.php` og vise det aktuelle ordrer ut fra hva som er valgt for ordrestatus i skjemaet.
+* Siden skal være tilgjengelig fra navigasjonsmenyen.
+* Submit fra det ene skjemaet skal hente fram siden `ordreliste.php` og vise det aktuelle ordrer ut fra hva som er valgt for ordrestatus i skjemaet. Skjemaet skal bruke `select`, og ha alle relevante ordrestatuser som valgbare elementer.
 * Submit fra det andre skjemaet skal hente fram siden `ordredetaljer.php` og vise detaljene for den spesifiserte ordren.
 
 ## Kompetansemål
