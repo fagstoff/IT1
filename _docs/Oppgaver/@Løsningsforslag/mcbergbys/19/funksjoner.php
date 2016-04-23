@@ -95,7 +95,6 @@ function lag_liste($listedata, $nummerert = FALSE) {
  * Nedenfor finner du SQL-koden du kan kjøre for å opprette databasen.
  * Du kan godt endre brukernavn og passord som er brukt nedenfor, men
  * pass på at du gjør endringene i både SQL-koden og PHP-koden!
- * Husk å fjerne // før du kjører koden i MySQL.
  * 
  * CREATE DATABASE mcbergbysdb;
  * GRANT ALL PRIVILEGES ON mcbergbysdb.* TO 'mcbruker'@'localhost' IDENTIFIED BY 'keHH-172QW_p';
@@ -156,6 +155,7 @@ function lagre_kunde($db_forbindelse, $fornavn, $etternavn, $tlf) {
   //Spørring for å legge inn en ny kunde med fornavn, etternavn og telefonnummer
   $spørring_legg_til_kunde = "INSERT INTO Kunder(fornavn,etternavn,tlf)
                               VALUES ('{$fornavn}','{$etternavn}','{$tlf}');";
+
   //Vi prøver å hente ut id-en for det gitte telefonnummeret
   $resultat = mysqli_query($db_forbindelse, $spørring_hent_kundeid);
   if ($rad = mysqli_fetch_row($resultat)) {
@@ -216,11 +216,15 @@ function lagre_ordre($db_forbindelse, $kundeid, $totalpris) {
  * @param string $kundeid
  * @param string $ordreid
  * @param string $produkt Må være en av oppslagene i produktnavn-kolonna i Produkter-tabellen
- * @return bool  TRUE ved suksess, FALSE ved feil (ikke i bruk)
+ * @return bool  TRUE ved suksess, FALSE dersom ingen ting blir gjort 
  */
 function lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $produkt) {
+  //Vi sjekker først om variablen $produkt har en verdi. Hvis den ikke har det, returnerer vi med en gang.
+  if ($produkt == NULL) return FALSE;
+  
   //Vi trenger en spørring for å hente ut produktid og pris for det ønskede produktet
   $spørring_finn_produkt = "SELECT id, pris FROM Produkter WHERE produktnavn = '{$produkt}'";
+
   //Vi må også ha en spørring for å redusere lagerbehodningen for produktet
   $spørring_reduser_beholdning = "UPDATE Produkter SET beholdning = beholdning - 1 WHERE produktnavn = '{$produkt}'";
   //Spørringen for å sette inn en ny rad i Ordredetaljer gjøres bare delvis klar her, 
@@ -239,10 +243,9 @@ function lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $produkt) {
   
   //Nå har vi nok informasjon til å gjøre klar en ny rad med ordredetaljer
   $spørring_legg_til_ordredetalj .= "({$ordreid}, {$produktinfo['id']}, 1, {$produktinfo['pris']})";
-
   $resultat = mysqli_query($db_forbindelse, $spørring_legg_til_ordredetalj);
   if (!$resultat) die("Innlegging av ordredetaljer feilet - " . mysqli_error($db_forbindelse));
-  return TRUE;//Alternativt droppe die() og heller sette denne til FALSE ved problemer.
+  return TRUE;
 }
 
 

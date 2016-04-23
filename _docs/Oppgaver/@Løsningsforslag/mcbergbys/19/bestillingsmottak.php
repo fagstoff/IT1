@@ -52,8 +52,10 @@ if ($tlf_ok) {
   lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $burger);
   lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $drikke);
   lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $tilbehør);
-  foreach($ekstra as $e) {//Går gjennom alle bestillingene i "ekstra"
-    lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $e);
+  if (is_array($ekstra)) {
+    foreach($ekstra as $e) {//Går gjennom alle bestillingene i "ekstra"
+      lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $e);
+    }
   }
 }
 ?>
