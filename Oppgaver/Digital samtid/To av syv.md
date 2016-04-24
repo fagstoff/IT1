@@ -38,9 +38,9 @@ Er du av den tekniske typen kan du bruke disse tre videoene som utgangspunkt for
 
 Om du ønsker å belyse et etisk og moralsk tema kan du for eksempel velge deg en av disse filmene som utgangspunkt (velg bare en av filmene til nettstedet ditt):
 
-* [The Internet's Own Boy: The Story of Aaron Swartz](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/internets-own-boy.html)
-* [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/wikileaks-documentary.html)
-* [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/_docs/Filmer/tpb-afk.html)
+* [The Internet's Own Boy: The Story of Aaron Swartz](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/internets-own-boy.html)
+* [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/wikileaks-documentary.html)
+* [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/tpb-afk.html)
 
 ## Kompetansemål
 

@@ -4,7 +4,7 @@ Du skal gjennomføre kurset ["Intro til SQL: oppgave og databehandling"](https:/
 
 Khan Academy-kurset består av fire seksjoner. I seksjonen "Relational Queries in SQL" skal du kun gjennomføre de tre første delene (fram til og med "Challenge: Bobby's Hobbies"). Resten av denne seksjonen er valgfritt fordypningsstoff. Du bør forsøke å fullføre alle de andre seksjonene i kurset, se vurderingskriteriene nedenfor.
 
-Du bør lese gjennom [denne grunnopplæringa i SQL](https://github.com/fagstoff/IT1/blob/master/_docs/fagstoff/databaser/02.%20SQL.md).
+Du bør lese gjennom [denne grunnopplæringa i SQL](https://github.com/fagstoff/IT1/blob/master/Fagstoff/databaser/02.%20SQL.md).
 
 Det kan også være kjekt å ha et oppslagsverk for SQL-språket, da kan du se på [SQL Quick Reference](http://www.w3schools.com/sql/sql_quickref.asp) fra W3Schools.
 

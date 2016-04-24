@@ -14,4 +14,4 @@ Den siste deloppgaven har temaer som er relevante for læreplanens hovedområde 
 
 ### Eksempeloppgavesett
 Eksempel på et oppgavesett laget etter malen som er skissert ovenfor:
-* [Eksamen i IT1 - eksempeloppgavesett 1](https://github.com/fagstoff/IT1/blob/master/_docs/Eksamen/Eksamen%20i%20IT1%20-%20eksempeloppgavesett%201.md)
+* [Eksamen i IT1 - eksempeloppgavesett 1](https://github.com/fagstoff/IT1/blob/master/Eksamen/Eksamen%20i%20IT1%20-%20eksempeloppgavesett%201.md)

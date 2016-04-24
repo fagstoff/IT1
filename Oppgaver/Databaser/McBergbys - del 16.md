@@ -377,7 +377,7 @@ Her er det mye som skal klaffe for at alt skal fungere. Spør om hjelp dersom du
 
 * Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Du må ha tilgang til en Web-server som kan kjøre PHP-filer.
-* Relevant fagtekst til oppgaven [finner du her](https://github.com/fagstoff/IT1/blob/master/_docs/fagstoff/databaser/04.%20PHP.md).
+* Relevant fagtekst til oppgaven [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagstoff/databaser/04.%20PHP.md).
 * Du bør også bruke [PHP 5 Tutorial](http://www.w3schools.com/php/default.asp) fra W3Schools som oppslagsverk når du jobber.
 
 ## Vurderingskriterier
