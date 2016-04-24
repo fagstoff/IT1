@@ -10,7 +10,7 @@ Pass på at primærnøkkelen i Ordredetaljer-tabellen er en sammensatt nøkkel. 
 
 Kolonnene `tlf` i Kunder-tabellen og `produktnavn` i Produkter-tabellen skal brukes mye til oppslag i disse tabellene, og du må derfor skrive nødvendig kode for å indeksere disse kolonnene.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18.png)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-18.png)
 
 Når du har laget tabellene, kan du sette inn disse radene i Produkter-tabellen:
 ``` sql
@@ -107,11 +107,11 @@ VALUES
 
 **Eksempel på forventet resultat fra spørring 7:**
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18-q7.png)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-18-q7.png)
 
 **Eksempel på forventet resultat fra spørring 8:**
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-18-q8.png)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-18-q8.png)
 
 
 ## Kompetansemål

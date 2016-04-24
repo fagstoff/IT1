@@ -8,7 +8,7 @@ McBergbys ønsker å utvikle nettsider som blant annet inneholder et bestillings
 
 Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-1.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-1.jpg)
 
 Ressurser
 ---------

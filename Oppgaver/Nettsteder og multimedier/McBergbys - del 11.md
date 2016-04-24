@@ -33,7 +33,7 @@ I mottaksfila `bestillingsmottak.php` bruker du PHP-funksjonen `print_r` for å 
 
 Når du fyller ut bestillingsskjemaet og trykker "Send bestilling" skal resultatet se omtrent slik ut:
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-11.png)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-11.png)
 
 ## Ressurser
 

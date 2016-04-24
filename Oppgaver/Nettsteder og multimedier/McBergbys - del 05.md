@@ -8,7 +8,7 @@ Du skal ta utgangspunkt i det du laget i `McBergbys del 4`, og sørge for at des
 
 Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger ikke å forsøke å kopiere dette.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-5.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-5.jpg)
 
 Ressurser
 ---------

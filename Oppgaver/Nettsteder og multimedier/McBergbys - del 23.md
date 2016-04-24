@@ -11,7 +11,7 @@ Lag en ny side `ordrer.php`. Denne siden skal inneholde to skjemaer:
 
 Du ser et eksempel på hvordan løsningen kan se ut nedenfor.
 
-![McBergbys oppgave 23](https://raw.githubusercontent.com/fagstoff/IT1/master/img/mcbergbys-23.png)
+![McBergbys oppgave 23](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-23.png)
 
 
 ## Ressurser
