@@ -12,7 +12,7 @@ Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger i
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om utforming og presentasjon på denne siden](https://uu.difi.no/artikkel/2015/07/utforming-og-presentasjon).
 
 Vurderingskriterier

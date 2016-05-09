@@ -10,7 +10,7 @@ Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet ned
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Bildet du skal sette inn på siden kan [kan du laste ned her](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/hamburgers.jpg). Du må selv sørge for å endre størrelsen på bildet, det skal være 400 piksler i bredden når det er satt inn i den ferdige HTML-siden.
 
 Vurderingskriterier
