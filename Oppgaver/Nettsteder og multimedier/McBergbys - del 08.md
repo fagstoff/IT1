@@ -14,7 +14,7 @@ Du skal bruke HTML-taggen `<nav>` til navigasjonsmenyen.
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Et eksempel på hvordan du kan bruke `<nav>` og CSS for å lage en navigansjonmeny kan du se på [denne siden hos webcodegeeks.com](http://www.webcodegeeks.com/html5/html5-navigation-bar-example/).
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om navigasjon her](http://uu.difi.no/artikkel/2015/07/navigasjonsmetoder).
 

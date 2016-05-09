@@ -14,7 +14,7 @@ Du må bruke CSS for å få de ulike boksene på siden til å plasseres riktig. 
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Kartet henter du fra [karttjenesten fra finn.no](http://kart.finn.no). bruk menyen "Link" oppe til høyre på finn.no og velg "Kartgenerator".
 * Om du ikke orker å skrive noe fornuftig om McBergbys, kan du [generere en test-tekst her](http://no.lipsum.com/).
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om utforming og presentasjon på denne siden](https://uu.difi.no/artikkel/2015/07/utforming-og-presentasjon).

@@ -10,7 +10,7 @@ Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys aut
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/Nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/Nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Bruk nettet for å finne spennende CSS-eksempler, du kan for eksempel [starte her](http://www.w3schools.com/css/css_examples.asp).
 
 Vurderingskriterier
