@@ -2,7 +2,8 @@ Oversikt over McBergbys-oppgaver
 ================================
  * [Del 1 - Hallo verden](Nettsteder og multimedier/McBergbys - del 01.md) *(Nettsteder og multimedier)*
  * [Del 2 - Bilder i HTML](Nettsteder og multimedier/McBergbys - del 02.md) *(Nettsteder og multimedier)*
- * [Del 3 - HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 03.md) *(Nettsteder og multimedier)*
+ * [Del 3a - HTML-skjemaer](Nettsteder og multimedier/McBergbys - del 03a.md) *(Nettsteder og multimedier)*
+ * [Del 3b - HTML-tabeller](Nettsteder og multimedier/McBergbys - del 03b.md) *(Nettsteder og multimedier)*
  * [Del 4 - CSS](Nettsteder og multimedier/McBergbys - del 04.md) *(Nettsteder og multimedier)*
  * [Del 5 - Universell utforming](Nettsteder og multimedier/McBergbys - del 05.md) *(Nettsteder og multimedier)*
  * [Del 6 - Embedding av video](Nettsteder og multimedier/McBergbys - del 06.md) *(Nettsteder og multimedier)*
