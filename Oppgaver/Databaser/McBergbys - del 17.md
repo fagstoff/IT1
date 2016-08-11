@@ -26,6 +26,7 @@ Tenk nøye gjennom hva slags data dere vil lagre. Hvilke tabeller (entiteter) tr
 
 ## Kompetansemål
 
+* gjøre rede for begrepene primærnøkkel, kandidatnøkkel, fremmednøkkel og atomærkravet
 * utvikle normaliserte datamodeller ut fra problemstillinger og begrunne valgene som er gjort
 * lage databaser i henhold til gitte datamodeller
 * utvikle, presentere og begrunne databaseapplikasjoner
