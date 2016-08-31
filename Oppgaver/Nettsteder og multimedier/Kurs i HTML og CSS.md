@@ -12,6 +12,6 @@ Når du jobber med dette kurset kan det også være kjekt å bruke [HTML Element
 
 ## Vurderingskriterier:
 
-* **Høy kompetanse:** Har fullført alle utfordringer og quiz-er fram til og med "CSS Layout", og fullført flere prosjekter. Prosjektene skal være korrekt utført i forhold til egenmeldingen eleven avgir når prosjektet avsluttes.
+* **Høy kompetanse:** Har fullført alle utfordringer og quiz-er (untatt delen "Flere CSS velgere"), og fullført flere prosjekter. Prosjektene skal være korrekt utført i forhold til egenmeldingen eleven avgir når prosjektet avsluttes.
 * **Middels kompetanse:** Har fullført mer enn halvparten av alle utfordringer og quiz-er  fram til og med "CSS Layout", og minst ett prosjekt. Prosjektet skal være korrekt utført i forhold til egenmeldingen eleven avgir når prosjektet avsluttes.
 * **Lav kompetanse:** Har sett gjennom mer enn halvparten av kurset fram til og med "CSS Layout", og fullført minst én utfordring og én quiz.
