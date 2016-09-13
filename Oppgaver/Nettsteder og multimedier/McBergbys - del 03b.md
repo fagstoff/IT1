@@ -1,6 +1,6 @@
 McBergbys del 3b: HTML-tabeller
 ==============================
-**Nå skal du lage en tabell i HTML.**
+**Denne oppgaven er ikke ferdig. Gjør heller oppgavene "Timeplanen 1.0", "Timeplanen 2.0" og "Timeplanen 3.0"**
 
 Oppgave
 -------
