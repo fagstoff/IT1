@@ -1,6 +1,6 @@
 De viktigste komponentene i en PC
 =================================
-Dette er en gruppeoppgave hvor dere skal demontere en PC, og sette sammen igjen. Underveis skal dere dokumentere alle de viktigste komponentene med bilder.
+Dette er en gruppeoppgave hvor dere skal demontere en PC, og deretter sette den sammen igjen. Underveis skal dere dokumentere alle de viktigste komponentene med bilder.
 
 Når dere er ferdig med demontering og montering, skal dere lage en kort rapport hvor dere beskriver alle de viktigste komponentene i en PC. Gruppa må velge de delene dere mener er nødvendig i alle PC-er. Ikke ta med deler som ikke er essensielle.
 
@@ -16,6 +16,6 @@ Kompetansemål fra Digital samtid
 
 Vurderingskriterier
 -------------------
-* Høy kompetanse: Har med alle de nødvendige delene i en PC i beskrivelsen, og har ikke med noen komponenter som ikke er nødvendig for å få en PC til å fungere. Forklarer funksjon og virkemåte til hver enkelt del på en kort og presis måte, med bare ubetydelige feil og mangler. Foreslår et relevant operativsystem, og gjør rede for hensikt og virkemåte. Demonterer og monterer PC-en selvstendig og feilfritt.
+* Høy kompetanse: Har med alle de nødvendige delene i en PC i beskrivelsen, og har ikke med noen komponenter som ikke er nødvendig for å få en PC til å fungere. Reflekterer over valgene av komponenter. Forklarer funksjon og virkemåte til hver enkelt del på en kort og presis måte, med bare ubetydelige feil og mangler. Foreslår et relevant operativsystem, og gjør rede for hensikt og virkemåte. Demonterer og monterer PC-en selvstendig og feilfritt.
 * Middels kompetanse:  Har med alle de nødvendige delene i en PC i beskrivelsen. Forklarer funksjon og virkemåte på en lettforståelig måte. Foreslår et relevant operativsystem, og gjør rede for hensikten med dette. Demonter og monterer PC-en feilfritt med noe hjelp, eller med mindre avvik uten hjelp.
 * Lav kompetanse: Har med flere av de nødvendige delene i en PC i beskrivelsen. Forklarer funksjon og virkemåte som i hovedtrekk er korrekt. Foreslår et operativsystem. Demonter og monterer PC-en under veiledning.
