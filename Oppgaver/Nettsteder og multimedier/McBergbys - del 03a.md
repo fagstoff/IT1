@@ -1,6 +1,6 @@
 McBergbys del 3a: HTML-skjemaer
 ==============================
-**Nå skal du lage et skjema i HTML. Senere skal du koble dette skjemaet mot en database, sånn at du til slutt har en komplett web-applikasjon for hurtigmatkjeden McBergbys.**
+**En av de aller viktigste delene av bestillingsskjemaet til McBergbys, er et pent og brukervennlig bestillingsskjema. Nå skal du lage et skjema i HTML. Senere skal du koble dette skjemaet mot en database, sånn at du til slutt har en komplett web-applikasjon for hurtigmatkjeden McBergbys.**
 
 Oppgave
 -------
