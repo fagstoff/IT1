@@ -1,6 +1,6 @@
 McBergbys del 1: Hallo verden
 =============================
-**Hurtigmatkjeden McBergbys satser stort, og trenger gode nettsider. Nå skal du lage den første HTML-siden i et stort utviklingsprosjekt som skal gå over et helt år.**
+**Hurtigmatkjeden McBergbys satser stort, og trenger gode nettsider. Du er foreløpig den eneste IT-ansatte i bedriften. Nå skal du lage den første HTML-siden i et stort utviklingsprosjekt som skal gå over et helt år.**
 
 Oppgave
 -------
