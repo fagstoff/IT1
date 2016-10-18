@@ -12,7 +12,7 @@ Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger i
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om utforming og presentasjon på denne siden](https://uu.difi.no/artikkel/2015/07/utforming-og-presentasjon).
 * Difi har også [forslag til test av nettsider](https://uu.difi.no/artikkel/2016/02/hvordan-teste-universell-utforming-av-ditt-nettsted), hvor gode er sidene du har laget?
 * Du kan sjekke sidene dine med [Web Accessibility Checker](http://achecker.ca/checker/index.php).
