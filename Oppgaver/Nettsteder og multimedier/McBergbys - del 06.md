@@ -13,7 +13,7 @@ Den første videoen på siden må du laste ned på egen PC. Plasser den i en map
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
-* Videoen som skal embeddes med `<video>`-taggen [kan du laste ned her](https://github.com/fagstoff/IT1/tree/master/Video).
+* Videoen som skal embeddes med `<video>`-taggen [kan du laste ned her](https://raw.githubusercontent.com/fagstoff/IT1/master/Video/how-to-eat-a-hamburger.mp4).
 * Du kan lese om bruk av `<video>`-taggen på [w3schools.com](http://www.w3schools.com/tags/tag_video.asp).
 * Videoen som skal embeddes fra YouTube [kan du se her](http://youtu.be/lz0IT4Uk2xQ?t=17s). Den skal embeddes med bruk av `<iframe>`-taggen. Trykk på "Del -> Innbygg" på YouTube. 
 * Du kan lese om bruk av `<iframe>`-taggen på [w3schools.com](http://www.w3schools.com/html/html_youtube.asp).
