@@ -41,6 +41,7 @@ Om du ønsker å belyse et etisk og moralsk tema kan du for eksempel velge deg e
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/internets-own-boy.html)
 * [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/wikileaks-documentary.html)
 * [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/tpb-afk.html)
+* [Citizenfour](http://www.vgtv.no/#!/video/116777/citizenfour)
 
 ## Kompetansemål
 
