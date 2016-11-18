@@ -46,11 +46,11 @@ I tillegg til de valgte kompetansemåla fra hovedområdet Digital samtid, dekker
 
 ## Vurderingskriterier
 
-**Høy kompetanse:** Nettstedet er utformet i henhold til spesifikasjonene som er gitt i denne oppgaven. Eventuelle avvik fra spesifikasjonene er bevisste valg fra eleven. De valgte kompetansemålene fra Digital samtid behandles på en reflektert måte med god bruk av flere kilder som gir ulike innfallsvinkler til temaet. Multimedieinnhold er integrert i nettsidene på en slik måte at det gir både en visuell og faglig berikelse.
+**Høy kompetanse (5-6):** Nettstedet er utformet i henhold til spesifikasjonene som er gitt i denne oppgaven. Eventuelle avvik fra spesifikasjonene er bevisste valg fra eleven. De valgte kompetansemålene fra Digital samtid behandles på en reflektert måte med god bruk av flere kilder som gir ulike innfallsvinkler til temaet. Multimedieinnhold er integrert i nettsidene på en slik måte at det gir både en visuell og faglig berikelse.
 
-**Middels kompetanse:**  Nettstedet er hovedsakelig utformet i henhold til spesifikasjonene som er gitt i denne oppgaven, med bare mindre avvik og mangler. De valgte kompetansemålene fra Digital samtid behandles på en god måte med god bruk av flere kilder. Multimedieinnholdet som brukes på sidene belyser temaet på en god måte.
+**Middels kompetanse (3-4):**  Nettstedet er hovedsakelig utformet i henhold til spesifikasjonene som er gitt i denne oppgaven, med bare mindre avvik og mangler. De valgte kompetansemålene fra Digital samtid behandles på en god måte med god bruk av flere kilder. Multimedieinnholdet som brukes på sidene belyser temaet på en god måte.
 
-**Lav kompetanse:**  Nettstedet består av minst tre sider som inneholder tekst og bilder. Eleven holder seg til valgt tema og oppgir noen kilder. Multimedieinnholdet som brukes på sidene er relevante for temaet.
+**Lav kompetanse (2):**  Nettstedet består av minst tre sider som inneholder tekst og bilder. Eleven holder seg til valgt tema og oppgir noen kilder. Multimedieinnholdet som brukes på sidene er relevante for temaet. Det valgte temaet er relevant i forhold til komeptansemålene.
 
 ---
 
