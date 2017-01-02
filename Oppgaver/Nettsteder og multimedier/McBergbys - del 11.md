@@ -39,7 +39,7 @@ Når du fyller ut bestillingsskjemaet og trykker "Send bestilling" skal resultat
 
 * Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Du må ha tilgang til en Web-server som kan kjøre PHP-filer.
-* Relevant fagtekst til oppgaven [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagstoff/databaser/04.%20PHP.md).
+* Relevant fagtekst til oppgaven [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagtekster/databaser/04.%20PHP.md).
 
 ## Vurderingskriterier
 
