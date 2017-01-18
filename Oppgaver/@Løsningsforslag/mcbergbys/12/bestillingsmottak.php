@@ -49,7 +49,7 @@
       <!-- I PHP-koden nedenfor brukes flere funksjoner som har med lister (arrays) å gjøre. -->
 	  <?php
       // Først tester vi om vi faktisk har en array i variabelen $_POST['ekstra']
-      if(is_array($_POST['ekstra'])) {
+      if(isset($_POST['ekstra'])) {
         echo "Vi noterte oss også at du bestilte litt ekstrautstyr til burgeren din. Her er hva vi har registrert:\n";
         echo "<ul>\n";
         //Nå jobber vi oss steg for steg gjennom hele lista, 
