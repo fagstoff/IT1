@@ -10,7 +10,7 @@ I tillegg til navigasjonsmenyen må du bruke PHP for å lage en side som ser pen
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-12.jpg)
 
-Bestillingen kommer som et `array` i variablen `$_POST`, og du må lage en løkke som går gjennom alle elementene i arrayet. Du kan for eksempel bruke `foreach($_POST as $key => $value){...}`.
+Bestillingen kommer som et `array` i variablen `$_POST`, og du må lage en løkke som går gjennom alle elementene i arrayet. Du kan for eksempel bruke `foreach($_POST['ekstra'] as $e) {...}`. Pass på at variabelnavnet (`ekstra`) passer med det du har brukt i bestillingsskjemaet ditt.
 
 ## Ressurser
 
