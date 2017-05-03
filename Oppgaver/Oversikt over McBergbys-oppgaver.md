@@ -25,3 +25,5 @@ Oversikt over McBergbys-oppgaver
  * [Del 21 - Lage plakat i et bilderedigeringsprogram](Nettsteder og multimedier/McBergbys - del 21.md) *(Nettsteder og multimedier)*
  * [Del 22 - HTML og CSS (repetisjonsoppgave 1)](Nettsteder og multimedier/McBergbys - del 22.md) *(Nettsteder og multimedier)*
  * [Del 23 - HTML, CSS og PHP (repetisjonsoppgave 2)](Nettsteder og multimedier/McBergbys - del 23.md) *(Nettsteder og multimedier)*
+
+--- 
