@@ -1,6 +1,6 @@
 # McPay
 
-I forrige uke ble det rapportert om en kunde som prøvde å betale på McBergbys med [Bitcoin](https://no.wikipedia.org/wiki/Bitcoin). Betjeningen ble veldig forvirret, og kunne ikke hjelp stakkars jenta, som derfor måtte forlate stedet uten mat. Saken ble rapportert, og sjefen ønsker å lære seg mer om denne teknologien slik at McBergbys kan kapre flere Bitcoinkunder.
+I forrige uke ble det rapportert om en kunde som prøvde å betale på McBergbys med [Bitcoin](https://no.wikipedia.org/wiki/Bitcoin). Betjeningen ble veldig forvirret, og kunne ikke hjelpe den stakkars jenta, som derfor måtte forlate stedet uten mat. Saken ble rapportert, og sjefen ønsker å lære seg mer om denne teknologien slik at McBergbys kan kapre flere Bitcoinkunder.
 
 Oppgave
 -------
