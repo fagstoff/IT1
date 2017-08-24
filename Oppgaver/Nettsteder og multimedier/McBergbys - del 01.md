@@ -12,7 +12,8 @@ Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet ned
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
+* Du trenger en teksteditor og en nettleser til denne oppgaven. 
+* Du kan finne hjelp til å lære deg HTML på [w3schools](https://www.w3schools.com/html/default.asp).
 
 Vurderingskriterier
 -------------------
