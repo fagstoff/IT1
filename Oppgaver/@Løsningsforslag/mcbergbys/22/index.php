@@ -7,7 +7,8 @@ require 'funksjoner.php';
 <!DOCTYPE html>
 <html lang="no">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta author="bitjungle">
     <title>McBergbys bestillingssystem</title>
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
     <link rel="icon" type="image/png" href="bilder/mcbergbys-favicon.png">

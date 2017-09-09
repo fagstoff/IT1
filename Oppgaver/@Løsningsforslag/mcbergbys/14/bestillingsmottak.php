@@ -129,7 +129,8 @@ mysqli_close($db_forbindelse);
 <!DOCTYPE html>
 <html lang="no">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta author="bitjungle">
     <title>Bestillingsmottak</title>
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
