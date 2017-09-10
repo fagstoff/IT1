@@ -1,5 +1,5 @@
-McBergbys del 10: Opphavsrett
-============================
+McBergbys del 09b: Opphavsrett
+==============================
 **Det strømmer inn med klager til den juridiske avdelinga i McBergbys og nå har de fått inn flere klager fra personer og organisasjoner som mener at det blir brukt innhold på nettsidene som er opphavsrettsbeskyttet innhold uten tillatelse.**
 
 Oppgave

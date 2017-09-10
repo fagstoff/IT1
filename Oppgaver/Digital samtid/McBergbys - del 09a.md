@@ -1,5 +1,5 @@
-McBergbys del 09: Personvern
-============================
+McBergbys del 09a: Personvern
+=============================
 **Den juridiske avdelinga til McBergbys har fått inn en klage. Noen har påpekt at bestillingssystemet legger opp til å lagre navn og annen personinformasjon sammen med bestillingen av mat. Er det lov? Dette må utredes!**
 
 Oppgave
