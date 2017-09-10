@@ -4,7 +4,7 @@ McBergbys del 2: Bilder i HTML
 
 Oppgave
 -------
-Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Hamburgerbildet skal lagres i en egen mappe som har navnet `bilder`. 
+Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor.  Nettsiden skal lagres i en mappe med navnet `mcbergbys-02`. Hamburgerbildet skal lagres i en egen mappe som har navnet `bilder`, og denne mappa skal ligge i `mcbergbys-02`-mappa. 
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-2.jpg)
 
@@ -17,13 +17,14 @@ Vurderingskriterier
 -------------------
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Bildet skal være 800 piksler i bredden.
+* Mapper og filnavn skal være i henhold til spesifikasjonene i oppgaven.
 
 Kompetansemål
 -------------
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 * organisere og begrunne filstrukturen for nettsteder
 
->Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin) og endret av [bitjungle](https://github.com/bitjungle).  
+>Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin) og [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en
 >[Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.
 ](http://creativecommons.org/licenses/by-sa/4.0/)
