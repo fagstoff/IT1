@@ -8,7 +8,7 @@ I rapporten beskriver dere hvordan delene i PC-en er koblet sammen, og gi en enk
 
 Fordel oppgaven med å skrive om de enkelte komponentene mellom gruppemedlemmene. Beskrivelsene bør være korte og presise. Beskrivelsen av hver enkelt komponent skal illustreres med bildene dere tok når dere demonterte PC-en. Dere skal maksimalt bruke 200 ord i beskrivelsen av hver enkelt komponent.
 
-Til slutt i rapporten skal dere kort si noe om hva gruppa føler at læringsutbyttet av denne oppgava har vært. Husk også å få med kilder dere har brukt når dere har utarbeidet rapporten.
+Til slutt i rapporten skal gruppa gi en kort vurdering av hvordan læringsutbyttet har vært. Husk også å få med kilder dere har brukt når dere har utarbeidet rapporten. Bruk gjerne APA.
 
 Kompetansemål fra Digital samtid
 --------------------------------
