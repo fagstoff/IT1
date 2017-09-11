@@ -2,7 +2,7 @@ De viktigste komponentene i en PC
 =================================
 Dette er en gruppeoppgave hvor dere skal demontere en PC, og deretter sette den sammen igjen. Underveis skal dere dokumentere alle de viktigste komponentene med bilder.
 
-Når dere er ferdig med demontering og montering, skal dere lage en kort rapport hvor dere beskriver alle de viktigste komponentene i en PC. Gruppa må velge de delene dere mener er nødvendig i alle PC-er. Ikke ta med deler som ikke er essensielle.
+Når dere er ferdig med demontering og montering, skal dere lage en kort rapport hvor dere beskriver alle de viktigste komponentene i en PC. Gruppa må velge de delene dere mener er nødvendig i alle PC-er. Ikke ta med deler som ikke er helt nødvendige.
 
 I rapporten beskriver dere hvordan delene i PC-en er koblet sammen, og gi en enkel forklaring på funksjon og virkemåte for de enkelte delene. Dere må også komme med forslag til minst ett operativsystem som kan brukes på PC-en, og forklare hva hensikten med et operativsystem er.
 
