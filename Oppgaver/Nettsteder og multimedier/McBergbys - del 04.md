@@ -4,9 +4,9 @@ McBergbys del 4: CSS
 
 Oppgave
 -------
-Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys automagiske bestillingssystem - del 3`, slik at den blir mye penere og tøffere enn det du ser på bildet nedenfor. Nettsiden skal lagres i en mappe med navnet `mcbergbys-04`. For å endre utseende på nettsiden skal du bruke CSS. Legg inn denne koden i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
+Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys automagiske bestillingssystem - del 3`, slik at den blir mye penere og tøffere enn det du ser på bildet nedenfor (klikk på bildet for å se det i stor størrelse). Nettsiden skal lagres i en mappe med navnet `mcbergbys-04`. For å endre utseende på nettsiden skal du bruke CSS. Legg inn denne koden i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-4.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB04.png)
 
 Ressurser
 ---------
