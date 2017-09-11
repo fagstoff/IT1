@@ -6,7 +6,7 @@ Oppgave
 -------
 Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Hele oppgaven skal lagres i en mappe med navnet `mcbergbys-03`. Hamburgerbildet skal lagres i en egen mappe som har navnet `bilder`. 
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB03.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB03.png)
 
 Ressurser
 ---------
