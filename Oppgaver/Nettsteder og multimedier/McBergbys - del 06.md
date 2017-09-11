@@ -4,7 +4,7 @@ McBergbys del 6: Embedding av video
 
 Oppgave
 -------
-Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden.
+Lag en nettside som inneholder to videoer, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden. Nettsiden skal hete `hamburgerskolen.html`, og skal lagres i en mappe med navnet `mcbergbys-06`. Videoen skal ligge i en undermappe som heter `video`.
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-6.jpg)
 

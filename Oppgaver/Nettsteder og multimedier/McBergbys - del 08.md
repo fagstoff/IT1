@@ -4,7 +4,7 @@ McBergbys del 8: Navigasjonsmeny
 
 Oppgave
 -------
-Kopier de tre sidene du har laget fra før (i oppgavedelene fra 1 til 7) over i et nytt prosjekt. Ta også med alle mapper som inneholder bilder, videoer og stilark. Du skal nå lage en navigasjonsmeny som gjør at besøkende enkelt kan forflytte seg mellom dem. En mulig løsning er vist i bildet nedenfor.
+Kopier de tre sidene du har laget fra før (i oppgavedelene fra 1 til 7) over i et nytt prosjekt. Ta også med alle mapper som inneholder bilder, videoer og stilark. Du skal nå lage en navigasjonsmeny som gjør at besøkende enkelt kan forflytte seg mellom dem. En mulig løsning er vist i bildet nedenfor. Nettsidene skal lagres i en mappe med navnet `mcbergbys-08`. Bilder, CSS-filer og video skal lagres i undermapper som henholdsvis heter `bilder`, `stiler` og `video`.
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-8.jpg)
 

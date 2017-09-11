@@ -4,7 +4,7 @@ McBergbys del 7: Lister og bokser
 
 Oppgave
 -------
-Lag en nettside som inneholder en liste, en tekst og et kart, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden.
+Lag en nettside som inneholder en liste, en tekst og et kart, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden. Nettsiden skal hete `om.html`, og skal lagres i en mappe med navnet `mcbergbys-07`.
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-7.jpg)
 

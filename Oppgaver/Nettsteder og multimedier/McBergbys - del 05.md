@@ -4,7 +4,7 @@ McBergbys del 5: Universell utforming
 
 Oppgave
 -------
-Du skal ta utgangspunkt i det du laget i `McBergbys del 4`, og sørge for at designet oppfyller kravene til universell utforming. I tillegg skal du rette opp alle feil og problemer i CSS-fila du bruker.
+Du skal ta utgangspunkt i det du laget i `McBergbys del 4`, og sørge for at designet oppfyller kravene til universell utforming. I tillegg skal du rette opp alle feil og problemer i CSS-fila du bruker. Nettsiden skal lagres i en mappe med navnet `mcbergbys-05`.
 
 Bildet nedenfor er bare et eksempel på hvordan siden kan utformes, du trenger ikke å forsøke å kopiere dette.
 
