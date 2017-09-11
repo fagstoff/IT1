@@ -1,6 +1,6 @@
 McBergbys del 8X: Mobiltilpassede nettsider
 ===========================================
-**McBerbys forskningsavdeling, eller avdeling X, har dylig bitt oppretta. De skal jobbe med løsninger for framtida, for eksempel utkjøring av bestillinger med autonome kjøretøy og betaling med kryptovaluta. Du har lyst på en jobb i den avdelinga, og for å vise hva du kan skal du mobiltilpasse McBergbys-nettsidene med biblioteket [Bootstrap](https://getbootstrap.com/).**
+**McBerbys forskningsavdeling, eller avdeling X, har nylig blitt oppretta. De skal jobbe med løsninger for framtida, for eksempel utkjøring av bestillinger med [autonome kjøretøy](https://en.wikipedia.org/wiki/Autonomous_car) og betaling med [kryptovaluta](https://en.wikipedia.org/wiki/Cryptocurrency). Du har lyst på en jobb i den avdelinga, og for å vise hva du kan skal du mobiltilpasse McBergbys-nettsidene med biblioteket [Bootstrap](https://getbootstrap.com/).**
 
 Oppgave
 -------
