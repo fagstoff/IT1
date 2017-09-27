@@ -8,11 +8,9 @@ Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i b
 
 I versjon 3 av timeplanen skal du få infoboks og bilde til å flyte til høyre for selve timeplanen. Klikk på bildet nedenfor for å se det i stor størrelse. Opprett en egen CSS-fil som du plasserer i mappa `stiler`. Bruk CSS-koden `float` for å plassere de ulike elementene på siden. Infoboksen skal være 250 piksler bred og ha fargen `silver`.
 
-Legg merke til hva som skjer med visning av nettsiden dersom du gjør nettleservinduet ditt smalt.
-
+Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre.
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan3-1.png)
-
 
 Ressurser
 ---------
