@@ -20,7 +20,7 @@ Ressurser
 
 Vurderingskriterier
 -------------------
-* Utseendet skal være utformet i henhold til kravene om universell utforming.
+* Utseendet skal, så langt det er praktisk mulig, være utformet i henhold til kravene om universell utforming.
 * Siden skal fungere godt på en smal skjerm.
 * Siden skal fungere godt med 200 % forstørrelse i nettleseren.
 * HTML-kode skal ikke brukes for å lage layout på siden, det er kun CSS som skal benyttes til layout.
