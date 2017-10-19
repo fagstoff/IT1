@@ -16,7 +16,6 @@ Ressurser
 * Bruk [Tilsyn for universell utforming av IKT](http://uu.difi.no/) for å skaffe deg en oversikt over hvilke krav som stilles til universell utforming. Du finner [info om utforming og presentasjon på denne siden](https://uu.difi.no/artikkel/2015/07/utforming-og-presentasjon).
 * Difi har også [forslag til test av nettsider](https://uu.difi.no/artikkel/2016/02/hvordan-teste-universell-utforming-av-ditt-nettsted), hvor gode er sidene du har laget?
 * Du kan sjekke sidene dine med [Web Accessibility Checker](http://achecker.ca/checker/index.php).
-* Du kan måle kontrast med [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 
 Vurderingskriterier
 -------------------
