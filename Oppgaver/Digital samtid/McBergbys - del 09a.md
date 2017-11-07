@@ -8,7 +8,7 @@ Sjekk hvilke regler som gjelder for lagring av personinformasjon. Skriv også en
 
 Ressurser
 ---------
-* [Datatilsynet: Personvern på 1-2-3](http://www.datatilsynet.no/personvern/)
+* [Datatilsynet: Hva er personvern?](https://www.datatilsynet.no/om-personvern/hva-er-personvern/)
 * [Eksempel på en personvernerklæring: Wikipedia](https://meta.wikimedia.org/wiki/Privacy_policy/nb)
 
 Vurderingskriterier
