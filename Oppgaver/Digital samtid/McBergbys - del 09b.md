@@ -10,6 +10,11 @@ Ressurser
 ---------
 * [DelRett](http://DelRett.no)
 * [Åndsverkloven](https://lovdata.no/dokument/NL/lov/1961-05-12-2)
+* Bilder som kan brukes fritt: 
+  * [Unsplash](https://unsplash.com/)
+  * [Pixabay](https://pixabay.com/)
+  * [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+ 
 
 Vurderingskriterier
 -------------------
