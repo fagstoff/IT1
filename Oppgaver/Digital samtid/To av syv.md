@@ -29,10 +29,11 @@ Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om
 
 Her er noen forslag til temaer (velg deg en av disse filmene som utgangspunkt):
 
+* [Citizenfour](http://www.vgtv.no/#!/video/116777/citizenfour)
+* [Nobody Speak: Trials of the Free Press](https://en.wikipedia.org/wiki/Nobody_Speak:_Trials_of_the_Free_Press)
 * [The Internet's Own Boy: The Story of Aaron Swartz](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/internets-own-boy.html)
 * [The Wikileaks Documentary](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/wikileaks-documentary.html)
 * [TPB AFK - The Pirate Bay Away From Keyboard](https://htmlpreview.github.io/?https://github.com/fagstoff/IT1/blob/master/Filmer/tpb-afk.html)
-* [Citizenfour](http://www.vgtv.no/#!/video/116777/citizenfour)
 
 ## Kompetansemål
 
