@@ -97,33 +97,36 @@ $db_pass = 'keHH-172QW_p';
 //);
 //
 
-//Vi forsøker først å opprette forbindelsen med databasen.
-//Se https://secure.php.net/manual/en/function.mysqli-connect.php
-$db_forbindelse = mysqli_connect($db_host, $db_bruker, $db_pass, $db_navn);
-//Vi sjekker om forbindelsen ble opprettet
-if (mysqli_connect_errno()) {
-  die('Kunne ikke opprette forbindelse med databasen: ' . mysqli_connect_error()) ;
+// Dersom telefonnummeret er ok, lagrer vi bestillingen i databasen
+if ($tlf_ok) {
+  //Vi forsøker først å opprette forbindelsen med databasen.
+  //Se https://secure.php.net/manual/en/function.mysqli-connect.php
+  $db_forbindelse = mysqli_connect($db_host, $db_bruker, $db_pass, $db_navn);
+  //Vi sjekker om forbindelsen ble opprettet
+  if (mysqli_connect_errno()) {
+    die('Kunne ikke opprette forbindelse med databasen: ' . mysqli_connect_error()) ;
+  }
+
+  //For å kunne lagre informasjonen i $_POST til databasen, må vi gjøre den om til
+  //en spesielt formatert tekststreng. Det gjør vi enkelt med funksjonen serialize().
+  //Se https://secure.php.net/manual/en/function.serialize.php
+  $bestilling = serialize($_POST);
+
+  //Nå lager vi SQL-spørringen som skal kjøres (INSERT INTO...), og så
+  //kjører vi den i databasen som vi har opprettet en forbindelse til.
+  //Se https://secure.php.net/manual/en/mysqli.query.php
+  $spørring = "INSERT INTO Bestillinger(tidspunkt, bestilling) VALUES ('{$tidspunkt}', '{$bestilling}');";
+  mysqli_query($db_forbindelse, $spørring);
+
+  //Kode som er bedre/sikrere enn det som står ovenfor, og som vi skal bruke senere.
+  //$spørring = "INSERT INTO Bestillinger(tidspunkt,bestilling) VALUES (?,?);";
+  //$stmt = mysqli_prepare($db_forbindelse, $spørring);
+  //mysqli_stmt_bind_param($stmt, 'ss', $tidspunkt, $bestilling);
+  //$stmt->execute();
+
+  //Nå er vi ferdig, og kan lukke forbindelsen til databasen
+  mysqli_close($db_forbindelse);
 }
-
-//For å kunne lagre informasjonen i $_POST til databasen, må vi gjøre den om til
-//en spesielt formatert tekststreng. Det gjør vi enkelt med funksjonen serialize().
-//Se https://secure.php.net/manual/en/function.serialize.php
-$bestilling = serialize($_POST);
-
-//Nå lager vi SQL-spørringen som skal kjøres (INSERT INTO...), og så
-//kjører vi den i databasen som vi har opprettet en forbindelse til.
-//Se https://secure.php.net/manual/en/mysqli.query.php
-$spørring = "INSERT INTO Bestillinger(tidspunkt, bestilling) VALUES ('{$tidspunkt}', '{$bestilling}');";
-mysqli_query($db_forbindelse, $spørring);
-
-//Kode som er bedre/sikrere enn det som står ovenfor, og som vi skal bruke senere.
-//$spørring = "INSERT INTO Bestillinger(tidspunkt,bestilling) VALUES (?,?);";
-//$stmt = mysqli_prepare($db_forbindelse, $spørring);
-//mysqli_stmt_bind_param($stmt, 'ss', $tidspunkt, $bestilling);
-//$stmt->execute();
-
-//Nå er vi ferdig, og kan lukke forbindelsen til databasen
-mysqli_close($db_forbindelse);
 
 ?>
 <!DOCTYPE html>
