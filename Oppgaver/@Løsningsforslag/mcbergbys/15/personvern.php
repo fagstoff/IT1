@@ -13,7 +13,22 @@ require 'funksjoner.php';
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny(""); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys<br>burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>McBergbys personvernerklæring</h1>
       <!-- Teksten nedenfor er i hovedsak lånt fra MatPrat.no -->
@@ -31,6 +46,8 @@ require 'funksjoner.php';
       <h2>Kontakt</h2>
       <p>Dersom du ønsker innsyn eller har spørsmål knyttet til denne personvernerklæring kan disse rettes til McBergbys på e-post: kontakt@mcbergbys.no.</p>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>

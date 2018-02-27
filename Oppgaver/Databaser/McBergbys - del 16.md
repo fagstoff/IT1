@@ -262,64 +262,6 @@ function fjern_mellomrom($tekststreng) {
   return str_replace(" ","", $tekststreng);
 }
 
-
-/**
- * Skriver ut en navigasjonsmeny med 'echo' for McBergbys-sidene.
- * Bruker HTML <nav>.
- * 
- * @param string $aktiv_side Siden som skal settes som aktiv i menyen
- */
-function lag_navigasjonsmeny($aktiv_side) {
-  $index = NULL;
-  $om = NULL;
-  $skolen = NULL;
-  $aktiv = 'id="aktiv"';
-  switch ($aktiv_side) {
-    case 'index':
-      $index = $aktiv;
-      break;
-    case 'om':
-      $om = $aktiv;
-      break;
-    case 'skolen':
-      $skolen = $aktiv;
-      break;    
-  }
-echo <<<EOT
-  <nav>
-    <ul>
-      <li>
-        <div id="logo">McBergbys
-        <br />burgersjappe</div>
-      </li>
-      <li>
-        <a href="index.php" {$index}>Bestilling</a>
-      </li>
-      <li>
-        <a href="om.php" {$om}>Om McBergbys</a>
-      </li>
-      <li>
-        <a href="hamburgerskolen.php" {$skolen}>Hamburgerskolen</a>
-      </li>
-    </ul>
-  </nav>
-EOT;
-}
-
-
-/**
- * Skriver ut en footer med 'echo' for McBergbys-sidene.
- * Bruker HTML <footer>.
- *
- */
-function lag_footer() {
-echo <<<EOT
-  <footer>
-      <a href="personvern.php">Personvernerklæring</a>
-  </footer>
-EOT;
-}
-
 ?>
 ```
 
@@ -343,7 +285,22 @@ $bestillinger = hent_bestillinger($db_forbindelse);
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny(""); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys<br>burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Liste over bestillinger</h1>
       <div id="bestillinger">
@@ -356,7 +313,9 @@ $bestillinger = hent_bestillinger($db_forbindelse);
       ?>
       </div>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>
 <?php

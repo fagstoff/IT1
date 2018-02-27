@@ -13,7 +13,20 @@ require 'funksjoner.php';
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny("om"); ?>
+    <nav>
+      <ul>
+        <li><div id="logo">McBergbys<br>burgersjappe</div></li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php" id="aktiv">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Om McBergbys</h1>
       <div id="kartboks">
@@ -47,6 +60,8 @@ require 'funksjoner.php';
         ipsum. Morbi eget convallis felis. Mauris quis feugiat arcu.</p>
       </div>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>

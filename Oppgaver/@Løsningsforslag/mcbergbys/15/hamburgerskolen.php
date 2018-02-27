@@ -13,7 +13,23 @@ require 'funksjoner.php';
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny("skolen"); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys
+          <br />burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php" class="aktiv">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php" id="aktiv">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>McBergbys hamburgerskole</h1>
       <h2>Lær deg å spise en hamburger</h2>
@@ -30,6 +46,8 @@ require 'funksjoner.php';
       <a href="https://youtu.be/lz0IT4Uk2xQ?t=17s">Pink Panther - &quot; I Would like to buy a Hamburger&quot; - Lisens: Standard
       YouTube-lisens</a></p>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>

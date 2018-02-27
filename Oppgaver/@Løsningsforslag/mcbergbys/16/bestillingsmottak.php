@@ -54,7 +54,23 @@ if ($tlf_ok) {
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny("index"); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys
+          <br />burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Din bestilling</h1>     
 <?php
@@ -97,7 +113,9 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
 }
 ?>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>
 <?php

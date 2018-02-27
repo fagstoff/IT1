@@ -13,7 +13,22 @@ require 'funksjoner.php';
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny("index"); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys<br>burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php" id="aktiv">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Velkommen til McBergbys</h1>
       <img src="bilder/hamburgers-400.jpg" class="float-right" alt="Hamburgere - bildet er tatt av Niklas Rhöse" />
@@ -80,6 +95,8 @@ require 'funksjoner.php';
         <input type="reset" value="Nullstill skjema" /></div>
       </form>
     </div>
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>

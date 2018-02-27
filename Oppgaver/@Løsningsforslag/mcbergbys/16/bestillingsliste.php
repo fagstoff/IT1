@@ -19,8 +19,22 @@ $bestillinger = hent_bestillinger($db_forbindelse);
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <!-- Vi lager navigasjonsmenyen -->
-    <?php lag_navigasjonsmeny(""); ?>
+    <nav>
+      <ul>
+        <li>
+          <div id="logo">McBergbys<br>burgersjappe</div>
+        </li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Liste over bestillinger</h1>
       <div id="bestillinger">
@@ -28,8 +42,9 @@ $bestillinger = hent_bestillinger($db_forbindelse);
       <?php echo bestillingsliste_til_html($bestillinger); ?>
       </div>
     </div>
-    <!-- Vi lager en footer -->
-    <?php lag_footer(); ?>
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
   </body>
 </html>
 
