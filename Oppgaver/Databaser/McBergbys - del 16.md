@@ -6,7 +6,7 @@
 
 Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 15` og lage en ny side som du kaller for `bestillingsliste.php`. Denne skal være skjult for vanlige brukere, derfor skal du ikke legge den inn i menyen. Dette er en usikker og dårlig løsning som lett kan utnyttes, men i en utviklingsfase er det ok å gjøre noen enkle løsninger.
 
-PHP-eksperten i utviklingsteamet til McBerbys har som vanlig mye å bidra med, og hun har oppdatert fila `funksjoner.php` så den inneholder nye kjekke funksjoner som du har bruk for. Disse funksjonene kan du så få tilgang til i alle andre filer ved å skrive koden `<?php require 'funksjoner.php';?>.
+PHP-eksperten i utviklingsteamet til McBerbys har som vanlig mye å bidra med, og hun har oppdatert fila `funksjoner.php` så den inneholder nye kjekke funksjoner som du har bruk for. Disse funksjonene kan du så få tilgang til i alle andre filer ved å skrive koden `<?php require 'funksjoner.php';?>`.
 
 Hun har også laget et løsningsforslag som viser hvordan du kan bruke de nye funksjonene. Dette løsningsforslaget står litt lenger ned på denne siden. Tilpass sånn at det passer i din applikasjon. 
 
