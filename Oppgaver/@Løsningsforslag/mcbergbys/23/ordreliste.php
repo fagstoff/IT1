@@ -24,7 +24,7 @@ $ordrer = hent_ordrer($db_forbindelse, $ordrestatus);
 <html lang="no">
   <head>
     <meta charset="utf-8">
-    <meta author="bitjungle">
+    <meta name="author" content="bitjungle">
     <title>Liste over ordre</title>
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>

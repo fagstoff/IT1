@@ -22,7 +22,7 @@ $ordredetaljer = hent_ordredetaljer($db_forbindelse, $ordreid);
 <html lang="no">
   <head>
     <meta charset="utf-8">
-    <meta author="bitjungle">
+    <meta name="author" content="bitjungle">
     <title>Ordredetaljer</title>
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
