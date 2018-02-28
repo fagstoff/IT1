@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3nMeIdBFS0M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[Løsningsforslag (video)](https://www.youtube.com/watch?v=3nMeIdBFS0M)
