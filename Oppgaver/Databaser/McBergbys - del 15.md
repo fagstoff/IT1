@@ -6,7 +6,7 @@
 
 Du skal ta utgangspunkt i det du laget i `McBergbys automagiske bestillingssystem - del 14`. Fram til nå har vi lagt all PHP-kode inn i fila `bestillingsmottak.php`, men det begynner å bli litt rotete og uoversiktlig. Det kan dessuten være lurt å legge opp til å kunne gjenbruke en del av PHP-koden på andre sider.
 
-Hun som er PHP-ekspert i utviklingsteamet til McBerbys har laget en fil som er full av kjekke funksjoner. Du kan kopiere koden hennes nedenfor, og legge den inn i en fil som du kaller `funksjoner.php`. Disse funksjonene kan du så få tilgang til i alle andre filer ved å skrive koden `<?php require 'funksjoner.php';?>. Her er innholdet i `funksjoner.php`:
+Hun som er PHP-ekspert i utviklingsteamet til McBerbys har laget en fil som er full av kjekke funksjoner. Du kan kopiere koden hennes nedenfor, og legge den inn i en fil som du kaller `funksjoner.php`. Disse funksjonene kan du så få tilgang til i alle andre filer ved å skrive koden `<?php require 'funksjoner.php';?>`. Her er innholdet i `funksjoner.php`:
 
 ``` php
 <?php
