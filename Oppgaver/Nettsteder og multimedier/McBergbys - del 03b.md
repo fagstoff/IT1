@@ -8,8 +8,6 @@ Du skal lage nettsiden `vaktliste.html`, slik at den blir slik du ser på bildet
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB03b.png)
 
-Du bør også prøve å ha ulike fargekoder for "Tidlig", "Mellom" og "Sen". Legg inn klassenavn i de aktuelle tabell-cellene i HTML-koden, og bruk CSS for å gi cellene forskjellig farge.
-
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven.

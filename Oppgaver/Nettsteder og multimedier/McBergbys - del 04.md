@@ -8,6 +8,8 @@ Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys aut
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB04.png)
 
+Du skal også endre siden `vaktliste.html`. Legg inn klassenavn i de aktuelle tabell-cellene i HTML-koden, og bruk CSS for å gi cellene "Tidlig", "Mellom" og "Sen" forskjellig farge.
+
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
