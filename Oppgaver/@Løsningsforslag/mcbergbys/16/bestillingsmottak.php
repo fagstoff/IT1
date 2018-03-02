@@ -42,7 +42,7 @@ $db_forbindelse = apne_db_forbindelse();
 //Så lagrer vi bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok
 if ($tlf_ok) {
-  lagre_bestilling($_POST, $db_forbindelse);
+  lagre_bestilling($db_forbindelse, $_POST);
 }
 ?>
 <!DOCTYPE html>
