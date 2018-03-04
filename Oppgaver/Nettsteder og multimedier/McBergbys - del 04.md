@@ -1,12 +1,14 @@
 McBergbys del 4: CSS
 ====================
-**Nettsiden som skal brukes til bestillinger hos hurtimatkjeden McBergbys er ferdig, men den ser veldig kjedelig ut. Noe må gjøres.**
+**Nettsiden som skal brukes til bestillinger hos hurtigmatkjeden McBergbys er ferdig, men den ser veldig kjedelig ut. Noe må gjøres.**
 
 Oppgave
 -------
 Du skal friske opp nettsiden `index.html` som du laget i oppgaven `McBergbys automagiske bestillingssystem - del 3`, slik at den blir mye penere og tøffere enn det du ser på bildet nedenfor (klikk på bildet for å se det i stor størrelse). Nettsiden skal lagres i en mappe med navnet `mcbergbys-04`. For å endre utseende på nettsiden skal du bruke CSS. Legg inn denne koden i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB04.png)
+
+Du skal også endre siden `vaktliste.html`. Legg inn klassenavn i de aktuelle tabell-cellene i HTML-koden, og bruk CSS for å gi cellene "Tidlig", "Mellom" og "Sen" forskjellig farge.
 
 Ressurser
 ---------

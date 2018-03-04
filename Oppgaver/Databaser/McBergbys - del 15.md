@@ -107,7 +107,7 @@ function lukke_db_forbindelse($db_forbindelse) {
  * @param array $bestillingsdata Array med bestillingen som skal lagres til databasen
  * @param object $db_forbindelse Forbindelsen til databasen
  */
-function lagre_bestilling($bestillingsdata, $db_forbindelse) {
+function lagre_bestilling($db_forbindelse, $bestillingsdata) {
   //For å kunne lagre informasjonen i $_POST til databasen, må bi gjøre den om til
   //en spesielt formatert tekststreng. Det gjør vi enkelt med funksjonen serialize().
   //Se https://secure.php.net/manual/en/function.serialize.php
@@ -190,7 +190,7 @@ $db_forbindelse = åpne_db_forbindelse();
 //Så lagrer vi bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok
 if ($tlf_ok) {
-  lagre_bestilling($_POST, $db_forbindelse);
+  lagre_bestilling($db_forbindelse, $_POST);
 }
 
 //Nå er vi ferdig, og kan lukke forbindelsen til databasen

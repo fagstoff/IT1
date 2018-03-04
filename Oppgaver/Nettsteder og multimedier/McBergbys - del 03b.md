@@ -1,12 +1,12 @@
 McBergbys del 3b: HTML-tabeller
 ==============================
-**Denne oppgaven er ikke ferdig. Gjør heller oppgavene "Timeplanen 1.0", "Timeplanen 2.0" og "Timeplanen 3.0"**
+**En av de ansatte på McBergbys glemte å komme på jobb torsdag kveld, og det er ikke første gang det har skjedd. Du må lage en vaktliste som viser når de ulike ansatte skal være på jobb.**
 
 Oppgave
 -------
 Du skal lage nettsiden `vaktliste.html`, slik at den blir slik du ser på bildet nedenfor. Fila skal lagres i en mappe med navnet `mcbergbys`. 
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-3b.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB03b.png)
 
 Ressurser
 ---------
@@ -24,7 +24,7 @@ Kompetansemål
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 * organisere og begrunne filstrukturen for nettsteder
 
->Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle).  
+>Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle) og [fuzzbin](https://github.com/fuzzbin).  
 >Oppgaven er lisensiert under en
 >[Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.
 ](http://creativecommons.org/licenses/by-sa/4.0/)
