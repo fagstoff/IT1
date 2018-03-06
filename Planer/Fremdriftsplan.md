@@ -4,7 +4,14 @@ Dette er et forslag til fremdriftsplan for IT1-faget med bruk av McBergbys-oppga
 
 
 * Uke 34: 
+  * Presentasjon av IT1-faget
+  * [Installere programvare](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Programvare.md)
+  * [Hvem? Hva? Hvorfor? Hvordan?](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Hvem-Hva-Hvorfor-Hvordan.md)
+  * [Fremtiden](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Fremtiden.md)
 * Uke 35: 
+  * Mapper og filer
+  * McBergbys del 1: Hallo verden
+  * McBergbys del 2: Bilder i HTML
 * Uke 36: 
 * Uke 37: 
 * Uke 38: 
