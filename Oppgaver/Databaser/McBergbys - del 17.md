@@ -16,7 +16,7 @@ Tenk nøye gjennom hva slags data dere vil lagre. Hvilke tabeller (entiteter) tr
 * [Artikkel om databasedesign på engelsk Wikipedia](https://en.wikipedia.org/wiki/Database_design)
 * [Artikkel om ER-modellering på engelsk Wikipedia](https://en.wikipedia.org/wiki/Entity–relationship_model)
 * [Artikkel om ER-modellering og kråkefot-notasjon](http://www.codeproject.com/Articles/878359/Data-modelling-using-ERD-with-Crow-Foot-Notation)
-* Et dataprogram for å tegne ER-diagrammer, for eksempel Visio (desktop) eller [draw.io (online)](https://www.draw.io/)
+* Et dataprogram for å tegne ER-diagrammer, for eksempel [MySQL Workbench](https://www.mysql.com/products/workbench/)
 * [Datatyper i SQL (W3Schools)](http://www.w3schools.com/sql/sql_datatypes_general.asp)
 
 ## Vurderingskriterier
