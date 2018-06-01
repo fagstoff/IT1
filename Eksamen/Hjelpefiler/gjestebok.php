@@ -18,7 +18,7 @@ $db_navn = 'mcbergbys';
 $db_bruker = 'mcbergbys';
 $db_pass = 'Skriv inn passordet ditt her';
 
-/* 
+/** 
 * Dersom kommentaren eller brukernavnet inneholder uønskede ord, 
 * sensurerer vi det. Legg gjerne inn flere ord i $fyord_liste
 */
@@ -33,7 +33,7 @@ function sjekk_fyord($tekststreng) {
     return $tekststreng;    
 }
 
-/*
+/**
 * Henter ut verdien fra et bestemt felt i et HTML-skjema. 
 * Her må $feltnavn stemme overens med 'name'-parameteren  
 * til det aktuelle feltet i skjemaet.
@@ -47,6 +47,35 @@ function hent_skjemadata($feltnavn) {
         return '';
     }        
 }
+
+/**
+ * Gjør resultatet fra en SQL-spørring om til en HTML-tabell.
+ */
+function resultat_til_html_tabell($resultat, $cssklasse = "sqltabell") {
+    $tabell = "<table class=\"{$cssklasse}\">\n";
+    $tabell .= "<tr>\n";
+    // Se https://secure.php.net/manual/en/mysqli-result.fetch-fields.php
+    $kolonneinfo = mysqli_fetch_fields($resultat);
+    // Først lager vi kolonneoverskriftene
+    foreach ($kolonneinfo as $k) {
+      $tabell .= "\t<th>".ucfirst($k->name)."</th>\n";
+    }
+    $tabell .= "</tr>\n";
+    // Nå er vi ferdige med første rad, som inneholder
+    // kolonneoverskrifter. La oss gå gjennom alle 
+    // kommentarene, og lage en rad i HTML-tabellen for  
+    // hver enkelt kommentar som er lagret i databasen.
+    while ($rad = mysqli_fetch_row($resultat)) {
+      $tabell .= "<tr>\n";
+      foreach ($rad as $felt) {
+        $tabell .= "\t<td>{$felt}</td>\n";
+      }
+      $tabell .= "</tr>\n";
+    }
+    $tabell .= "</table>\n";
+    return $tabell;
+  }
+
 
 // Henter navn fra skjemaet
 $navn = hent_skjemadata('navn');
@@ -108,30 +137,8 @@ if ($kommentar != '') {
                 // Her henter vi alt innhold i tabellen Gjestebok, 
                 // og lager en HTML-tabell av innholdet.
                 $spørring = 'SELECT * FROM Gjestebok;';
-                $kommentarer = mysqli_query($db_forbindelse, $spørring);
-                $tabell = "<table class=\"kommentartabell\">\n";
-                $tabell .= "<tr>\n";
-                $kolonneinfo = mysqli_fetch_fields($kommentarer);
-                // Først lager vi kolonneoverskriftene
-                foreach ($kolonneinfo as $k) {
-                    $tabell .= "\t<th>".ucfirst($k->name)."</th>\n";
-                }
-                $tabell .= "</tr>\n";
-                // Nå er vi ferdige med første rad, som inneholder
-                // kolonneoverskrifter. La oss gå gjennom alle 
-                // kommentarene, og lage en rad i HTML-tabellen for  
-                // hver enkelt kommentar som er lagret i databasen.
-                while ($rad = mysqli_fetch_row($kommentarer)) {
-                    $tabell .= "<tr>\n";
-                    foreach ($rad as $felt) {
-                        $tabell .= "\t<td>{$felt}</td>\n";
-                    }
-                    $tabell .= "</tr>\n";
-                }
-                $tabell .= "</table>\n";
-                
-                // HTML-tabellen er ferdig, vi kan skrive den ut.
-                echo $tabell;
+                $kommentarer = mysqli_query($db_forbindelse, $spørring);                
+                echo resultat_til_html_tabell($kommentarer);
                 ?>
 
             </div>
