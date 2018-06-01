@@ -40,8 +40,7 @@ $db_pass = 'Skriv inn passordet ditt her';
  *    Lag verdens stiligste gjestebok!
  */
 
-
-
+// ========================== FUNKSJONER ===============================
 
 /** 
  * Dersom kommentaren eller brukernavnet inneholder uønskede ord, 
@@ -101,6 +100,7 @@ function resultat_til_html_tabell($resultat, $cssklasse = "sqltabell") {
     return $tabell;
   }
 
+// ======================== BUSINESS LOGIC =============================
 
 // Henter navn fra skjemaet
 $navn = hent_skjemadata('navn');
@@ -112,6 +112,7 @@ $kommentar = hent_skjemadata('kommentar');
 $tidspunkt = date("Y-m-d H:i:s");
 
 // Vi forsøker først å opprette forbindelsen med databasen.
+// Forbindelsen lukkes igjen helt nederst i denne fila.
 $db_forbindelse = mysqli_connect($db_host, $db_bruker, $db_pass, $db_navn);
 // Vi sjekker om forbindelsen ble opprettet
 if (mysqli_connect_errno()) {
@@ -126,12 +127,13 @@ if ($kommentar != '') {
     }
     // Nå lager vi SQL-spørringen som skal kjøres (INSERT INTO...), og så
     // kjører vi den i databasen som vi har opprettet en forbindelse til.
-    $spørring = "INSERT INTO Gjestebok(tidspunkt, navn, kommentar) VALUES ('{$tidspunkt}', '{$navn}', '{$kommentar}');";
+    $spørring = "INSERT INTO Gjestebok(tidspunkt, navn, kommentar) 
+                 VALUES ('{$tidspunkt}', '{$navn}', '{$kommentar}');";
     mysqli_query($db_forbindelse, $spørring);
 }
 
+// ============================= HTML ==================================
 ?>
-
 <!DOCTYPE html>
 <html lang="nb">
     <head>
@@ -154,7 +156,7 @@ if ($kommentar != '') {
             </div>
             <div id="kommentarer">
                 <h2>Dette har tidligere besøkende sagt</h2>
-
+                <!-- Start innhenting av kommentarer fra database -->
                 <?php 
                 // Her henter vi alt innhold i tabellen Gjestebok, 
                 // og lager en HTML-tabell av innholdet.
@@ -162,12 +164,11 @@ if ($kommentar != '') {
                 $kommentarer = mysqli_query($db_forbindelse, $spørring);
                 echo resultat_til_html_tabell($kommentarer);
                 ?>
-
+                <!-- Slutt innhenting av kommentarer fra database -->
             </div>
         </main>
     </body>
 </html>
-
 <?php
 //Nå er vi ferdig, og kan lukke forbindelsen til databasen
 mysqli_close($db_forbindelse);
