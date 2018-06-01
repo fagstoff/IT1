@@ -10,14 +10,18 @@
 //        `kommentar` text NOT NULL
 //      );
 //
-// Dette er informasjonen vi trenger for å koble oss til databasen
+
+// Dette er informasjonen vi trenger for å koble oss til databasen.
+// Tilpass sånn at det passer til din database.
 $db_host = 'localhost';
 $db_navn = 'mcbergbys';
 $db_bruker = 'mcbergbys';
-$db_pass = 'McpAssWD';
+$db_pass = 'Skriv inn passordet ditt her';
 
-// Dersom kommentaren eller brukernavnet inneholder uønskede ord, 
-// sensurerer vi det. Legg gjerne inn flere ord i $fyord_liste
+/* 
+* Dersom kommentaren eller brukernavnet inneholder uønskede ord, 
+* sensurerer vi det. Legg gjerne inn flere ord i $fyord_liste
+*/
 function sjekk_fyord($tekststreng) {
     $fyord_liste = array('faen', 'helvete', 'dritt');
     $tekststreng_liste = explode(' ', strtolower($tekststreng));
@@ -29,21 +33,33 @@ function sjekk_fyord($tekststreng) {
     return $tekststreng;    
 }
 
-// Sjekker om vi har fått et navn fra skjemaet
-if (isset($_POST['navn'])&& $_POST['navn'] != '') {
-    $navn = trim($_POST['navn']);
-    $navn = sjekk_fyord($navn);
-} else {
+/*
+* Henter ut verdien fra et bestemt felt i et HTML-skjema. 
+* Her må $feltnavn stemme overens med 'name'-parameteren  
+* til det aktuelle feltet i skjemaet.
+*/
+function hent_skjemadata($feltnavn) {
+    if (isset($_POST[$feltnavn])&& $_POST[$feltnavn] != '') {
+        $verdi = trim($_POST[$feltnavn]);
+        $verdi = sjekk_fyord($verdi);
+        return htmlspecialchars($verdi);
+    } else {
+        return '';
+    }        
+}
+
+// Henter navn fra skjemaet
+$navn = hent_skjemadata('navn');
+
+// Henter kommentar fra skjemaet
+$kommentar = hent_skjemadata('kommentar');
+
+// Har vi fått en anonym kommentar?
+if ($kommentar != '' && $navn == '') {
     $navn = 'Anonym';
 }
 
-// Sjekker om vi har fått en kommentar fra skjemaet
-if (isset($_POST['kommentar']) && $_POST['kommentar'] != '') {
-    $kommentar = trim($_POST['kommentar']);
-    $kommentar = sjekk_fyord($kommentar);
-} else {
-    $kommentar = '';
-}
+
 
 // Registrerer tidspunkt for komentaren
 $tidspunkt = date("Y-m-d H:i:s");
