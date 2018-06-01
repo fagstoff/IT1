@@ -83,13 +83,6 @@ $navn = hent_skjemadata('navn');
 // Henter kommentar fra skjemaet
 $kommentar = hent_skjemadata('kommentar');
 
-// Har vi fått en anonym kommentar?
-if ($kommentar != '' && $navn == '') {
-    $navn = 'Anonym';
-}
-
-
-
 // Registrerer tidspunkt for komentaren
 $tidspunkt = date("Y-m-d H:i:s");
 
@@ -102,6 +95,10 @@ if (mysqli_connect_errno()) {
 
 // Har vi en kommentar som skal lagres?
 if ($kommentar != '') {
+    // Har vi fått en anonym kommentar?
+    if ($navn == '') {
+        $navn = 'Anonym';
+    }
     // Nå lager vi SQL-spørringen som skal kjøres (INSERT INTO...), og så
     // kjører vi den i databasen som vi har opprettet en forbindelse til.
     $spørring = "INSERT INTO Gjestebok(tidspunkt, navn, kommentar) VALUES ('{$tidspunkt}', '{$navn}', '{$kommentar}');";
@@ -137,7 +134,7 @@ if ($kommentar != '') {
                 // Her henter vi alt innhold i tabellen Gjestebok, 
                 // og lager en HTML-tabell av innholdet.
                 $spørring = 'SELECT * FROM Gjestebok;';
-                $kommentarer = mysqli_query($db_forbindelse, $spørring);                
+                $kommentarer = mysqli_query($db_forbindelse, $spørring);
                 echo resultat_til_html_tabell($kommentarer);
                 ?>
 
