@@ -6,22 +6,5 @@ I oppgavene skal vi følge utviklingen av nettstedet til hurtigmatrestauranten M
 
 Oppgavene er laget slik at de legger stein på stein mot den komplette web-applikasjonen for hurtigmatrestauranten. 
 
-Digital samtid
---------------
-Det jobbes med å velge hva slags type utstyr, signaler og standarder det skal legges vekt på for å dekke kompetansemålene.
-
-For kompetansemålene som omhandler språklige og kulturelle minoriteter, regelverk og etiske normer samt informasjonsteknologiens muligheter, konsekvenser og trusler, vil læringsressursene i stor grad bestå av filmer og oppgaver knyttet til disse. Aktuelle filmer ligger i mappa "Filmer".
-
-Nettsteder og multimedier
--------------------------
-I dette hovedområdet vil ressurser fra [W3C](http://www.w3.org/) og [uu Difi](http://uu.difi.no/) være sentrale, og det vil være mye fokus på HTML5 og CSS3. Programmeringsspråket PHP brukes for å lage dynamiske nettsider.
-
-Verktøyene som skal brukes i arbeidet med dette hovedområdet skal være åpen kildekode.
-
-Databaser
----------
-MySQL eller SQLite vil sammen med PHP være kjernen i arbeidet med dette hovedområdet. 
-
-
 
 
