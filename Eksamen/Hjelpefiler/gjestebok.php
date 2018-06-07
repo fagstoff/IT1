@@ -36,7 +36,14 @@ $db_pass = 'Skriv inn passordet ditt her';
  * 4. Gjør nødvendige endringer sånn at kolonna "id" ikke vises 
  *    i gjesteboka.
  * 
- * 5. Bruk alt du kan om HTML, CSS, PHP og SQL. 
+ * 5. Vi ønsker også å loggføre IP-adressa til de som besøker 
+ *    gjesteboka, sånn at vi har en mulighet til å identifisere
+ *    brukere som misbruker tjenesten. Du kan få tak i IP-adressa
+ *    til besøkende gjennom den spesielle PHP-variabelen 
+ *    $_SERVER['REMOTE_ADDR']. Utvid skjemaet med et skjult ("hidden") 
+ *    felt som inneholder IP-adressa, og utvid database-tabellen.
+ * 
+ * 6. Bruk alt du kan om HTML, CSS, PHP og SQL. 
  *    Lag verdens stiligste gjestebok!
  */
 
