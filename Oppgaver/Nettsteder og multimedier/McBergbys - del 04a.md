@@ -1,5 +1,5 @@
-McBergbys del 4: CSS
-====================
+McBergbys del 4a: CSS
+=====================
 **Nettsiden som skal brukes til bestillinger hos hurtigmatkjeden McBergbys er ferdig, men den ser veldig kjedelig ut. Noe må gjøres.**
 
 Oppgave
