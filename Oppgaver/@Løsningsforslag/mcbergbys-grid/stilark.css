@@ -1,5 +1,3 @@
-# McBergbys med CSS-grid v.0.1beta - fuzzbin & bitjungle 2018
-
 body {
     background-color: #FCDAA9;
     color: #000000;
@@ -7,7 +5,31 @@ body {
     font-size: 12;
 }
 
-/* Gridstrukturen her hentet fra MDN Grid template*/
+div {
+  margin: 0.2rem;
+  box-shadow: 2px 2px 5px #000000;
+  padding: 0.2rem;
+}
+
+/* Demo av selector med atributt  - Enkel skyggeeffekt*/
+input[type=text] {
+  border: 1px dotted #999;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #333;
+}
+
+input[type=radio], input[type=checkbox] {
+  border: 1px dotted #999;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px #333;
+}
+
+/* Demo av hover og avansert selector */
+div > label:hover { 
+  background-color: yellow;
+}
+
+/* Gridstrukturen her hentet fra MDN Grid template */
 .wrapper {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -28,6 +50,7 @@ body {
   }
 
   .bestilling {
+    padding: 0rem;
     grid-column: 1 / 3;
     grid-row: 3 / 5;
     background-color: green;

@@ -1,10 +1,10 @@
-<!-- McBergbys med CSS-grid v.0.1beta - fuzzbin & bitjungle 2018 -->
+<!-- McBergbys med CSS-grid v.0.1  beta- fuzzbin & bitjungle 2017 & 2018-->
 
 <!DOCTYPE html>
 <html lang="nb">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>McBergbys - Gridstyle</title>
     <link rel="stylesheet" href="stilark.css">
 </head>
 <body>
@@ -20,14 +20,15 @@
                 </ul>
             </nav>
         </div>
+
         <div class="bestilling">
             <form action="bestillingsmottak.php" method="post">
                 <div id="personinfo">
                     <h4>Din kontaktinfo:</h4>
-                    <label for="navn">Navn: </label> 
-                    <input type="text" name="navn" id="navn" /><br />
-                    <label for="tlf">Mobilnr.: </label> 
-                    <input type="text" name="tlf" id="tlf" /></div>
+                    <label for="navn">Navn: </label><br>
+                    <input type="text" name="navn" id="navn" required /><br />
+                    <label for="tlf">Mobilnr.: </label><br>
+                    <input type="text" name="tlf" id="tlf" required /></div>
                 <div id="drikkevelger">
                     <h4>Drikke:</h4>
                     <input type="radio" name="drikke" id="cola" value="cola" /> 
@@ -103,11 +104,12 @@
             <img id="burgerbilde" src="bilder/hamburgers.jpg" alt="Bilde av Burger">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio provident rerum vero ullam voluptatum? Quae aliquam odio doloremque veniam non consequuntur consequatur impedit exercitationem quibusdam repellat, delectus blanditiis vero iusto.
         </div>
+
         <div class="infotekst">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi commodi, expedita id quas placeat quis ab reprehenderit deserunt enim nam blanditiis fugiat, corrupti, est illum dolorem dolor consequuntur et dicta?
         </div>
+
         <div class="footer">footer</div>
-    </div>
-    
+    </div> 
 </body>
 </html>
