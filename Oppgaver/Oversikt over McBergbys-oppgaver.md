@@ -2,8 +2,8 @@ Oversikt over McBergbys-oppgaver
 ================================
  * [Del 1 - Hallo verden](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2001.md) *(Nettsteder og multimedier)*
  * [Del 2 - Bilder i HTML](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2002.md) *(Nettsteder og multimedier)*
- * [Del 3a - HTML-skjemaer](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2003a.md) *(Nettsteder og multimedier)*
- * [Del 3b - HTML-tabeller](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2003b.md) *(Nettsteder og multimedier)*
+ * [Del 3a - HTML-tabeller](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2003a.md) *(Nettsteder og multimedier)*
+ * [Del 3b - HTML-skjemaer](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2003b.md) *(Nettsteder og multimedier)*
  * [Del 4 - CSS](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2004.md) *(Nettsteder og multimedier)*
  * [Del 5 - Universell utforming](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2005.md) *(Nettsteder og multimedier)*
  * [Del 6 - Embedding av video](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2006.md) *(Nettsteder og multimedier)*
