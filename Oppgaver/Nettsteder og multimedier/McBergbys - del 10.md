@@ -10,7 +10,7 @@ Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Du må ha tilgang til en Web-server som kan kjøre PHP-filer.
-* Fagtester og oppgaver [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagtekster/databaser/04.%20PHP.md).
+* Fagtekster og oppgaver [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagtekster/databaser/04.%20PHP.md).
 * Blir du raskt ferdig, og har lyst til å lære mer? Prøv PHP-kursene på [codecademy](https://www.codecademy.com/en/tracks/php) og [w3schools](https://www.w3schools.com/php/default.asp).
 
 Vurderingskriterier
