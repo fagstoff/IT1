@@ -19,11 +19,11 @@ Her er noen forslag til ressurser:
 
 
 ## Vurderingskriterier
-** Høy kompetanse (5-6):** Presentasjonen skal belyse og drøfte temaet fra ulike sider. Fordeler, ulemper og konsekvenser skal komme klart fram. Innholdet skal basere seg på ulike kilder, men også dine egne meninger og analyser.
+**Høy kompetanse (5-6):** Presentasjonen skal belyse og drøfte temaet fra ulike sider. Fordeler, ulemper og konsekvenser skal komme klart fram. Innholdet skal basere seg på ulike kilder, men også dine egne meninger og analyser.
 
-** Middels kompetanse (3-4):** Presentasjonen skal inneholde fakta som belyser temaet fra ulike sider. Fordeler, ulemper og konsekvenser skal komme fram. Innholdet skal basere seg på flere kilder, men også dine egne meninger.
+**Middels kompetanse (3-4):** Presentasjonen skal inneholde fakta som belyser temaet fra ulike sider. Fordeler, ulemper og konsekvenser skal komme fram. Innholdet skal basere seg på flere kilder, men også dine egne meninger.
 
-** Lav kompetanse (1-2):** Presentasjonen skal inneholde fakta om temaet. Innholdet skal basere seg på flere kilder, men også dine egne meninger.
+**Lav kompetanse (1-2):** Presentasjonen skal inneholde fakta om temaet. Innholdet skal basere seg på flere kilder, men også dine egne meninger.
 
 ---
 
