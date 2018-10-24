@@ -14,16 +14,21 @@
 <body>
   <nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
     <div class="container">
-      <div class="navbar-brand" id="logo">McBergbys burgersjappe</div>
-      <div class="navbar-nav">
-        <a class="nav-item nav-link" href="index.html">Bestilling</a>
-        <a class="nav-item nav-link" href="om.html">Om McBergbys</a>
-        <a class="nav-item nav-link active" href="hamburgerskolen.html">Hamburgerskolen</a>
-      </div><!-- navbar-bar -->
-      <span class="navbar-text d-none d-xl-inline-block">Vi har de feteste burgerne!</span>
-    </div>
+      <a class="navbar-brand" id="logo" href="#">McBergbys burgersjappe</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" 
+        aria-controls="hamburgermeny" aria-expanded="false" aria-label="Vis navigasjonsmeny">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="hamburgermeny">
+        <div class="navbar-nav ml-auto">
+          <a class="nav-item nav-link" href="index.html">Bestilling</a>
+          <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
+          <a class="nav-item nav-link active" href="hamburgerskolen.html">Hamburgerskolen</a>
+        </div><!-- navbar-bar -->
+      </div><!-- navbar-collapse -->
+      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white">Vi har de feteste burgerne!</span>
+    </div><!-- container -->
   </nav>
-
   <div class="container" id="hovedomraade">
     <h1>McBergbys hamburgerskole</h1>
 
