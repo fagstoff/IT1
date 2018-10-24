@@ -119,18 +119,10 @@ iframe {
 	color: black;
 	font-weight: bold;
 	border-style: solid;
-	border-radius: 20px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-	margin-left: 1rem;
-	margin-right: 1rem;
 	text-align: center;
 }
 
 #garantiboks {
-	margin: 20px;
-	padding: 20px;
 	color: black;
     background-color: silver;
     width: 20rem;
