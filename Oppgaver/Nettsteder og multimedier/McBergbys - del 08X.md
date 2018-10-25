@@ -13,32 +13,32 @@ Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen
 Her er et litt avansert eksempel på hvordan du kan lage navigasjonsmenyen i McBergbys. Alle klassene som brukes her, er Bootstrap-klasser. 
 
 ``` html 
-  <nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
+<nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
     <div class="container">
-      <a class="navbar-brand" id="logo" href="#">McBergbys</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" aria-controls="hamburgermeny"
+        <a class="navbar-brand" id="logo" href="#">McBergbys</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" aria-controls="hamburgermeny"
         aria-expanded="false" aria-label="Vis navigasjonsmeny">
         <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="hamburgermeny">
+        </button>
+        <div class="collapse navbar-collapse" id="hamburgermeny">
         <div class="navbar-nav ml-auto">
-          <a class="nav-item nav-link active" href="index.html">Bestilling</a>
-          <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
-          <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
+            <a class="nav-item nav-link active" href="index.html">Bestilling</a>
+            <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
+            <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
         </div><!-- navbar-bar -->
-      </div><!-- navbar-collapse -->
-      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white">Vi har de feteste burgerne!</span>
+        </div><!-- navbar-collapse -->
+        <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white">Vi har de feteste burgerne!</span>
     </div><!-- container -->
-  </nav>
+</nav>
 ```
 
 Du kan også bruke Bootstrap til å skalere bilder og videoer automatisk, avhengig av brukerens skjermbredde. Her er et eksempel på hvordan YouTube-videoen på hamburgerskolesiden kan skaleres:
 
 ``` html 
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lz0IT4Uk2xQ?rel=0&amp;showinfo=0;start=17"
-        allowfullscreen></iframe>
-    </div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lz0IT4Uk2xQ?rel=0&amp;showinfo=0;start=17"
+    allowfullscreen></iframe>
+</div>
 ```
 
 
