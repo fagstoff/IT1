@@ -24,32 +24,12 @@ body {
 }
 
 /*
- * Her styler jeg alle lenkene i HTML-fila.
- *
- */
-a {
-    color: maroon;
-    text-decoration: none;
-}
-a:hover, a:focus {
-    color: silver;
-    text-decoration: underline;
-}
-a:active {
-    color: yellow;
-}
-a.active {
-    color: black;
-}
-
-/*
 * Overskriver bootstrap-klasser
 */
 .nav-tabs .nav-link.active {
     background-color: #FCDAA9;
     border-bottom: #FCDAA9;
 }
-
 
 /*
  * Ønsker en spesiell font på alle overskrifter.
@@ -75,6 +55,7 @@ h3 {
 h4 {
     font-size: 1.2em;
     margin-bottom: 0em;
+    margin-top: 1em;
 }
 
 /*
