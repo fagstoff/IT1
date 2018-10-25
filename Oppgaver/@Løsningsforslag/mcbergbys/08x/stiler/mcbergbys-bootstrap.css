@@ -30,6 +30,9 @@ body {
     background-color: #FCDAA9;
     border-bottom: #FCDAA9;
 }
+.navbar-dark .navbar-nav .nav-link.active {
+    color: black;
+}
 
 /*
  * Ønsker en spesiell font på alle overskrifter.
