@@ -107,6 +107,10 @@ img.center {
     display: block;
 }
 
+fieldset {
+    border: none;
+}
+
 #skjemaknapper {
     margin-top: 1em;
 }

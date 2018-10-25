@@ -34,14 +34,15 @@
     <img src="bilder/hamburgers-400.jpg" class="float-right" alt="Hamburgere - bildet er tatt av Niklas Rhöse" />
 
     <form action="bestillingsmottak.php" method="post">
-      <div id="personinfo">
+      <fieldset id="personinfo">
         <h4>Din kontaktinfo:</h4>
         <label for="navn">Navn</label>
         <input type="text" name="navn" id="navn" />
+        <br />
         <label for="tlf">Mobilnr.</label>
         <input type="text" name="tlf" id="tlf" />
-      </div>
-      <div id="burgervelger">
+      </fieldset><!-- personinfo -->
+      <fieldset id="burgervelger">
         <h4>Burger:</h4>
         <input type="radio" name="burger" id="superburger" value="superburger" />
         <label for="superburger">Superburger - alles favoritt</label>
@@ -51,9 +52,8 @@
         <br />
         <input type="radio" name="burger" id="veggisburger" value="veggisburger" />
         <label for="veggisburger">Veggis - for deg som er glad i planter</label>
-        <br />
-      </div>
-      <div id="drikkevelger">
+      </fieldset><!-- burgervelger -->
+      <fieldset id="drikkevelger">
         <h4>Drikke:</h4>
         <input type="radio" name="drikke" id="cola" value="cola" />
         <label for="cola">Cola</label>
@@ -66,9 +66,8 @@
         <br />
         <input type="radio" name="drikke" id="vann" value="vann" />
         <label for="vann">Vann</label>
-        <br />
-      </div>
-      <div id="tilbehør">
+      </fieldset><!-- drikkevelger -->
+      <fieldset id="tilbehør">
         <h4>Tilbehør:</h4>
         <input type="radio" name="tilbehør" id="pommesfrites" value="pommesfrites" />
         <label for="pommesfrites">Pommes frites</label>
@@ -78,9 +77,8 @@
         <br />
         <input type="radio" name="tilbehør" id="cheesesticks" value="cheesesticks" />
         <label for="cheesesticks">Cheese sticks</label>
-        <br />
-      </div>
-      <div id="ekstra">
+      </fieldset><!-- tilbehør -->
+      <fieldset id="ekstra">
         <h4>Annet:</h4>
         <input type="checkbox" name="ekstra[]" id="ketchup" value="ketchup" />
         <label for="ketchup">Ketchup laget av ekte tomater</label>
@@ -93,11 +91,11 @@
         <br />
         <input type="checkbox" name="ekstra[]" id="dip" value="dip" />
         <label for="dip">Dip laget etter vår hemmelige oppskrift</label>
-        <br />
-      </div>
-      <div id="skjemaknapper">
+      </fieldset><!-- ekstra -->
+      <fieldset id="skjemaknapper">
         <input type="submit" value="Send bestilling" />
-        <input type="reset" value="Nullstill skjema" /></div>
+        <input type="reset" value="Nullstill skjema" />
+      </fieldset><!-- skjemaknapper -->
     </form>
   </div><!-- hoved -->
 </body>
