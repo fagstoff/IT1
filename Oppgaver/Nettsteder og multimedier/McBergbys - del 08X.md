@@ -8,7 +8,9 @@ Kopier de tre sidene du har laget fra før (i oppgavedelene fra 1 til 8) over i 
 
 For å legge inn støtte for Bootstrap må du følge anvisningene som er gitt i [dokumentasjonen til Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/#starter-template). Legg merke til at du må legge inn litt kode i `<head>...</head>` i html-filene dine, og tre nye `<script>`-elementer rett før `</body>` (i slutten av HTML-fila).
 
-Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen der](https://getbootstrap.com/docs/4.1/layout/overview/), og du kan se på [eksempler på bruk](https://getbootstrap.com/docs/4.1/examples/). Prøv deg fram, og se hva du kan få til med McBergbys-sidene. Her er et litt avansert eksempel på hvordan du kan lage navigasjonsmenyen:
+Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen der](https://getbootstrap.com/docs/4.1/layout/overview/), og du kan se på [eksempler på bruk](https://getbootstrap.com/docs/4.1/examples/). Prøv deg fram, og se hva du kan få til med McBergbys-sidene. 
+
+Her er et litt avansert eksempel på hvordan du kan lage navigasjonsmenyen i McBergbys. Alle klassene som brukes her, er Bootstrap-klasser. 
 
 ``` html 
   <nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
@@ -29,6 +31,17 @@ Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen
     </div><!-- container -->
   </nav>
 ```
+
+Du kan også bruke Bootstrap til å skalere bilder og videoer automatisk, avhengig av brukerens skjermbredde. Her er et eksempel på hvordan YouTube-videoen på hamburgerskolesiden kan skaleres:
+
+``` html 
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lz0IT4Uk2xQ?rel=0&amp;showinfo=0;start=17"
+        allowfullscreen></iframe>
+    </div>
+```
+
+
 
 Ressurser
 ---------
