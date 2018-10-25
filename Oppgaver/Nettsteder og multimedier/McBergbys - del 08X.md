@@ -6,9 +6,29 @@ Oppgave
 -------
 Kopier de tre sidene du har laget fra før (i oppgavedelene fra 1 til 8) over i et nytt prosjekt. Ta også med alle mapper som inneholder bilder, videoer og stilark. Du skal legge inn Bootstrap i alle html-filene.
 
-For å legge inn støtte for Bootstrap må du følge anvisningene som er gitt i [dokumentasjonen til Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template). Legg merke til at du må legge inn litt kode i `<head>...</head>` i html-filene dine, og tre nye `<script>`-elementer rett før `</body>`.
+For å legge inn støtte for Bootstrap må du følge anvisningene som er gitt i [dokumentasjonen til Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/#starter-template). Legg merke til at du må legge inn litt kode i `<head>...</head>` i html-filene dine, og tre nye `<script>`-elementer rett før `</body>` (i slutten av HTML-fila).
 
-Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen der](https://getbootstrap.com/docs/4.0/layout/overview/), og du kan se på [eksempler på bruk](https://getbootstrap.com/docs/4.0/examples/). Prøv deg fram, og se hva du kan få til med McBergbys-sidene. Lykke til!
+Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen der](https://getbootstrap.com/docs/4.1/layout/overview/), og du kan se på [eksempler på bruk](https://getbootstrap.com/docs/4.1/examples/). Prøv deg fram, og se hva du kan få til med McBergbys-sidene. Her er et litt avansert eksempel på hvordan du kan lage navigasjonsmenyen:
+
+``` html 
+  <nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
+    <div class="container">
+      <a class="navbar-brand" id="logo" href="#">McBergbys</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" aria-controls="hamburgermeny"
+        aria-expanded="false" aria-label="Vis navigasjonsmeny">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="hamburgermeny">
+        <div class="navbar-nav ml-auto">
+          <a class="nav-item nav-link active" href="index.html">Bestilling</a>
+          <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
+          <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
+        </div><!-- navbar-bar -->
+      </div><!-- navbar-collapse -->
+      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white">Vi har de feteste burgerne!</span>
+    </div><!-- container -->
+  </nav>
+```
 
 Ressurser
 ---------
