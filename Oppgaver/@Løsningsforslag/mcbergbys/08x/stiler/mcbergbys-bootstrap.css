@@ -33,6 +33,9 @@ body {
 .navbar-dark .navbar-nav .nav-link.active {
     color: black;
 }
+.card-header {
+    font: 24px "Poiret One", Helvetica, Arial, sans-serif;
+}
 
 /*
  * Ønsker en spesiell font på alle overskrifter.
@@ -69,7 +72,7 @@ iframe {
 	border: 0;
 }
 
-#logo {
+#logo, #slogan {
     font: 24px "Poiret One", Helvetica, Arial, sans-serif;
     color: #FFFFFF;
 }
