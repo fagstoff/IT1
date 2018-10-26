@@ -138,6 +138,24 @@ fieldset {
 	background-color: silver;
 }
 
+#matbokser section {
+    float: left;
+    width: 25%;
+    min-width: 10em;
+    margin: 1em;
+    padding: 1em;
+    background-color: silver;
+    border: solid thin;
+}
+
+#matbokser img {
+    width: 100%;
+}
+
+.matboks-overskrift {
+    font: 20px "Poiret One", Helvetica, Arial, sans-serif;
+}
+
 .text-left 	  { text-align: left; }
 .text-center  { text-align: center; }
 .text-right   { text-align: right; }

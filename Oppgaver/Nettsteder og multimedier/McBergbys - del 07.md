@@ -4,9 +4,9 @@ McBergbys del 7: Lister og bokser
 
 Oppgave
 -------
-Lag en nettside som inneholder en liste, en tekst og et kart, slik som vist i bildet nedenfor. Du trenger ikke å bruke identiske farger eller fonter, bygg videre på det du selv har gjort i tidligere oppgaver. Siden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden. Nettsiden skal hete `om.html`, og skal lagres i en mappe med navnet `mcbergbys-07`.
+Lag en nettside som inneholder en liste, kart og tekstblokker slik som vist i bildet nedenfor. Du trenger ikke å bruke de samme fargene og fontene som er vist på bildet, bygg heller videre på det du selv har gjort i tidligere oppgaver. Nettsiden skal bruke samme CSS-kode som bestillingsskjemaet, sånn at nettstedet får en gjennomført visuell helhet. I tillegg er det viktig at du etterstreber en universell utforming av nettsiden. Nettsiden skal hete `om.html`, og skal lagres i en mappe med navnet `mcbergbys-07`.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-7.jpg)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/mcbergbys-7b.jpg)
 
 Du skal bruke [karttjenesten fra finn.no](http://kart.finn.no) for å lage kartet. Finn en passende plassering for restauranten din, bruk menyen "Link" oppe til høyre på finn.no og velg "Kartgenerator". Kartet skal være 250x250 piksler.
 
