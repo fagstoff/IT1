@@ -27,29 +27,32 @@
           <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
         </div><!-- navbar-bar -->
       </div><!-- navbar-collapse -->
-      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white" id="slogan">Vi har de feteste burgerne!</span>
+      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white" id="slogan">Vi har de feteste
+        burgerne!</span>
     </div><!-- container -->
   </nav>
   <div class="container" id="hovedomraade">
+
     <h1>Bestill fra McBergbys</h1>
 
     <h2>Sett sammen din meny</h2>
     <p>En meny koster kr. 99,- uansett hvilken kombinasjon du velger.</p>
 
-    <div class="container" id="burgerbilde">
-      <img class="img-fluid rounded float-md-right mx-sm-5" src="bilder/hamburgers-400.jpg" alt="Hamburgere - Unsplash License Niklas Rhöse" />
-    </div><!-- burgerbilde -->
-
     <form action="bestillingsmottak.php" method="post">
+
+      <div class="container" id="burgerbilde">
+        <img class="img-fluid rounded float-md-right mx-sm-5" src="bilder/hamburgers-400.jpg" alt="Hamburgere - Unsplash License Niklas Rhöse" />
+      </div><!-- burgerbilde -->
+
       <fieldset class="form-group" id="personinfo">
         <h4>Din kontaktinfo:</h4>
         <div class="form-group">
           <label class="form-control-label" for="navn">Navn</label>
-          <input class="form-control mr-5" type="text" name="navn" id="navn" placeholder="Fornavn Etternavn"/>
+          <input class="form-control mr-5" type="text" name="navn" id="navn" placeholder="Fornavn Etternavn" />
         </div><!-- form-group -->
         <div class="form-group">
           <label class="form-control-label" for="tlf">Mobilnr.</label>
-          <input class="form-control" type="text" name="tlf" id="tlf" placeholder="### ## ###"/>
+          <input class="form-control" type="text" name="tlf" id="tlf" placeholder="### ## ###" />
         </div><!-- form-group -->
       </fieldset><!-- personinfo -->
 
@@ -69,6 +72,10 @@
           <label for="veggisburger" class="form-check-label">Veggis - for deg som er glad i planter</label>
         </div><!-- form-check -->
       </fieldset><!-- burgervelger -->
+
+      <div class="container" id="drikkebilde">
+        <img class="img-fluid rounded float-md-right mx-sm-5" src="bilder/drinks-400.jpg" alt="Drikkevarer - CC0 rawpixel (pixabay)" />
+      </div><!-- drikkebilde -->
 
       <fieldset class="form-group" id="drikkevelger">
         <h4>Drikke:</h4>
@@ -90,10 +97,6 @@
           <span class="badge badge-info badge-pill">Sunt valg</span>
         </div><!-- form-check -->
       </fieldset><!-- drikkevelger -->
-
-      <div class="container" id="drikkebilde">
-        <img class="img-fluid rounded float-md-right mx-sm-5" src="bilder/drinks-400.jpg" alt="Drikkevarer - bildet er tatt av rawpixel og har lisens CC0" />
-      </div><!-- drikkebilde -->
 
       <fieldset class="form-group" id="tilbehør">
         <h4>Tilbehør:</h4>
@@ -139,6 +142,8 @@
         <input type="reset" value="Nullstill skjema" class="btn btn-warning" />
       </fieldset><!-- skjemaknapper -->
     </form>
+
+
   </div><!-- container -->
 
   <!-- Bootstrap -->
