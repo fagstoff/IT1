@@ -10,6 +10,7 @@ Ressurser
 ---------
 * [Datatilsynet: Hva er personvern?](https://www.datatilsynet.no/om-personvern/hva-er-personvern/)
 * [Eksempel på en personvernerklæring: Wikipedia](https://meta.wikimedia.org/wiki/Privacy_policy/nb)
+* [Eksempel på en personvernerklæring: Datatilsynet](https://www.datatilsynet.no/om-datatilsynet/personvernerklaering-nettsidene/)
 
 Vurderingskriterier
 -------------------
