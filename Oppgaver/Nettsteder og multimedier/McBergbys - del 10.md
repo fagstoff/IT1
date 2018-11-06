@@ -1,6 +1,6 @@
 McBergbys - del 10: Lær deg PHP
 ===============================
-**Alt gikk veldig fint for McBergbys hele høsten, og nå har de nettsider som ser kjempefine ut. Men brått oppdaget sjefen at dersom McBergbys skal komme i mål med det store nettbaserte bestillingssystemet, så må det lages dynamiske nettsider. Du får alt ansvaret, og blir bedt om å gå på kurs for å lære deg programmeringsspråket PHP.**
+**Alt gikk veldig fint for McBergbys hele høsten, og nå har bedriften fått nettsider som ser kjempefine ut. Men brått oppdaget sjefen at dersom McBergbys skal komme i mål med det store nettbaserte bestillingssystemet, så må det lages dynamiske nettsider. Du får alt ansvaret, og blir bedt om å gå på kurs for å lære deg programmeringsspråket PHP.**
 
 Oppgave
 -------
