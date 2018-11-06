@@ -11,7 +11,7 @@ Oversikt over McBergbys-oppgaver
  * [Del 8 - Navigasjonsmeny](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2008.md) *(Nettsteder og multimedier)*
  * [Del 8X - Mobiltilpassede nettsider](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2008X.md) *(Nettsteder og multimedier)*
  * [Del 9a - Personvern](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Digital%20samtid/McBergbys%20-%20del%2009a.md) *(Digital samtid)*
- * [Del 09b - Opphavsrett](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Digital%20samtid/McBergbys%20-%20del%2009b.md) *(Digital samtid)*
+ * [Del 9b - Opphavsrett](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Digital%20samtid/McBergbys%20-%20del%2009b.md) *(Digital samtid)*
  * [Del 10 - Lær deg PHP](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2010.md) *(Nettsteder og multimedier)*
  * [Del 11 - Motta innhold fra HTML-skjemaer](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2011.md) *(Nettsteder og multimedier)*
  * [Del 12 - Dynamiske nettsider](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2012.md) *(Nettsteder og multimedier)*
