@@ -1,6 +1,6 @@
 McBergbys - del 10: Lær deg PHP
 ===============================
-**Alt gikk veldig fint for McBergbys hele høsten, og nå har de nettsider som ser kjempefine ut. Men brått oppdaget sjefen at dersom McBergbys skal komme i mål med det store nettbaserte bestillingssystemet, så må det lages dynamiske nettsider. Du får alt ansvaret, og blir bedt om å gå på kurs for å lære deg programmeringsspråket PHP.**
+**Alt gikk veldig fint for McBergbys hele høsten, og nå har bedriften fått nettsider som ser kjempefine ut. Men brått oppdaget sjefen at dersom McBergbys skal komme i mål med det store nettbaserte bestillingssystemet, så må det lages dynamiske nettsider. Du får alt ansvaret, og blir bedt om å gå på kurs for å lære deg programmeringsspråket PHP.**
 
 Oppgave
 -------
@@ -11,7 +11,7 @@ Ressurser
 * Du trenger en teksteditor og en nettleser til denne oppgaven.
 * Du må ha tilgang til en Web-server som kan kjøre PHP-filer.
 * Fagtekster og oppgaver [finner du her](https://github.com/fagstoff/IT1/blob/master/Fagtekster/databaser/04.%20PHP.md).
-* Blir du raskt ferdig, og har lyst til å lære mer? Prøv PHP-kursene på [codecademy](https://www.codecademy.com/en/tracks/php) og [w3schools](https://www.w3schools.com/php/default.asp).
+* Blir du raskt ferdig, og har lyst til å lære mer? Prøv PHP-kurset på [w3schools](https://www.w3schools.com/php/default.asp).
 
 Vurderingskriterier
 -------------------
