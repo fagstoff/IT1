@@ -10,27 +10,7 @@ For å legge inn støtte for Bootstrap må du følge anvisningene som er gitt i 
 
 Når du har lagt inn støtte for Bootstrap kan du lese videre i [dokumentasjonen der](https://getbootstrap.com/docs/4.1/layout/overview/), og du kan se på [eksempler på bruk](https://getbootstrap.com/docs/4.1/examples/). Prøv deg fram, og se hva du kan få til med McBergbys-sidene. 
 
-Her er et litt avansert eksempel på hvordan du kan lage navigasjonsmenyen i McBergbys. Alle klassene som brukes her, er Bootstrap-klasser. 
-
-``` html 
-<nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
-    <div class="container">
-        <a class="navbar-brand" id="logo" href="#">McBergbys</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" aria-controls="hamburgermeny"
-        aria-expanded="false" aria-label="Vis navigasjonsmeny">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="hamburgermeny">
-        <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active" href="index.html">Bestilling</a>
-            <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
-            <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
-        </div><!-- navbar-bar -->
-        </div><!-- navbar-collapse -->
-        <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white">Vi har de feteste burgerne!</span>
-    </div><!-- container -->
-</nav>
-```
+Du finner et litt avansert eksempel på hvordan du kan lage <a href="https://github.com/fagstoff/IT1/blob/master/Oppgaver/%40L%C3%B8sningsforslag/mcbergbys/08x/bootstrap_navbar_demo.html">en navigasjonsmeny på denne siden</a>. Alle CSS-klassene som brukes i eksemplet er Bootstrap-klasser. 
 
 Du kan også bruke Bootstrap til å skalere bilder og videoer automatisk, avhengig av brukerens skjermbredde. Her er et eksempel på hvordan YouTube-videoen på hamburgerskolesiden kan skaleres:
 
