@@ -12,24 +12,27 @@
 </head>
 
 <body>
-  <nav>
-    <ul>
-      <li>
-        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
-      </li>
-      <li>
-        <a href="index.html">Bestilling</a>
-      </li>
-      <li>
-        <a href="om.html">Om McBergbys</a>
-      </li>
-      <li>
-        <a href="hamburgerskolen.html">Burgerskolen</a>
-      </li>
-    </ul>
+  <nav class="navbar nav-tabs fixed-top bg-dark navbar-dark navbar-expand-sm pb-0">
+    <div class="container">
+      <a class="navbar-brand" id="logo" href="#">
+        <img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#hamburgermeny" aria-controls="hamburgermeny"
+        aria-expanded="false" aria-label="Vis navigasjonsmeny">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="hamburgermeny">
+        <div class="navbar-nav ml-auto">
+          <a class="nav-item nav-link" href="index.html">Bestilling</a>
+          <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
+          <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
+        </div><!-- navbar-bar -->
+      </div><!-- navbar-collapse -->
+      <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white" id="slogan">Vi har de feteste
+        burgerne!</span>
+    </div><!-- container -->
   </nav>
 
-  <div class="hoved">
+  <div class="container">
     <h1>McBergbys personvernerklæring</h1>
     <!-- Teksten nedenfor er i hovedsak lånt fra MatPrat.no -->
     <p>Vi hos McBergbys er opptatt av å ivareta personvernet til brukerne av vårt nettsted. Vi har utarbeidet denne
@@ -58,10 +61,6 @@
     <p>Dersom du ønsker innsyn eller har spørsmål knyttet til denne personvernerklæring kan disse rettes til McBergbys
       på e-post: kontakt@mcbergbys.no.</p>
   </div>
-
-  <footer>
-    <a href="personvern.html">Personvernerklæring</a>
-  </footer>
 
   <!-- Bootstrap -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
