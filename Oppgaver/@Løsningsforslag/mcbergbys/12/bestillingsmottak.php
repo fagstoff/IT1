@@ -1,30 +1,33 @@
 <!DOCTYPE html>
 <html lang="no">
-  <head>
-    <meta charset="utf-8">
-    <meta name="author" content="bitjungle">
-    <title>Bestillingsmottak</title>
-    <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
-  </head>
-  <body>
-    <nav>
-      <ul>
-        <li>
-          <div id="logo">McBergbys
-          <br />burgersjappe</div>
-        </li>
-        <li>
-          <a href="index.html">Bestilling</a>
-        </li>
-        <li>
-          <a href="om.html">Om McBergbys</a>
-        </li>
-        <li>
-          <a href="hamburgerskolen.html">Hamburgerskolen</a>
-        </li>
-      </ul>
-    </nav>
-    <div class="hoved">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="author" content="bitjungle">
+  <title>McBergbys bestillingssystem</title>
+  <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
+</head>
+
+<body>
+  <nav>
+    <ul>
+      <li>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+      </li>
+      <li>
+        <a href="index.html">Bestilling</a>
+      </li>
+      <li>
+        <a href="om.html">Om McBergbys</a>
+      </li>
+      <li>
+        <a href="hamburgerskolen.html">Burgerskolen</a>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="hoved">
+
       <h1>Din bestilling</h1>
       <p>
         <!-- I teksten som kommer nedenfor har jeg blandet sammen HTML- og PHP-kode
@@ -32,7 +35,7 @@
         fra variabelen $_POST. Innholdet i denne variabelen kommer fra et HTML-skjema.-->
 	  Tusen takk for din bestilling <?php echo $_POST['navn']?>. Vi har registrert bestillingen din på telefonnummer 
       <strong><?php echo $_POST['tlf']?></strong>. Vennligst oppgi dette nummeret når du henter bestillingen din.
-	  </p>
+	  </p> 
 	  <p>
 	  Vi ser at du bestilte en <?php echo $_POST['burger']?>, det er et godt valg.
     <!-- I PHP-koden nedenfor sjekker jeg først hva slags drikke brukeren har bestilt,
@@ -62,9 +65,12 @@
       }
 	  ?>
 	  </p>
-    </div>
+
     <footer>
       <a href="personvern.html">Personvernerklæring</a>
     </footer>
-  </body>
+
+  </div><!-- hoved -->
+</body>
+
 </html>
