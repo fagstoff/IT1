@@ -39,7 +39,6 @@ if (isset($_POST['navn'])) {
 //variablene til tomme verdier dersom det ikke finnes noe relatert innhold i $_POST.
 //Ønsker du å gjøre en grundigere validering av disse verdiene i $_POST,
 //kan du gjøre det her.
-
 if (isset($_POST['burger'])) {
   $burger = $_POST['burger'];
 } else {
