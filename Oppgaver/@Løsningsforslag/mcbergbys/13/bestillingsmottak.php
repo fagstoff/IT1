@@ -77,8 +77,8 @@ if (isset($_POST['ekstra'])) {
     <nav>
       <ul>
         <li>
-          <div id="logo">McBergbys
-          <br />burgersjappe</div>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+          
         </li>
         <li>
           <a href="index.html">Bestilling</a>
@@ -87,7 +87,7 @@ if (isset($_POST['ekstra'])) {
           <a href="om.html">Om McBergbys</a>
         </li>
         <li>
-          <a href="hamburgerskolen.html">Hamburgerskolen</a>
+          <a href="hamburgerskolen.html">Burgerskolen</a>
         </li>
       </ul>
     </nav>
@@ -126,7 +126,7 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   //Se http://php.net/manual/en/function.is-array.php
   if(is_array($ekstra)) {
     echo "Vi noterte oss også at du bestilte litt ekstrautstyr til burgeren din. ";
-    echo "Her er hva vi har registrert:\n";
+    echo "Her er hva vi har registrert:</p>\n";
     echo "<ul>\n";
     //Nå jobber vi oss steg for steg gjennom hele lista, 
     //og skriver ut innholdet som en punktliste i HTML.
@@ -134,13 +134,15 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
     foreach($ekstra as $e) {
       echo "<li>{$e}</li>\n";
     }
-    echo "</ul></p>\n";
+    echo "</ul>\n";
   }
 }
 ?>
-    </div>
+    
     <footer>
       <a href="personvern.html">Personvernerklæring</a>
     </footer>
+
+    </div><!-- hoved -->
   </body>
 </html>
