@@ -4,8 +4,7 @@
 //Vi sier at vi "validerer" informasjonen som brukeren sender fra skjemaet.
 //Foreløpig velger vi å bare sjekke brukerens telefonnummer og navn.
 
-//Noen kan finne på å skrive telefonnummeret med mellomrom
-//slik: 999 88 777 eller slik: 33 44 55 66.
+//Noen kan finne på å skrive telefonnummeret slik: 999 88 777.
 //Vi fjerner alle mellomrom før vi sjekker om det er et gyldig nummer.
 //Se http://php.net/manual/en/function.str-replace.php
 if (isset($_POST['tlf'])) {
@@ -40,7 +39,6 @@ if (isset($_POST['navn'])) {
 //variablene til tomme verdier dersom det ikke finnes noe relatert innhold i $_POST.
 //Ønsker du å gjøre en grundigere validering av disse verdiene i $_POST,
 //kan du gjøre det her.
-
 if (isset($_POST['burger'])) {
   $burger = $_POST['burger'];
 } else {
@@ -127,7 +125,6 @@ if ($tlf_ok) {
   //Nå er vi ferdig, og kan lukke forbindelsen til databasen
   mysqli_close($db_forbindelse);
 }
-
 ?>
 <!DOCTYPE html>
 <html lang="no">
@@ -141,8 +138,8 @@ if ($tlf_ok) {
     <nav>
       <ul>
         <li>
-          <div id="logo">McBergbys
-          <br />burgersjappe</div>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+          
         </li>
         <li>
           <a href="index.html">Bestilling</a>
@@ -151,7 +148,7 @@ if ($tlf_ok) {
           <a href="om.html">Om McBergbys</a>
         </li>
         <li>
-          <a href="hamburgerskolen.html">Hamburgerskolen</a>
+          <a href="hamburgerskolen.html">Burgerskolen</a>
         </li>
       </ul>
     </nav>
@@ -174,10 +171,10 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   }
   if (isset($drikke)) {//Brukeren har bestilt drikke
     if ($drikke == 'vann') {//Brukeren bestilte vann
-      echo "Du bestilte vann, det er veldig bra!";
+      echo "Du bestilte vann, det er veldig bra! ";
     } else {//Brukeren bestilte noe annet enn vann
       echo "Du bestilte {$drikke}. ";
-      echo "Jaja. Vann hadde vært et bedre valg, men du vet vel liksom best du da.";
+      echo "Jaja. Vann hadde vært et bedre valg, men du vet vel liksom best du da. ";
     }
   }
   if (isset($tilbehør)) {//Brukeren har bestilt tilbehør
@@ -190,7 +187,7 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   //Se http://php.net/manual/en/function.is-array.php
   if(is_array($ekstra)) {
     echo "Vi noterte oss også at du bestilte litt ekstrautstyr til burgeren din. ";
-    echo "Her er hva vi har registrert:\n";
+    echo "Her er hva vi har registrert:</p>\n";
     echo "<ul>\n";
     //Nå jobber vi oss steg for steg gjennom hele lista, 
     //og skriver ut innholdet som en punktliste i HTML.
@@ -198,13 +195,15 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
     foreach($ekstra as $e) {
       echo "<li>{$e}</li>\n";
     }
-    echo "</ul></p>\n";
+    echo "</ul>\n";
   }
 }
 ?>
-    </div>
+    
     <footer>
       <a href="personvern.html">Personvernerklæring</a>
     </footer>
+
+    </div><!-- hoved -->
   </body>
 </html>
