@@ -2,7 +2,7 @@
 //For å lage en ryddig implementering og for å kunne gjenbruke kode,
 //har mye av PHP-koden blitt laget som funksjoner i fila 'funksjoner.php'.
 //Vi inkluderer fila her, sånn at vi kan bruke funksjonene nedenfor.
-require 'funksjoner.php';
+require 'funksjoner.php'; 
 
 //Før vi gir brukeren en bestillingsbekreftelse og lagrer bestillingen 
 //i en database, må vi sjekke om vi har fått all nødvendig informasjon.
@@ -58,8 +58,8 @@ if ($tlf_ok) {
     <nav>
       <ul>
         <li>
-          <div id="logo">McBergbys
-          <br />burgersjappe</div>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+          
         </li>
         <li>
           <a href="index.php">Bestilling</a>
@@ -68,13 +68,13 @@ if ($tlf_ok) {
           <a href="om.php">Om McBergbys</a>
         </li>
         <li>
-          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+          <a href="hamburgerskolen.php">Burgerskolen</a>
         </li>
       </ul>
     </nav>
     <div class="hoved">
       <h1>Din bestilling</h1>     
-<?php
+      <?php
 //Nedenfor skal vi skrive ut en bestillingsbekreftelse.
 if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed om det.
   echo "<p>Det er noe galt med telefonnummeret ditt! ";
@@ -112,14 +112,11 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   }
   echo "</p>\n";
 }
-?>
-    </div>
+?>  
     <footer>
       <a href="personvern.php">Personvernerklæring</a>
     </footer>
+
+    </div><!-- hoved -->
   </body>
 </html>
-<?php
-  //Nå er vi ferdig, og kan lukke forbindelsen til databasen.
-  lukke_db_forbindelse($db_forbindelse);
-?>
