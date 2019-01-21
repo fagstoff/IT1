@@ -13,7 +13,7 @@ if (isset($_GET['ordreid'])) {
 }
 
 //Vi oppretter en forbindelse med databasen
-$db_forbindelse = apne_db_forbindelse();
+$db_forbindelse = åpne_db_forbindelse();
 //Så henter vi ordredetaljer som ligger i databasen for den aktuelle ordren
 $ordredetaljer = hent_ordredetaljer($db_forbindelse, $ordreid);
 ?>

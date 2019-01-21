@@ -15,7 +15,7 @@ if (isset($_GET['ordrestatus'])) {
 
 
 //Vi oppretter en forbindelse med databasen
-$db_forbindelse = apne_db_forbindelse();
+$db_forbindelse = åpne_db_forbindelse();
 //Så henter vi alle ordrer som ligger i databasen
 $ordrer = hent_ordrer($db_forbindelse, $ordrestatus);
 ?>

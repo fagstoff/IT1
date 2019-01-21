@@ -5,7 +5,7 @@
 
 ## Oppgave
 
-Hent den ferdige PHP-applikasjonen, og tilpass sånn at den passer inn i din løsning. Pass spesielt på å endre databasenavn, brukernavn og passord i funksjonen `apne_db_forbindelse()` i fila `funksjoner.php`.
+Hent den ferdige PHP-applikasjonen, og tilpass sånn at den passer inn i din løsning. Pass spesielt på å endre databasenavn, brukernavn og passord i funksjonen `åpne_db_forbindelse()` i fila `funksjoner.php`.
 
 Du kan [laste ned den ferdige PHP-applikasjonen her](https://github.com/fagstoff/IT1/blob/master/Oppgaver/%40L%C3%B8sningsforslag/mcbergbys/19/19.zip).
 
