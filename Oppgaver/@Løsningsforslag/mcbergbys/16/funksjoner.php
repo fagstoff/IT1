@@ -1,23 +1,4 @@
-<?php
-/**
- * I denne fila er det implementert en rekke funksjoner som brukes av web-applikasjonen til McBergbys.
- * Inkluder denne fila på alle sidene til McBergbys med denne koden helt i starten av hver fil:
- * 
- *     require 'funksjoner.php';
- * 
- * For å finne den siste og mest oppdaterte versjonen av denne fila må du gå til det siste 
- * løsningsforslaget i serien av McBergbys-oppgaver. 
- * 
- * Med noen tilpasninger bør denne fila kunne brukes i andre små webapplikasjonsprosjekter, 
- * og den er tenkt brukt som hjelpemiddel på eksamen i IT1.
- *
- * ---------------------------------------------------
- * Copyright 2016 BITJUNGLE Rune Mathisen
- * Lisens: https://www.apache.org/licenses/LICENSE-2.0
- * ---------------------------------------------------
- */
-
- 
+<?php 
 /**
  * Henter skjemadata fra $_POST.
  *
@@ -103,7 +84,7 @@ function lag_liste($listedata, $nummerert = FALSE) {
  *
  * @return object databaseforbindelse
  */
-function apne_db_forbindelse() {
+function åpne_db_forbindelse() {
   //Her legger vi inn databasenavn, brukernavn og passord som vi har satt opp i MySQL:
   $db_host = 'localhost';
   $db_navn = 'mcbergbysdb';
@@ -158,6 +139,12 @@ function lagre_bestilling($db_forbindelse, $bestillingsdata) {
   //Se https://secure.php.net/manual/en/mysqli.query.php
   $spørring = "INSERT INTO Bestillinger(tidspunkt, bestilling) VALUES ('{$tidspunkt}', '{$bestilling}');";
   return mysqli_query($db_forbindelse, $spørring);
+  
+  //Kode som er bedre/sikrere enn det som står ovenfor, og som vi skal bruke senere.
+  //$spørring = "INSERT INTO Bestillinger(tidspunkt,bestilling) VALUES (?,?);";
+  //$stmt = mysqli_prepare($db_forbindelse, $spørring);
+  //mysqli_stmt_bind_param($stmt, 'ss', $tidspunkt, $bestilling);
+  //$stmt->execute();
 }
 
 
@@ -237,22 +224,6 @@ function bestilling_til_html($bestillingsdata) {
   return $utdata;
 }
 
-
-/**
- * Gjør output fra hent_bestillinger() om til en HTML-formattert liste
- *
- * @param $bestillinger
- * @return string HTML-formattert bestillingsliste
- */
-function bestillingsliste_til_html($bestillinger) {
-  $html = "";
-  while($bestilling = hent_bestilling($bestillinger)) {
-    $html .= "<div class=\"bestilling\"><strong>Bestilling som ble registrert den {$bestilling['tidspunkt']}:</strong><br>";
-    $html .= bestilling_til_html(unserialize($bestilling['bestilling']));
-    $html .= "</div><hr>";
-  }
-  return $html;
-}
 
 /**
  * Returnerer nåtidspunktet på formatet Y-m-d H:i:s

@@ -2,7 +2,7 @@
 //For å lage en ryddig implementering og for å kunne gjenbruke kode,
 //har mye av PHP-koden blitt laget som funksjoner i fila 'funksjoner.php'.
 //Vi inkluderer fila her, sånn at vi kan bruke funksjonene nedenfor.
-require 'funksjoner.php';
+require 'funksjoner.php'; 
 
 //Før vi gir brukeren en bestillingsbekreftelse og lagrer bestillingen 
 //i en database, må vi sjekke om vi har fått all nødvendig informasjon.
@@ -37,13 +37,14 @@ $ekstra = hent_skjemadata('ekstra');
 //Først må vi opprette en forbindelse med databasen. Vi må alltid huske å lukke denne
 //forbindelsen igjen, men gjør ikke det før vi er sikker på at vi er helt ferdig
 //med å bruke forbindelsen. Helt i bunn av denne fila blir forbindelsen lukket (sjekk!).
-$db_forbindelse = apne_db_forbindelse();
+$db_forbindelse = åpne_db_forbindelse();
 
 //Så lagrer vi bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok
 if ($tlf_ok) {
   lagre_bestilling($db_forbindelse, $_POST);
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="no">
@@ -57,8 +58,8 @@ if ($tlf_ok) {
     <nav>
       <ul>
         <li>
-          <div id="logo">McBergbys
-          <br />burgersjappe</div>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+          
         </li>
         <li>
           <a href="index.php">Bestilling</a>
@@ -67,13 +68,13 @@ if ($tlf_ok) {
           <a href="om.php">Om McBergbys</a>
         </li>
         <li>
-          <a href="hamburgerskolen.php">Hamburgerskolen</a>
+          <a href="hamburgerskolen.php">Burgerskolen</a>
         </li>
       </ul>
     </nav>
     <div class="hoved">
       <h1>Din bestilling</h1>     
-<?php
+      <?php
 //Nedenfor skal vi skrive ut en bestillingsbekreftelse.
 if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed om det.
   echo "<p>Det er noe galt med telefonnummeret ditt! ";
@@ -111,14 +112,11 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   }
   echo "</p>\n";
 }
-?>
-    </div>
+?>  
     <footer>
       <a href="personvern.php">Personvernerklæring</a>
     </footer>
+
+    </div><!-- hoved -->
   </body>
 </html>
-<?php
-  //Nå er vi ferdig, og kan lukke forbindelsen til databasen.
-  lukke_db_forbindelse($db_forbindelse);
-?>
