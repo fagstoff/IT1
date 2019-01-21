@@ -184,17 +184,16 @@ $drikke = hent_skjemadata('drikke');
 $tilbehør = hent_skjemadata('tilbehør');
 $ekstra = hent_skjemadata('ekstra');
 
-//Først må vi opprette en forbindelse med databasen
-$db_forbindelse = åpne_db_forbindelse();
-
-//Så lagrer vi bestillingen til databasen,
+//Nå skal vi lagre bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok
 if ($tlf_ok) {
+  //Først må vi opprette en forbindelse med databasen.
+  $db_forbindelse = åpne_db_forbindelse();
+  //Så lagrer vi bestillingen
   lagre_bestilling($db_forbindelse, $_POST);
+  //Nå er vi ferdig, og kan lukke forbindelsen til databasen
+  lukke_db_forbindelse($db_forbindelse);
 }
-
-//Nå er vi ferdig, og kan lukke forbindelsen til databasen
-lukke_db_forbindelse($db_forbindelse);
 
 ?>
 <!DOCTYPE html>
