@@ -29,7 +29,7 @@ Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om
 
 Her er noen forslag til temaer (velg deg en av disse filmene som utgangspunkt):
 
-* [Citizenfour](http://www.vgtv.no/#!/video/116777/citizenfour)
+* [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
 * [Unfair Game: A trip into Data Democracy](https://tv.nrk.no/program/KOID22003518/cambridge-analytica-en-trussel-mot-demokratiet)
 * [Secrets of Silicon Valley - The Persuasion Machine](https://tv.nrk.no/serie/silicon-valley-ute-av-kontrolle/KOID23004817/27-03-2018)
 * [Nobody Speak: Trials of the Free Press](https://en.wikipedia.org/wiki/Nobody_Speak:_Trials_of_the_Free_Press)
