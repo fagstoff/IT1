@@ -24,7 +24,7 @@ CREATE TABLE Ordredetaljer (
 
 CREATE TABLE Produkter (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
-    produktnavn VARCHAR(255) NOT NULL UNIQUE,
+    produktnavn VARCHAR(191) NOT NULL UNIQUE,
     beholdning INTEGER,
     pris DECIMAL(5,2)
 );
