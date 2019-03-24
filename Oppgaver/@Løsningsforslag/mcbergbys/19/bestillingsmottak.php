@@ -2,7 +2,7 @@
 //For å lage en ryddig implementering og for å kunne gjenbruke kode,
 //har mye av PHP-koden blitt laget som funksjoner i fila 'funksjoner.php'.
 //Vi inkluderer fila her, sånn at vi kan bruke funksjonene nedenfor.
-require 'funksjoner.php';
+require 'funksjoner.php'; 
 
 //Før vi gir brukeren en bestillingsbekreftelse og lagrer bestillingen 
 //i en database, må vi sjekke om vi har fått all nødvendig informasjon.
@@ -34,18 +34,14 @@ $burger =  hent_skjemadata('burger');
 $drikke = hent_skjemadata('drikke');
 $tilbehør = hent_skjemadata('tilbehør');
 $ekstra = hent_skjemadata('ekstra');
+$totalpris = hent_skjemadata('totalpris');
 
-//Vi beregner ikke prisen foreløpig, hos McBergbys koster alle menyer kr. 99 uansett!
-$totalpris = 99;
-
-//Først må vi opprette en forbindelse med databasen. Vi må alltid huske å lukke denne
-//forbindelsen igjen, men gjør ikke det før vi er sikker på at vi er helt ferdig
-//med å bruke forbindelsen. Helt i bunn av denne fila blir forbindelsen lukket (sjekk!).
-$db_forbindelse = åpne_db_forbindelse();
-
-//Så lagrer vi bestillingen til databasen,
+//Nå skal vi lagre bestillingen til databasen,
 //men bare dersom skjemaet validerte til ok
 if ($tlf_ok) {
+  //Først må vi opprette en forbindelse med databasen.
+  $db_forbindelse = åpne_db_forbindelse();
+  //Så lagrer vi bestillingen
   $kundeid = lagre_kunde($db_forbindelse, $fornavn, $etternavn, $tlf);
   $ordreid= lagre_ordre($db_forbindelse, $kundeid, $totalpris);
   //echo "kundeid: $kundeid ordreid: $ordreid produkt: $burger";
@@ -57,7 +53,10 @@ if ($tlf_ok) {
       lagre_ordredetaljer($db_forbindelse, $kundeid, $ordreid, $e);
     }
   }
+  //Nå er vi ferdig, og kan lukke forbindelsen til databasen
+  lukke_db_forbindelse($db_forbindelse);
 }
+
 ?>
 <!DOCTYPE html>
 <html lang="no">
@@ -68,18 +67,34 @@ if ($tlf_ok) {
     <link rel="stylesheet" href="stiler/mcbergbys-2.css" />
   </head>
   <body>
-    <?php lag_navigasjonsmeny("index"); ?>
+    <nav>
+      <ul>
+        <li>
+        <div id="logo"><img src="bilder/burger-1487481.svg" alt="McBergbys logo - CC0 midicomp" style="width: 40px;">McBergbys</div>
+          
+        </li>
+        <li>
+          <a href="index.php">Bestilling</a>
+        </li>
+        <li>
+          <a href="om.php">Om McBergbys</a>
+        </li>
+        <li>
+          <a href="hamburgerskolen.php">Burgerskolen</a>
+        </li>
+      </ul>
+    </nav>
     <div class="hoved">
       <h1>Din bestilling</h1>     
-<?php
+      <?php
 //Nedenfor skal vi skrive ut en bestillingsbekreftelse.
 if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed om det.
   echo "<p>Det er noe galt med telefonnummeret ditt! ";
   echo "Gå tilbake til bestillingsskjemaet og rett det opp ";
   echo "(trykk på tilbakeknappen i nettleseren din).</p>";
 } else {//Dersom telefonnummeret er ok, kjøres koden nedenfor.
-  echo "<p>Tusen takk for din bestilling {$fornavn} {$etternavn} med kundenummer {$kundeid}. ";
-  echo "Vi har registrert bestillingen din med ordrenummer {$ordreid} på telefonnummer "; 
+  echo "<p>Tusen takk for din bestilling {$fornavn}. ";
+  echo "Vi har registrert bestillingen din på telefonnummer "; 
   echo "<strong>{$tlf}</strong>. "; 
   echo "Vennligst oppgi dette nummeret når du henter bestillingen din.</p>\n";
   echo "<p>";//Begynner et nytt avsnitt her
@@ -109,12 +124,11 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
   }
   echo "</p>\n";
 }
-?>
-    </div>
-    <?php lag_footer(); ?>
+?>  
+    <footer>
+      <a href="personvern.php">Personvernerklæring</a>
+    </footer>
+
+    </div><!-- hoved -->
   </body>
 </html>
-<?php
-  //Nå er vi ferdig, og kan lukke forbindelsen til databasen.
-  lukke_db_forbindelse($db_forbindelse);
-?>
