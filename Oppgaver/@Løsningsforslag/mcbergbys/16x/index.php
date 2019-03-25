@@ -22,9 +22,9 @@
       </button>
       <div class="collapse navbar-collapse" id="hamburgermeny">
         <div class="navbar-nav ml-auto">
-          <a class="nav-item nav-link active" href="index.html">Bestilling</a>
-          <a class="nav-item nav-link" href="om.html">Om&nbsp;McBergbys</a>
-          <a class="nav-item nav-link" href="hamburgerskolen.html">Burgerskolen</a>
+          <a class="nav-item nav-link active" href="index.php">Bestilling</a>
+          <a class="nav-item nav-link" href="om.php">Om&nbsp;McBergbys</a>
+          <a class="nav-item nav-link" href="hamburgerskolen.php">Burgerskolen</a>
         </div><!-- navbar-bar -->
       </div><!-- navbar-collapse -->
       <span class="navbar-text d-none d-xl-inline-block ml-5 bg-dark text-white" id="slogan">Vi har de feteste
@@ -146,7 +146,7 @@
   </div><!-- container -->
 
   <footer>
-    <a href="personvern.html">Personvernerklæring</a>
+    <a href="personvern.php">Personvernerklæring</a>
   </footer>
 
   <!-- Bootstrap -->
