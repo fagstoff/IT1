@@ -1,7 +1,4 @@
 <?php
-//For å lage en ryddig implementering og for å kunne gjenbruke kode,
-//har mye av PHP-koden blitt laget som funksjoner i fila 'funksjoner.php'.
-//Vi inkluderer fila her, sånn at vi kan bruke funksjonene nedenfor.
 require 'funksjoner.php'; 
 
 //Før vi gir brukeren en bestillingsbekreftelse og lagrer bestillingen 
@@ -140,18 +137,9 @@ if ($tlf_ok == false) {//Om det er noe galt med tlf-nummeret, gir vi en beskjed 
 }
 ?>
     
-    <footer>
-      <a href="personvern.php">Personvernerklæring</a>
-    </footer>
-
-  </div><!-- hoved -->
-
-  <!-- Bootstrap -->
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-    crossorigin="anonymous"></script>
+  </div><!-- hovedomraade -->
+<?php
+  lag_footer();
+?>
 </body>
 </html>

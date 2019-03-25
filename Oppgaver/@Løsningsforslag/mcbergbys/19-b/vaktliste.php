@@ -1,3 +1,6 @@
+<?php
+require 'funksjoner.php'; 
+?>
 <!DOCTYPE html>
 <html lang="no">
 
