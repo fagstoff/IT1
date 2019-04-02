@@ -34,7 +34,7 @@ Her er noen forslag til temaer:
 * En helt spesiell programmerer og internett-aktivist: [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
 * Hvilken trussel mot personvern og demokrati står Facebook for? [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma)
 * Edward Snowden og NSA-avsløringene: [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
-* [Hyperskala datasenter i Skien](http://sitetelemark.no/), muligheter og konsekvenser
+* [Hyperskala datasenter i Skien](http://sitetelemark.no/), [muligheter og konsekvenser](https://www.skien.kommune.no/skien-kommune/bdk/byutvikling/datasenterplaner-i-skien-kommune/)
 
 
 ## Vurderingskriterier
