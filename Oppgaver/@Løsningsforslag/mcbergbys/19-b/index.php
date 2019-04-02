@@ -52,9 +52,9 @@ require 'funksjoner.php';
       <fieldset class="form-group" id="personinfo">
         <h4>Din kontaktinfo:</h4>
         <div class="form-group">
-          <label class="form-control-label" for="fornavn">Navn</label>
+          <label class="form-control-label" for="fornavn">Foravn</label>
           <input class="form-control mr-5" type="text" name="fornavn" id="validationDefault01" placeholder="Fornavn" required />
-          <label class="form-control-label" for="etternavn">Navn</label>
+          <label class="form-control-label" for="etternavn">Etternavn</label>
           <input class="form-control mr-5" type="text" name="etternavn" id="validationDefault02" placeholder="Etternavn" required />
         </div><!-- form-group -->
         <div class="form-group">
