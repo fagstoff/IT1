@@ -13,7 +13,7 @@ Du velger selv en konkret problemstilling, og drøfter denne. Besvarelsen skal l
 * Nettstedet skal lages fra bunnen av med HTML og CSS
 * Dersom du bruker PHP og en database til innholdet, vil dette telle positivt på vurderinga
 * De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org/)
-* Du skal ha lenker til relevante kilder inn i teksten, se hvordan NRKbeta refererer til kilder med lenker i [denne artikkelen om terrorangrepet i Paris i 2015](https://nrkbeta.no/2015/11/17/paris-fleip-eller-fakta/)
+* Du skal ha relevante kilder som klikkbare lenker i teksten (ikke som en egen kildeliste)
 * Du skal bruke flere bilder på nettstedet, og du kan bare bruke bilder som er lov å kopiere 
 * Nettstedet skal inneholde minst én video som belyser temaet på en god måte (finn noe på YouTube eller Vimeo)
 * Nettstedet skal være utformet i henhold til kravene om universell utforming, så langt det er praktisk mulig
@@ -37,7 +37,7 @@ Disse tre filmene kan være gode utgangspunkt for valg av tema:
 
 Her er flere forslag til temaer:
 
-* [Hyperskala datasenter i Skien](http://sitetelemark.no/), [muligheter og konsekvenser](https://www.skien.kommune.no/skien-kommune/bdk/byutvikling/datasenterplaner-i-skien-kommune/)
+* [Hyperskala datasenter i Skien](http://sitetelemark.no/), hvilke [muligheter og konsekvenser](https://www.skien.kommune.no/skien-kommune/bdk/byutvikling/datasenterplaner-i-skien-kommune/) gir det for lokalsamfunnet?
 * Hva er [selvkjørende biler](https://www.theverge.com/autonomous-cars), og hvordan vil de forandre samfunnet? Hva slags nye [etiske problemstillinger](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/) må vi ta stilling til?
 * Er loot-bokser [gambling](https://www.theverge.com/2018/4/25/17280440/belgium-video-game-loot-boxes-illegal-gambling)? Er loot-bokser bra for [spillprodusentene](https://www.pcgamer.com/the-case-for-and-against-loot-boxes-according-to-developers/)? Er loot-bokser bra for [spillerne](https://www.theverge.com/2019/2/19/18226852/loot-boxes-gaming-regulation-gambling-free-to-play)?
 * Hvordan vil [roboter og automatisering](https://www.youtube.com/user/TEDtalksDirector/search?query=automation) endre samfunnet vårt?
