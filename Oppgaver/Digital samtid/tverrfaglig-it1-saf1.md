@@ -31,10 +31,11 @@ Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om
 
 Her er noen forslag til temaer:
 
-* En helt spesiell programmerer og internett-aktivist: [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
-* Hvilken trussel mot personvern og demokrati står Facebook for? [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma)
+* Aaron Swartz, programmerer og internett-aktivist: [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+* Mark Zuckerberg og Facebook, en trussel mot personvern og demokrati? [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma)
 * Edward Snowden og NSA-avsløringene: [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
 * [Hyperskala datasenter i Skien](http://sitetelemark.no/), [muligheter og konsekvenser](https://www.skien.kommune.no/skien-kommune/bdk/byutvikling/datasenterplaner-i-skien-kommune/)
+* Hva er [selvkjørende biler](https://www.theverge.com/autonomous-cars), og hvordan vil de forandre samfunnet?
 
 
 ## Vurderingskriterier
