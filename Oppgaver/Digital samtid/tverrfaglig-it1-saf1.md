@@ -29,11 +29,14 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum to samfunnsfaglige kompetansemål i hovedområdet Digital samtid.
 
-Her er noen forslag til temaer:
+Disse tre filmene kan være gode utgangspunkt for valg av tema:
 
 * Aaron Swartz, programmerer og internett-aktivist: [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
 * Mark Zuckerberg og Facebook, en trussel mot personvern og demokrati? [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma)
 * Edward Snowden og NSA-avsløringene: [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
+
+Her er flere forslag til temaer:
+
 * [Hyperskala datasenter i Skien](http://sitetelemark.no/), [muligheter og konsekvenser](https://www.skien.kommune.no/skien-kommune/bdk/byutvikling/datasenterplaner-i-skien-kommune/)
 * Hva er [selvkjørende biler](https://www.theverge.com/autonomous-cars), og hvordan vil de forandre samfunnet? Hva slags nye [etiske problemstillinger](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/) må vi ta stilling til?
 * Er loot-bokser [gambling](https://www.theverge.com/2018/4/25/17280440/belgium-video-game-loot-boxes-illegal-gambling)? Er loot-bokser bra for [spillprodusentene](https://www.pcgamer.com/the-case-for-and-against-loot-boxes-according-to-developers/)? Er loot-bokser bra for [spillerne](https://www.theverge.com/2019/2/19/18226852/loot-boxes-gaming-regulation-gambling-free-to-play)?
