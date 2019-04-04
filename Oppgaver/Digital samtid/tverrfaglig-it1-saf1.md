@@ -42,6 +42,11 @@ Her er flere forslag til temaer:
 * Er loot-bokser [gambling](https://www.theverge.com/2018/4/25/17280440/belgium-video-game-loot-boxes-illegal-gambling)? Er loot-bokser bra for [spillprodusentene](https://www.pcgamer.com/the-case-for-and-against-loot-boxes-according-to-developers/)? Er loot-bokser bra for [spillerne](https://www.theverge.com/2019/2/19/18226852/loot-boxes-gaming-regulation-gambling-free-to-play)?
 * Hvordan vil [roboter og automatisering](https://www.youtube.com/user/TEDtalksDirector/search?query=automation) endre samfunnet vårt?
 
+Enda flere idéer til temaer i stikkordsform:  
+
+* [Digital mobbing](https://forskning.no/mobbing/mobbing-pa-nett-gir-symptomer-pa-posttraumatisk-stress/1318652)
+* [Incels](https://www.nrk.no/kultur/xl/rapport-fra-morkets-promperom-1.14480292)
+
 
 ## Vurderingskriterier
 
