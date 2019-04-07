@@ -46,6 +46,7 @@ Enda flere idéer til temaer i stikkordsform:
 
 * [Digital mobbing](https://forskning.no/mobbing/mobbing-pa-nett-gir-symptomer-pa-posttraumatisk-stress/1318652)
 * [Incels](https://www.nrk.no/kultur/xl/rapport-fra-morkets-promperom-1.14480292)
+* [Filterboble](https://ndla.no/subjects/subject:14/topic:1:185993/resource:1:107782)
 
 
 ## Vurderingskriterier
