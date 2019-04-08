@@ -1,6 +1,6 @@
 # Tverrfaglig prosjekt: IT1 og samfunnsfag
 
-Du skal ta utgangspunkt i ett av disse kompetansemålene fra IT1-faget (se nedenfor), og kombinere det med minst ett [kompetansemål fra samfunnsfaget](https://www.udir.no/kl06/SAF1-03/Hele/Kompetansemaal/kompetansemal-etter-vg1-vg2):
+Du skal ta utgangspunkt i ett av disse kompetansemålene fra IT1-faget (se nedenfor), og kombinere det med **minst to [kompetansemål fra samfunnsfaget](https://www.udir.no/kl06/SAF1-03/Hele/Kompetansemaal/kompetansemal-etter-vg1-vg2)**:
 
 * gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape for språklige og kulturelle minoriteter
 * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
@@ -27,7 +27,7 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 ## Forslag til temaer
 
-Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum to samfunnsfaglige kompetansemål i hovedområdet Digital samtid.
+Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum ett kompetansemål i hovedområdet Digital samtid og minimum to kompetansemål i samfunnsfaget.
 
 Disse tre filmene kan være gode utgangspunkt for valg av tema:
 
