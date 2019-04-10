@@ -1,6 +1,6 @@
 # Tverrfaglig prosjekt: IT1 og samfunnsfag
 
-Du skal ta utgangspunkt i ett av disse kompetansemålene fra IT1-faget (se nedenfor), og kombinere det med minst ett [kompetansemål fra samfunnsfaget](https://www.udir.no/kl06/SAF1-03/Hele/Kompetansemaal/kompetansemal-etter-vg1-vg2):
+Du skal ta utgangspunkt i ett av disse kompetansemålene fra IT1-faget (se nedenfor), og kombinere det med **minst to [kompetansemål fra samfunnsfaget](https://www.udir.no/kl06/SAF1-03/Hele/Kompetansemaal/kompetansemal-etter-vg1-vg2)**:
 
 * gjøre rede for hvilke utfordringer og muligheter den digitale verden kan skape for språklige og kulturelle minoriteter
 * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
@@ -27,7 +27,7 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 ## Forslag til temaer
 
-Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum to samfunnsfaglige kompetansemål i hovedområdet Digital samtid.
+Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum ett kompetansemål i hovedområdet Digital samtid og minimum to kompetansemål i samfunnsfaget.
 
 Disse tre filmene kan være gode utgangspunkt for valg av tema:
 
@@ -41,6 +41,12 @@ Her er flere forslag til temaer:
 * Hva er [selvkjørende biler](https://www.theverge.com/autonomous-cars), og hvordan vil de forandre samfunnet? Hva slags nye [etiske problemstillinger](https://www.technologyreview.com/s/542626/why-self-driving-cars-must-be-programmed-to-kill/) må vi ta stilling til?
 * Er loot-bokser [gambling](https://www.theverge.com/2018/4/25/17280440/belgium-video-game-loot-boxes-illegal-gambling)? Er loot-bokser bra for [spillprodusentene](https://www.pcgamer.com/the-case-for-and-against-loot-boxes-according-to-developers/)? Er loot-bokser bra for [spillerne](https://www.theverge.com/2019/2/19/18226852/loot-boxes-gaming-regulation-gambling-free-to-play)?
 * Hvordan vil [roboter og automatisering](https://www.youtube.com/user/TEDtalksDirector/search?query=automation) endre samfunnet vårt?
+
+Enda flere idéer til temaer i stikkordsform:  
+
+* [Digital mobbing](https://forskning.no/mobbing/mobbing-pa-nett-gir-symptomer-pa-posttraumatisk-stress/1318652)
+* [Incels](https://www.nrk.no/kultur/xl/rapport-fra-morkets-promperom-1.14480292)
+* [Filterboble](https://ndla.no/subjects/subject:14/topic:1:185993/resource:1:107782)
 
 
 ## Vurderingskriterier
