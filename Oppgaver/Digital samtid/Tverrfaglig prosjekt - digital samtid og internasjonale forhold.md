@@ -52,6 +52,7 @@ Her er noen idéer til temaer i stikkordsform. Finn gjerne fram til en helt konk
 * [Teknologisk globalisering](https://ndla.no/subjects/subject:18/topic:1:194233/topic:1:82493/resource:1:82570)
 * [Internettaktivisme](https://en.wikipedia.org/wiki/Internet_activism)
 * [Menneskerettigheter og Internett](https://www.hrw.org/topic/free-speech/internet-freedom)
+* [Sosiale medier og demokrati](https://en.wikipedia.org/wiki/Social_media_in_the_2016_United_States_presidential_election)
 
 ## Vurderingskriterier
 
