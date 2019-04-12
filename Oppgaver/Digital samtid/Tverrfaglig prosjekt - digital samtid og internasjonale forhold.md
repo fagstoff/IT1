@@ -38,11 +38,12 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum ett kompetansemål i hovedområdet Digital samtid og minimum to kompetansemål i samfunnsfaget.
 
-Disse tre filmene kan være gode utgangspunkt for valg av tema:
+Disse fire filmene kan være gode utgangspunkt for valg av tema:
 
-* Aaron Swartz, programmerer og internett-aktivist: [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
-* Mark Zuckerberg og Facebook, en trussel mot personvern og demokrati? [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma)
-* Edward Snowden og NSA-avsløringene: [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
+* [The Internet's Own Boy - The Story of Aaron Swartz](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy)
+* [Facebooks dilemma](https://tv.nrk.no/serie/facebooks-dilemma) (to episoder)
+* [Citizenfour](https://en.wikipedia.org/wiki/Citizenfour)
+* [We Steal Secrets: The Story of WikiLeaks](https://en.wikipedia.org/wiki/We_Steal_Secrets:_The_Story_of_WikiLeaks)
 
 Her er noen idéer til temaer i stikkordsform. Finn gjerne fram til en helt konkret konkret sak som gir et godt eksempel på temaet du drøfter.
 
