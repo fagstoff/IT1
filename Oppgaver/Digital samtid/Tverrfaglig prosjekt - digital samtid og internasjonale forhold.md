@@ -36,7 +36,7 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 ## Forslag til temaer
 
-Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker minimum ett kompetansemål i hovedområdet Digital samtid og minimum to kompetansemål i samfunnsfaget.
+Du står fritt til å velge tema for oppgaven. Ønsker du å lage et nettsted om noe annet enn det som er foreslått nedenfor, er det helt greit så lenge det dekker de utvalgte kompetansemålene i IT1 og samfunnsfaget.
 
 Disse fire filmene kan være gode utgangspunkt for valg av tema:
 
