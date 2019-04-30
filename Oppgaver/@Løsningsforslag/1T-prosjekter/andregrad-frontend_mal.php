@@ -23,7 +23,8 @@ require 'andregrad-backend_mal.php';
     </form>
     <div id="svaromraade">
       <?php
-      echo hent_svar();
+      //echo funksjonstest();
+      echo "Her er svaret: x = 999 :-)";
       ?>
     </div>
 </body>

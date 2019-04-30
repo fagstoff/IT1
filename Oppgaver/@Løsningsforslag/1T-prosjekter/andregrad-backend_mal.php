@@ -20,7 +20,7 @@ function beregn($a, $b)
   return $a*$b; 
 }
 
-function hent_svar() 
+function funksjonstest() 
 {
   return "Hallo verden";
 }
