@@ -16,8 +16,8 @@ require 'andregrad-backend_mal.php';
     <form action="andregrad-frontend_mal.php" method="post">
       <h2>Skriv inn parametre</h2>
       <fieldset id="params">
-        <input type="number" name="a" id="her_er_a" placeholder="a" required />
-        <input type="number" name="b" id="her_er_b" placeholder="b" required />
+        <input type="text" name="a" id="her_er_a" />
+        <input type="text" name="b" id="her_er_b" />
         <input type="submit" value="&nbsp;Beregn!&nbsp;">
       </fieldset><!-- param -->
     </form>
