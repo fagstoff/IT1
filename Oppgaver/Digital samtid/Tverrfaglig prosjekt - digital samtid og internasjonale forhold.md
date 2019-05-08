@@ -54,6 +54,7 @@ Her er noen idéer til temaer i stikkordsform. Finn gjerne fram til en helt konk
 * [Internettaktivisme](https://en.wikipedia.org/wiki/Internet_activism)
 * [Menneskerettigheter og Internett](https://www.hrw.org/topic/free-speech/internet-freedom)
 * [Sosiale medier og demokrati](https://en.wikipedia.org/wiki/Social_media_in_the_2016_United_States_presidential_election)
+* [Sosiale medier og spredning av feilinformasjon](https://nrkbeta.no/2015/11/17/paris-fleip-eller-fakta/)
 * [Outsourcing](https://www.nrk.no/norge/helse-sor-ost_-innrommer-at-utenlandske-it-arbeidere-har-hatt-tilgang-til-pasientjournaler-1.13478443)
 
 ## Vurderingskriterier
