@@ -49,11 +49,13 @@ Her er noen idéer til temaer i stikkordsform. Finn gjerne fram til en helt konk
 
 * [Internett og radikalisering](https://www.regjeringen.no/no/sub/radikalisering/veileder/internett-og-radikalisering/id2403142/)
 * [Teknologiselskaper og makt](https://www.theguardian.com/commentisfree/2019/feb/18/the-guardian-view-on-facebook-the-arrogance-of-power)
-* [Wikileaks](https://www.nrk.no/urix/det-du-behover-a-vite-om-julian-assange-1.13123737)
+* [Wikileaks og yttringsfrihetens grenser](https://www.nrk.no/urix/det-du-behover-a-vite-om-julian-assange-1.13123737)
 * [Teknologisk globalisering](https://ndla.no/subjects/subject:18/topic:1:194233/topic:1:82493/resource:1:82570)
+* [Outsourcing](https://www.nrk.no/norge/helse-sor-ost_-innrommer-at-utenlandske-it-arbeidere-har-hatt-tilgang-til-pasientjournaler-1.13478443)
 * [Internettaktivisme](https://en.wikipedia.org/wiki/Internet_activism)
 * [Menneskerettigheter og Internett](https://www.hrw.org/topic/free-speech/internet-freedom)
 * [Sosiale medier og demokrati](https://en.wikipedia.org/wiki/Social_media_in_the_2016_United_States_presidential_election)
+* [Sosiale medier og spredning av feilinformasjon](https://nrkbeta.no/2015/11/17/paris-fleip-eller-fakta/)
 
 ## Vurderingskriterier
 
