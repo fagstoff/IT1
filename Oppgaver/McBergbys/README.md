@@ -1,3 +1,11 @@
+I oppgavene skal vi følge utviklingen av nettstedet til hurtigmatrestauranten McBergbys fra start til slutt. Elevene skal designe og implementere en SQL-database og til slutt skal de lage en web-applikasjon for å arbeide med databasen. Elevene skal også gjøre rede for fordeler og problemer rundt lagring av detaljert kundeinformasjon i databasen, og vise at de har en god forståelse for opphavsrett og lisensbetingelser.
+
+Oppgavene er laget slik at de legger stein på stein mot den komplette web-applikasjonen for hurtigmatrestauranten.
+
+Kompetansemål
+=============
+Oppgavene her dekker i liten grad kompetansemålene under hovedområdet "Digital samtid". De dekker heller ikke læreplanmålet "gjøre rede for hvilke standarder og prinsipper som muliggjør Internett" i hovedområdet "Nettsteder og multimedier". Utover dette skal oppgavene dekke alle andre [kompetansemål i læreplanen](https://github.com/fagstoff/IT1/blob/master/L%C3%A6replan/index.md).
+
 Oversikt over McBergbys-oppgaver
 ================================
  * [Del 1 - Hallo verden](https://github.com/fagstoff/IT1/blob/master/Oppgaver/McBergbys/Nettsteder%20og%20multimedier/McBergbys%20-%20del%2001.md) *(Nettsteder og multimedier)*
