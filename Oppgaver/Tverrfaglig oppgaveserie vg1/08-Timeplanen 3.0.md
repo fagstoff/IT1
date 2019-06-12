@@ -1,5 +1,5 @@
-Timeplanen 3.0
-==============
+08: Timeplanen 3.0
+==================
 Her skal du fortsette å forbedre HTML-siden som du laget i øvingen "Timeplanen" og "Timeplanen 2.0".
 
 Oppgave

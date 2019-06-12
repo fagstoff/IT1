@@ -1,5 +1,5 @@
 01: Hallo verden!
-=============================
+=================
 **En "Hallo verden!"-program er generelt et dataprogram som viser meldingen "Hallo verden!". Et slikt program er veldig enkelt i de fleste programmeringsspråk. Det er ofte det første programmet som er skrevet av folk som lærer å kode. Nå skal du kode "Hallo verden!" i HTML.**
 
 Oppgave

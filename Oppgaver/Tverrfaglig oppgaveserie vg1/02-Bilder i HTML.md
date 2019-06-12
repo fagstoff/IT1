@@ -1,5 +1,5 @@
 02: Bilder i HTML
-==============================
+=================
 **Nå skal du lære å bruke bilder på HTML-sider.**
 
 Oppgave

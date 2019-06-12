@@ -1,5 +1,5 @@
 03: Hvorfor IT?
-==============================
+===============
 **Hvorfor har du valgt IT som programfag/studieretning, og hvordan tror du at IT1-faget kommer til å bli?**
 
 Oppgave

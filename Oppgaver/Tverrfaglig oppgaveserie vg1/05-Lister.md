@@ -1,12 +1,12 @@
-04: CSS
-=======
-**Nå har du laget nettsider med bilder, men de ser veldig kjedelig ut. Noe må gjøres.**
+05: Lister
+==========
+**I løpet av IT1-kurset skal du lage veldig mange nettsider. Du trenger en side som inneholder en oversikt over alle de andre sidene du lager.**
 
 ## Oppgave
 
-Du skal friske opp nettsidene `index.html` og `hvorfor.html` som du laget i de foregående oppgavene, sånn at de blir mye penere og tøffere. For å endre utseende på nettsiden skal du bruke CSS. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
+Du skal endre nettsiden `index.html` sånn at den inneholder en lenke til siden `hvorfor.html`. 
 
-![CSS 3 logo](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/CSS3-logo-200px.png)
+TODO
 
 ## Ressurser
 
