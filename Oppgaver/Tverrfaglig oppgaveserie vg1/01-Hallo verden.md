@@ -1,10 +1,10 @@
-01: Hallo verden
+01: Hallo verden!
 =============================
-**En "Hallo verden"-program er generelt et dataprogram som viser meldingen "Hallo verden". Et slikt program er veldig enkelt i de fleste programmeringsspråk. Det er ofte det første programmet som er skrevet av folk som lærer å kode. Nå skal du kode "Hallo verden" i HTML.**
+**En "Hallo verden!"-program er generelt et dataprogram som viser meldingen "Hallo verden!". Et slikt program er veldig enkelt i de fleste programmeringsspråk. Det er ofte det første programmet som er skrevet av folk som lærer å kode. Nå skal du kode "Hallo verden!" i HTML.**
 
 Oppgave
 -------
-Du skal lage nettsiden `index.html`, sånn at den blir slik du ser på bildet nedenfor. 
+Du skal lage nettsiden `index.html`, sånn at den blir slik du ser på bildet nedenfor. Du må lære deg hva et [HTML-element](https://www.w3schools.com/html/html_elements.asp) er, og du må kunne bruke elementene `<title>`, `<h1>` og `<p>`.
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB01.png)
 
