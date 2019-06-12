@@ -4,7 +4,7 @@
 
 Oppgave
 -------
-Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Finn et bilde du liker på [Unsplash](https://unsplash.com/). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven.
+Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Finn et bilde du liker på [Unsplash](https://unsplash.com/). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven. Du må også endre bildestørrelsen i et bildebehandlingsprogram.
 
 ![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB02.png)
 
@@ -12,6 +12,7 @@ Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Last ned et valgfritt bilde fra [Unsplash](https://unsplash.com/).
+* Bruk Paint for å endre bildestørrelse.
 
 Vurderingskriterier
 -------------------
