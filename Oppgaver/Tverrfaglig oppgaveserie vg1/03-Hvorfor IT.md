@@ -18,6 +18,7 @@ Ressurser
 
 Vurderingskriterier
 -------------------
+* Minst 100 ord i 2-3 avsnitt.
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Bildet skal være 800 piksler i bredden.
 * Mapper og filnavn skal være i henhold til spesifikasjonene i oppgaven.
