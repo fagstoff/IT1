@@ -4,9 +4,9 @@
 
 Oppgave
 -------
-Du skal lage nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Last ned bldet av [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven.
+Du skal endre nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Last ned bildet av [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven.
 
-![HTML 5-logoen](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/HTML5-logo-200px.png)
+![Hallo verden!](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/halloverden_med_bilde.png)
 
 Ressurser
 ---------
