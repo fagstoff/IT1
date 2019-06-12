@@ -8,7 +8,7 @@ Du skal lage nettsiden `hvorfor.html`, hvor du skriver dine tanker om hvorfor du
 
 Du skal også bruke et bilde på siden. Last ned et valgfritt bilde som du synes at passer til innholdet fra [Unsplash](https://unsplash.com/). Bildet skal være 800 piksler i bredden. Bruk et bildebehandlingsprogram for å endre størrelsen. Husk å lagre bildefila i en egen mappe som har navnet `bilder`.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB02.png)
+![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/hvorfor_it.png)
 
 Ressurser
 ---------
