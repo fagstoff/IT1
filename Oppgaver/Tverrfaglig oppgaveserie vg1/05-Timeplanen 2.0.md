@@ -1,16 +1,15 @@
-Timeplanen 3.0
+Timeplanen 2.0
 ==============
-Her skal du fortsette å forbedre HTML-siden som du laget i øvingen "Timeplanen" og "Timeplanen 2.0".
+Nå skal du forbedre HTML-siden som du laget i øvingen "Timeplanen".
 
 Oppgave
 -------
-Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt gjerne ut fagene med de du selv har. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`.
+Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt ut fagene med de du selv har. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`.
 
-I versjon 3 av timeplanen skal du få infoboks og bilde til å flyte til høyre for selve timeplanen. Klikk på bildet nedenfor for å se det i stor størrelse. Opprett en egen CSS-fil som du plasserer i mappa `stiler`. Bruk CSS-koden `float` for å plassere de ulike elementene på siden. Infoboksen skal være 250 piksler bred og ha fargen `silver`.
+I versjon 2 av timeplanen skal du lage fargekoder og leke deg med rammer på tabellen. La hvert fag få egen bakgrunnsfarge, og lag tykkere ramme på tabellen. Opprett en egen CSS-fil som du plasserer i mappa `stiler`.
 
-Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre.
 
-![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan3-1.png)
+![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan2.png)
 
 Ressurser
 ---------
@@ -25,13 +24,12 @@ Vurderingskriterier
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Bildet skal være 400 piksler i bredden.
 * Tabellen skal ha samme antall rader og kolonner som vist i eksempelbildet over, men du kan gjøre visuelle forbedringer av siden så lenge den valideres uten feil og advarsler.
-* Når nettleservinduet gjøres smalt skal siden vises på samme måte som i "Timeplanen 2.0".
 
 Kompetansemål
 -------------
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 
->Denne oppgaven er laget av [bitjungle](https://github.com/bitjungle).  
+>Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin) og endret av [bitjungle](https://github.com/bitjungle).  
 >Oppgaven er lisensiert under en
 >[Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.
 ](http://creativecommons.org/licenses/by-sa/4.0/)
