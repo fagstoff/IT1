@@ -4,7 +4,7 @@ Du skal lage en HTML-side som inneholder både bilde, lister og en tabell.
 
 Oppgave
 -------
-Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt ut fagene med de du selv har. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`. Bildet skal skaleres sånn at det er 400 piksler i bredden.
+Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt ut fagene med de du selv har. Lag en nettside som heter `timeplan.html`. Legg også bildet i en egen mappe med navn `bilder`. Bildet skal skaleres sånn at det er 400 piksler i bredden.
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan-1.png)
 

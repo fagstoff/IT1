@@ -4,10 +4,9 @@ Nå skal du forbedre HTML-siden som du laget i øvingen "Timeplanen".
 
 Oppgave
 -------
-Det er skolestart, og du skal lage en timeplan i HTML. Lag siden som er vist i bildet nedenfor. Bytt ut fagene med de du selv har. Husk å lagre oppgaven i egen mappe. Legg også bildet i en egen mappe med navn `bilder`.
+Jobb videre med fila `timeplan.html` som du laget i forrige oppgave. Lag siden som er vist i bildet nedenfor. 
 
-I versjon 2 av timeplanen skal du lage fargekoder og leke deg med rammer på tabellen. La hvert fag få egen bakgrunnsfarge, og lag tykkere ramme på tabellen. Opprett en egen CSS-fil som du plasserer i mappa `stiler`.
-
+I versjon 2 av timeplanen skal du lage fargekoder og leke deg med rammer på tabellen. La hvert fag få egen bakgrunnsfarge, og lag tykkere ramme på tabellen. Bruk en egen CSS-fil som ligger i mappa `stiler`.
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan2.png)
 
