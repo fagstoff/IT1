@@ -4,9 +4,9 @@
 
 ## Oppgave
 
-Du skal friske opp nettsiden `index.html` som du laget i oppgaven i de foregående oppgavene, sånn at den blir mye penere og tøffere enn det du ser på bildet nedenfor (klikk på bildet for å se det i stor størrelse). For å endre utseende på nettsiden skal du bruke CSS. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
+Du skal friske opp nettsidene `index.html` og `hvorfor.html` som du laget i de foregående oppgavene, sånn at de blir mye penere og tøffere. For å endre utseende på nettsiden skal du bruke CSS. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `header` på HTML-fila, og lagre CSS-fila i undermappa `stiler`. 
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB04.png)
+![CSS 3 logo](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/CSS3-logo-200px.png)
 
 ## Ressurser
 

@@ -6,7 +6,7 @@ Oppgave
 -------
 Du skal lage nettsiden `index.html`, sånn at den blir slik du ser på bildet nedenfor. Du må lære deg hva et [HTML-element](https://www.w3schools.com/html/html_elements.asp) er, og du må kunne bruke elementene `<title>`, `<h1>` og `<p>`.
 
-![McBergbys](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/McB01.png)
+![Hallo verden!](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/halloverden.png)
 
 Ressurser
 ---------
