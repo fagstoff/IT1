@@ -1,4 +1,4 @@
-05: Lister og lenker
+06: Lister og lenker
 ====================
 **I løpet av IT1-kurset skal du lage veldig mange nettsider. Du trenger en side som inneholder en oversikt over alle de andre sidene du lager.**
 
@@ -12,8 +12,7 @@ For å løse denne oppgaven må du lære deg å bruke HTML-elementene `<ul>`, `<
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
-* Bruk nettet for å finne spennende CSS-eksempler, du kan for eksempel [starte her](http://www.w3schools.com/css/css_examples.asp).
+* Bruk [W3Schools](http://www.w3schools.com/) for å finne dokumentasjon til HTML og CSS.
 
 Vurderingskriterier
 -------------------

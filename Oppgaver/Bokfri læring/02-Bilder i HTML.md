@@ -10,7 +10,6 @@ Du skal endre nettsiden `index.html`, slik at den blir slik du ser på bildet ne
 
 Ressurser
 ---------
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
 * Last ned [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png).
 
 Vurderingskriterier

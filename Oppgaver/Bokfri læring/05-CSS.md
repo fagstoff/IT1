@@ -1,4 +1,4 @@
-04: CSS
+05: CSS
 =======
 **Nå har du laget nettsider med bilder, men de ser veldig kjedelig ut. Noe må gjøres.**
 
@@ -12,7 +12,7 @@ Du må opprette en ny fil som heter `stilark.css`. Legg inn koden `<link rel="st
 
 ## Ressurser
 
-* Du trenger en teksteditor og en nettleser til denne oppgaven. Relevante fagtekster finner du i mappa [Fagtekster/nettsteder og multimedier](https://github.com/bitjungle/IT1/tree/master/Fagtekster/nettsteder%20og%20multimedier).
+* Bruk [W3Schools](http://www.w3schools.com/) for å finne dokumentasjon til HTML og CSS.
 * Bruk nettet for å finne spennende CSS-eksempler, du kan for eksempel [starte her](http://www.w3schools.com/css/css_examples.asp).
 
 ## Vurderingskriterier

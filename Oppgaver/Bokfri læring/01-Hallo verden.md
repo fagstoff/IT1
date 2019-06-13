@@ -11,7 +11,23 @@ Du skal lage nettsiden `index.html`, sånn at den blir slik du ser på bildet ne
 Ressurser
 ---------
 * Du trenger en teksteditor og en nettleser til denne oppgaven. 
-* Du kan finne hjelp til å lære deg HTML på [w3schools](https://www.w3schools.com/html/default.asp).
+* Du kan få en [introduksjon til HTML på W3Schools](https://www.w3schools.com/html/html_intro.asp).
+* Du kan bruke koden nedenfor som mal til dokumentet ditt:
+
+``` html
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tittel her</title>
+</head>
+<body>
+  
+</body>
+</html>
+```
 
 Vurderingskriterier
 -------------------
