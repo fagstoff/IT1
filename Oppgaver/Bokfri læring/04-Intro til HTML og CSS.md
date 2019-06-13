@@ -8,7 +8,7 @@ Du skal gjennomføre kurset ["Intro til HTML/CSS: Å lage nettsider"](https://nb
 
 Målet i denne oppgaven er er at du skal fullføre hele kurset, med unntak for delen "Flere CSS velgere" som er valgfri å gjøre. Se også vurderingskriteriene nedenfor.
 
-Når du jobber med dette kurset kan det også være kjekt å bruke 
+![Hvorfor IT?](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/intro_til_html_css.png)
 
 Ressurser
 ---------
