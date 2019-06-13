@@ -1,14 +1,6 @@
----
-layout: docs
-title: Design av databaser
-permalink: /docs/fagstoff/databaser/03. Design av databaser/
----
-
+db03 - Design av databaser
+==========================
 **Før vi begynner å lage et databasesystem må vi tenke grundig gjennom hva det er vi ønsker å oppnå. Hva er egentlig målet med systemet, og hvilke behov skal det dekke? I den innledende fasen av designprosessen er det viktig å kun ha fokus på hva systemet skal gjøre, og ikke på hvordan systemet skal gjøre det.**
-
-* auto-gen TOC:
-{:toc}
-
 
 ## Design av databaser
 

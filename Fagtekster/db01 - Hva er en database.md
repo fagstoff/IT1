@@ -1,13 +1,6 @@
----
-layout: docs
-title: Hva er en database?
-permalink: /docs/fagstoff/databaser/01. Hva er en database/
----
-
+db01 - Hva er en database?
+==========================
 **En database er en organisert samling av data, for eksempel tabeller, spørringer og rapporter.**
-
-* auto-gen TOC:
-{:toc}
 
 ## Databasesystemer
 

@@ -1,5 +1,5 @@
-Ressurser for videre studier
-============================
+Nettressurser for nettsteder og multimedier
+===========================================
 **Her finner du lenker til fagtekster som er relevante for hovedområdet Nettsteder og multimedier i IT1. Det er ikke noe mål å lenke til flest mulig ressurser her. De lenkene du finner nedenfor er utvalgt fordi de dekker kompetansemålene i læreplanen på en god måte, og det er forventet at du skal jobbe med disse ressursene. Om du ønsker mer fagstoff enn det som er lenket til nedenfor, finner du helt sikkert det på nettet.**
 
 Internettstandarder
@@ -21,7 +21,6 @@ Utvikle nettsteder
 * sette opp krav til og vurdere nettsteder
 
 **Ressurser:**
-* [Kræsjkurs i HTML og CSS](https://github.com/bitjungle/IT1/tree/master/Kr%C3%A6sjkurs/03%20-%20Kr%C3%A6sjkurs%20i%20HTML%20og%20CSS)
 * [Khan Academy: Intro til HTML/CSS](https://nb.khanacademy.org/computing/computer-programming/html-css)
 * [uu-skolen for nettsider](http://uu.difi.no/veiledning/nettsider/uu-skolen)
 

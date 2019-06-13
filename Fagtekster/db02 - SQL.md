@@ -1,13 +1,6 @@
----
-layout: docs
-title: SQL
-permalink: /docs/fagstoff/databaser/02. SQL/
----
-
+db02 - SQL
+==========
 **SQL (Structured Query Language) er et programmeringsspråk som er laget spesielt for å håndtere data som er lagret i et relasjonsdatabasesystem. Språket ble utviklet av IBM tidlig på 1970-tallet, og det ble en internasjonal standard siden 1986. Men selv om SQL er standardisert finnes det i mange ulike dialekter og varianter. Eksempler på relasjonsdatabasesystemer som alle har sine egne variasjoner av SQL er Oracle RDBMS, MySQL, PostgreSQL, Microsoft SQL Server og SQLite.**
-
-* auto-gen TOC:
-{:toc}
 
 ![Edgar F. Codd, mannen som oppfant relasjonsmodellen - den teoretiske basisen for relasjonsdatabaser. Foto: &copy; IBM](https://upload.wikimedia.org/wikipedia/en/5/58/Edgar_F_Codd.jpg)<br/>
 *Edgar F. Codd, mannen som oppfant relasjonsmodellen - den teoretiske basisen for relasjonsdatabaser. Foto: &copy; IBM*
