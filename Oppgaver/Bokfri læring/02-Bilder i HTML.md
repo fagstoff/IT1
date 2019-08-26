@@ -1,24 +1,24 @@
-02: Bilder i HTML
-=================
+# 02: Bilder i HTML
+
 **Nå skal du lære å bruke bilder på HTML-sider.**
 
-Oppgave
--------
+## Oppgave
+
 Du skal endre nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Last ned bildet av [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven.
 
 ![Hallo verden!](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/halloverden_med_bilde.png)
 
-Ressurser
----------
+## Ressurser
+
 * Last ned [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png).
 
-Vurderingskriterier
--------------------
+## Vurderingskriterier
+
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Mapper og filnavn skal være i henhold til spesifikasjonene i oppgaven.
 
-Kompetansemål
--------------
+## Kompetansemål
+
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 * organisere og begrunne filstrukturen for nettsteder
 

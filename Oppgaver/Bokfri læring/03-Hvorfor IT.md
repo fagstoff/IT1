@@ -1,29 +1,29 @@
-03: Hvorfor IT?
-===============
+# 03: Hvorfor IT?
+
 **Hvorfor har du valgt IT som programfag/studieretning, og hvordan tror du at IT1-faget kommer til å bli?**
 
-Oppgave
--------
+## Oppgave
+
 Du skal lage nettsiden `hvorfor.html`, hvor du skriver dine tanker om hvorfor du satser på IT og hvordan du tror at IT1-faget kommer til å bli. Du trenger ikke å skrive mer enn 2-3 avsnitt. Husk å bruke `<p>`. Du trenger ikke å skive navnet ditt på nettsiden, det er lov å være anonym.
 
 Du skal også bruke et bilde på siden. Last ned et valgfritt bilde som du synes at passer til innholdet fra [Unsplash](https://unsplash.com/). Bildet skal være 800 piksler i bredden. Bruk et bildebehandlingsprogram for å endre størrelsen. Husk å lagre bildefila i en egen mappe som har navnet `bilder`.
 
 ![Hvorfor IT?](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/hvorfor_it.png)
 
-Ressurser
----------
+## Ressurser
+
 * Last ned et valgfritt bilde fra [Unsplash](https://unsplash.com/).
 * Bruk Paint for å endre bildestørrelse.
 
-Vurderingskriterier
--------------------
+## Vurderingskriterier
+
 * Minst 100 ord i 2-3 avsnitt.
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Bildet skal være 800 piksler i bredden.
 * Mapper og filnavn skal være i henhold til spesifikasjonene i oppgaven.
 
-Kompetansemål
--------------
+## Kompetansemål
+
 * redigere nettsteder ved bruk av standardiserte oppmerkingsspråk
 * organisere og begrunne filstrukturen for nettsteder
 

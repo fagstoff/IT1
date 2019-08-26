@@ -1,10 +1,10 @@
-05: CSS
-=======
+# 05: CSS
+
 **Nå har du laget nettsider med bilder, men de ser veldig kjedelig ut. Noe må gjøres.**
 
 ## Oppgave
 
-Du skal friske opp nettsidene `index.html` og `hvorfor.html` som du laget i de foregående oppgavene, sånn at de blir mye penere og tøffere. For å endre utseende på nettsiden skal du bruke CSS. Du kan [lære om CSS på W3Schools](https://www.w3schools.com/css/default.asp).
+Du skal friske opp nettsidene `index.html` og `hvorfor.html` som du laget i de foregående oppgavene, sånn at de blir mye penere og tøffere. For å endre utseende på nettsiden skal du bruke CSS.
 
 Du må opprette en ny fil som heter `stilark.css`. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `header` på HTML-filene, og lagre CSS-fila i undermappa `stiler`. 
 
