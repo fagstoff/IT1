@@ -2,6 +2,10 @@
 
 **Nå skal du lære å bruke bilder på HTML-sider.**
 
+## Forberedelser
+
+Gjennomfør veiledningen [HTML Images](https://www.w3schools.com/html/html_images.asp) på w3schools.com
+
 ## Oppgave
 
 Du skal endre nettsiden `index.html`, slik at den blir slik du ser på bildet nedenfor. Bruk fila fra oppgave 01 som utgangspunkt. Last ned bildet av [HTML 5-logoen](https://github.com/fagstoff/IT1/blob/master/Bilder/HTML5-logo-200px.png). Selve bildefila skal lagres i en egen mappe som har navnet `bilder`. Du må kunne litt om [bilder i HTML](https://www.w3schools.com/html/html_images.asp) for å løse denne oppgaven.
