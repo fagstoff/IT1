@@ -16,12 +16,12 @@ Du skal gjennomføre disse veiledningene i HTML på w3schools.com:
 
 Når du har gjennomgått HTML-veiledningene som er listet opp ovenfor, går du til [oppgavesiden på w3schools.com](https://www.w3schools.com/html/exercise.asp) og gjennomfører alle oppgavene under 
 
-* HTML Attributes
-* HTML Headings
-* HTML Paragraphs
-* HTML Styles
+* [HTML Attributes](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1)
+* [HTML Headings](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings1)
+* [HTML Paragraphs](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_paragraphs1)
+* [HTML Styles](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1)
 
-Som du sikkert har sett, er det mange flere veiledere på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere som mulig.
+Som du sikkert har sett, er det mange flere veiledere og oppgaver på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere og oppgaver som mulig.
 
 
 ## Kompetansemål
