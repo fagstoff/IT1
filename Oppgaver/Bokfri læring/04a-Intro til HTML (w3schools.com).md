@@ -12,14 +12,19 @@ Du skal gjennomføre disse veiledningene i HTML på w3schools.com:
 * [HTML Headings](https://www.w3schools.com/html/html_headings.asp)
 * [HTML Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
 * [HTML Links](https://www.w3schools.com/html/html_links.asp)
-* [HTML Styles - CSS](https://www.w3schools.com/html/html_css.asp)
+* [HTML Images](https://www.w3schools.com/html/html_images.asp)
+* [HTML Styles](https://www.w3schools.com/html/html_styles.asp)
+* [HTML CSS](https://www.w3schools.com/html/html_css.asp)
 
 Når du har gjennomgått HTML-veiledningene som er listet opp ovenfor, går du til [oppgavesiden på w3schools.com](https://www.w3schools.com/html/exercise.asp) og gjennomfører alle oppgavene under 
 
 * [HTML Attributes](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_attributes1)
 * [HTML Headings](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_headings1)
 * [HTML Paragraphs](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_paragraphs1)
+* [HTML Links](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_links1)
+* [HTML Images](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_images1)
 * [HTML Styles](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_styles1)
+* [HTML CSS](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_css1)
 
 Som du sikkert har sett, er det mange flere veiledere og oppgaver på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere og oppgaver som mulig.
 

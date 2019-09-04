@@ -16,7 +16,19 @@ Du skal gjennomføre disse veiledningene i HTML på w3schools.com:
 * [CSS Height and Width](https://www.w3schools.com/css/css_dimension.asp)
 * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
-Som du sikkert har sett, er det mange flere veiledere på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere som mulig.
+Når du har gjennomgått CSS-veiledningene som er listet opp ovenfor, går du til [oppgavesiden på w3schools.com](https://www.w3schools.com/css/exercise.asp) og gjennomfører alle oppgavene under. 
+
+* [CSS Selectors](https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1)
+* [CSS How To...](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto1)
+* [CSS Background](https://www.w3schools.com/css/exercise.asp?filename=exercise_background1)
+* [CSS Border](https://www.w3schools.com/css/exercise.asp?filename=exercise_border1)
+* [CSS Margin](https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1)
+* [CSS Padding](https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1)
+* [CSS Height/Width](https://www.w3schools.com/css/exercise.asp?filename=exercise_dimension1)
+* [CSS Box Model](https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel1)
+
+
+Som du sikkert har sett, er det mange flere veiledere og oppgaver på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere og oppgaver som mulig.
 
 
 ## Kompetansemål
