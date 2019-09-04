@@ -1,6 +1,6 @@
-# 04: Introduksjon til HTML og CSS
+# 04a: Introduksjon til HTML (w3schools.com)
 
-**Nå skal du gjennomføre et nettkurs i hvordan du bruker HTML og CSS.**
+**Nå skal du gjennomføre et nettkurs i hvordan du bruker HTML.**
 
 ## Oppgave
 
@@ -20,18 +20,6 @@ Når du har gjennomgått HTML-veiledningene som er listet opp ovenfor, går du t
 * HTML Headings
 * HTML Paragraphs
 * HTML Styles
-
-Deretter skal du gjennomføre disse veiledningene i CSS på w3schools.com:
-
-* [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
-* [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
-* [ How To Add CSS](https://www.w3schools.com/css/css_howto.asp)
-* [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
-* [CSS Borders](https://www.w3schools.com/css/css_border.asp)
-* [CSS Margins](https://www.w3schools.com/css/css_margin.asp)
-* [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
-* [CSS Height and Width](https://www.w3schools.com/css/css_dimension.asp)
-* [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
 Som du sikkert har sett, er det mange flere veiledere på w3schools.com enn det du blir bedt om å gjøre her. Om du har tid, gjennomfører du så mange veiledere som mulig.
 
