@@ -14,6 +14,13 @@ Du skal gjennomføre disse veiledningene i HTML på w3schools.com:
 * [HTML Links](https://www.w3schools.com/html/html_links.asp)
 * [HTML Styles - CSS](https://www.w3schools.com/html/html_css.asp)
 
+Når du har gjennomgått HTML-veiledningene som er listet opp ovenfor, går du til [oppgavesiden på w3schools.com](https://www.w3schools.com/html/exercise.asp) og gjennomfører alle oppgavene under 
+
+* HTML Attributes
+* HTML Headings
+* HTML Paragraphs
+* HTML Styles
+
 Deretter skal du gjennomføre disse veiledningene i CSS på w3schools.com:
 
 * [CSS Introduction](https://www.w3schools.com/css/css_intro.asp)
