@@ -1,4 +1,4 @@
-# 04a: Introduksjon til CSS (w3schools.com)
+# 04b: Introduksjon til CSS (w3schools.com)
 
 **Nå skal du gjennomføre et nettkurs i hvordan du bruker CSS.**
 
