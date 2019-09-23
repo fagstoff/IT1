@@ -12,11 +12,14 @@ Du skal endre nettsiden `index.html` sånn at den inneholder en lenke til siden 
 
 For å løse denne oppgaven må du lære deg å bruke HTML-elementene `<ul>`, `<li>` og `<a>`. Se W3Schools for mer informasjon om [lister](https://www.w3schools.com/html/html_lists.asp) og [lenker](https://www.w3schools.com/html/html_links.asp).
 
+Du skal også laste opp alle sidene du har laget i IT1-kurset til en web-tjener. Læreren gir deg informasjonen du trenger for å få tilgang til web-tjeneren.
+
 ![Sideoversikt](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/sideoversikt.png)
 
 ## Ressurser
 
 * Bruk [W3Schools](http://www.w3schools.com/) for å finne dokumentasjon til HTML og CSS.
+* Du må ha tilgang til en web-tjener.
 
 ## Vurderingskriterier
 
