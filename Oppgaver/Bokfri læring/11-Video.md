@@ -1,6 +1,8 @@
 # 11: Video
 
-Video er en vanlig medietype å ha på en nettside. De to vanligste måtene å vise en video på siden er å bygge inn videoen med ferdig kode fra et tredjepartsnettsted som for eksempel YouTube.  Den andre måten er å bruke en videofil som ligger sammen med filene til nettstedet.
+Video er en vanlig medietype å ha på en nettside. De to vanligste måtene å vise dette er å:
+1. bygge inn videoen med ferdig kode fra et tredjepartsnettsted som for eksempel YouTube.
+2. bruke en videofil som ligger sammen med filene til nettstedet.
 
 ## Oppgave
 
