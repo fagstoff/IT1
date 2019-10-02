@@ -6,7 +6,7 @@
 
 Du skal friske opp nettsidene `index.html` og `hvorfor.html` som du laget i de foregående oppgavene (oppgave 2 og 3), sånn at de blir mye penere og tøffere. For å endre utseende på nettsiden skal du bruke CSS.
 
-Du må opprette en ny fil som heter `stilark.css`. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `header` på HTML-filene, og lagre CSS-fila i undermappa `stiler`. 
+Du må opprette en ny fil som heter `stilark.css`. Legg inn koden `<link rel="stylesheet" href="stiler/stilark.css">` i `head` på HTML-filene, og lagre CSS-fila i undermappa `stiler`. 
 
 ![Hallo verden!](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/halloverden_med_bilde_og_css.png)
 
