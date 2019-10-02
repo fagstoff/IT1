@@ -8,7 +8,7 @@ Jobb videre med fila `timeplan.html` fra forrige oppgave. Lag siden som er vist 
 
 I versjon 4 skal du jobbe med å få til en responsiv design. Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre.
 
-![Den ferdige nettsiden]()
+![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan4.png)
 
 Ressurser
 ---------
