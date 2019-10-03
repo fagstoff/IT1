@@ -1,21 +1,22 @@
-10: Timeplanen 4.0
-==================
-Her skal du fortsette å forbedre HTML-siden som du laget i øvingen "Timeplanen", "Timeplanen 2.0" og "Timeplanen 3.0".
+# 10: Timeplanen 4.0
 
-Oppgave
--------
-Jobb videre med fila `timeplan.html` fra forrige oppgave. Lag siden som er vist i bildet nedenfor.
+Her skal du fortsette å forbedre HTML-siden som du laget i øvingen "Timeplanen", "Timeplanen 2.0" og "Timeplanen 3.0". Nå skal siden gjøres responsiv, sånn at den fungerer godt med både mobiltelefoner, nettbrett og PC-er.
 
-I versjon 4 skal du jobbe med å få til en responsiv design. Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre.
+## Oppgave
+
+Jobb videre med fila `timeplan.html` fra forrige oppgave. I versjon 4 skal du jobbe med å få til en responsiv design. Lag siden som er vist i bildet nedenfor. Du skal bruke rammeverket [W3.CSS](https://www.w3schools.com/w3css/) når du lager siden.
+
+Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre. 
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan4.png)
 
-Ressurser
----------
-* Bruk [W3Schools](http://www.w3schools.com/) for å finne dokumentasjon til HTML og CSS. Informasjon om tabeller [finner du her](http://www.w3schools.com/tags/tag_table.asp).
+## Ressurser
 
-Vurderingskriterier
--------------------
+* Gå gjennom opplæringa på siden [W3.CSS](https://www.w3schools.com/w3css/).
+* Se nøye gjennom dokumentasjonen for [W3.CSS Built-In Responsiveness](https://www.w3schools.com/w3css/w3css_responsive.asp).
+
+## Vurderingskriterier
+
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
 * Tabellen skal ha samme antall rader og kolonner som vist i eksempelbildet over, men du kan gjøre visuelle forbedringer av siden så lenge den valideres uten feil og advarsler.
 * Når nettleservinduet gjøres smalt skal siden vises på samme måte som i "Timeplanen 2.0".

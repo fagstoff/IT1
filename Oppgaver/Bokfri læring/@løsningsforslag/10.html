@@ -1,22 +1,21 @@
 <!DOCTYPE html>
 <html lang="no">
-
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="bitjungle">
   <title>Min timeplan</title>
-  <!-- Brukes i versjon 2.0 av timeplanen -->
-  <link rel="stylesheet" href="stiler/timeplanstil-3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="stiler/timeplanstil-4.css">
 </head>
-
 <body>
-  <div class="grid-container">
-    <div class="grid-item" id="b1">
+  <div class="w3-row-padding">
+    <div class="w3-half" id="klasserommet">
       <h1>Mitt klasserom</h1>
       <img id="klasseromsbilde" src="bilder/klasserom-400.jpg" alt="Bilde av et typisk klasserom" />
       <p>Klasserommet vårt er rom B 3.15.</p>
-    </div><!-- grid-item -->
-    <div class="grid-item" id="b2">
+    </div><!-- w3-half -->
+    <div class="w3-half" id="timeplanen">
       <h1>Min timeplan</h1>
       <table>
         <thead>
@@ -108,8 +107,10 @@
           <td class="fag">Fagdag</td>
         </tr>
       </table>
-    </div><!-- grid-item -->
-    <div class="grid-item" id="b3">
+    </div><!-- w3-half -->
+  </div><!-- w3-row-padding -->
+  <div class="w3-row-padding">
+    <div class="w3-half" id="laerere">
       <h1>Mine lærere</h1>
       <ul>
         <li>Kontaktlærer
@@ -126,8 +127,8 @@
           </ol>
         </li>
       </ul>
-    </div><!-- grid-item -->
-    <div class="grid-item" id="b4">
+    </div><!-- w3-half -->
+    <div class="w3-half" id="diverseinfo">
       <h1>Diverse info</h1>
       <ul>
         <li>Kontaktinformasjon finnes på skolens
@@ -135,8 +136,7 @@
         <li>Husk Rådgivertjeneste hver onsdag i 4. time</li>
         <li>Birdy er åpen fra kl.08.00 til kl. 14.00 hver dag</li>
       </ul>
-    </div><!-- grid-item -->
-  </div><!-- grid-container -->
+    </div><!-- w3-half -->
+  </div><!-- w3-row-padding -->
 </body>
-
 </html>
