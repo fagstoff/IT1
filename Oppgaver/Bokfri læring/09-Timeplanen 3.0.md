@@ -6,7 +6,7 @@ Oppgave
 -------
 Jobb videre med fila `timeplan.html` fra forrige oppgave. Lag siden som er vist i bildet nedenfor. 
 
-I versjon 3 av timeplanen skal du lage en layout som vist i bildet nedenfor. Bruk [CSS Grid]() for å lage layouten. Klikk på bildet nedenfor for å se det i stor størrelse. Bruk en egen CSS-fil som ligger i mappa `stiler`. 
+I versjon 3 av timeplanen skal du lage en layout som vist i bildet nedenfor. Bruk [CSS Grid](https://www.w3schools.com/css/css_grid.asp) for å lage layouten. Klikk på bildet nedenfor for å se det i stor størrelse. Bruk en egen CSS-fil som ligger i mappa `stiler`. 
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan3-2.png)
 
