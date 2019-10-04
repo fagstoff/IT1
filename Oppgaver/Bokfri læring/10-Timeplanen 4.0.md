@@ -14,6 +14,41 @@ Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal 
 
 * Gå gjennom opplæringa på siden [W3.CSS](https://www.w3schools.com/w3css/).
 * Se nøye gjennom dokumentasjonen for [W3.CSS Built-In Responsiveness](https://www.w3schools.com/w3css/w3css_responsive.asp).
+* Bruk gjerne eksempelkoden nedenfor som utgangspunkt for siden din.
+
+```html
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>w3css demo</title>
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+  <div class="w3-row">
+    <div class="w3-half w3-container w3-blue">
+      <h1>Blått!</h1>
+      <p>Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått! Blått!</p>
+    </div><!-- w3-half -->
+    <div class="w3-half w3-container w3-yellow">
+      <h1>Gult!</h1>
+      <p>Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult!</p>
+    </div><!-- w3-half -->
+  </div><!-- w3-row-padding -->
+  <div class="w3-row">
+    <div class="w3-half w3-container w3-red">
+      <h1>Rødt!</h1>
+      <p>Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt! Rødt!</p>
+    </div><!-- w3-half -->
+    <div class="w3-half w3-container w3-green">
+      <h1>Grønt!</h1>
+      <p>Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt!</p>
+    </div><!-- w3-half -->
+  </div><!-- w3-row-padding -->
+</body>
+</html>
+```
 
 ## Vurderingskriterier
 
