@@ -35,7 +35,7 @@ Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal 
       <h1>Gult!</h1>
       <p>Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult! Gult!</p>
     </div><!-- w3-half -->
-  </div><!-- w3-row-padding -->
+  </div><!-- w3-row -->
   <div class="w3-row">
     <div class="w3-half w3-container w3-red">
       <h1>Rødt!</h1>
@@ -45,7 +45,7 @@ Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal 
       <h1>Grønt!</h1>
       <p>Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt! Grønt!</p>
     </div><!-- w3-half -->
-  </div><!-- w3-row-padding -->
+  </div><!-- w3-row -->
 </body>
 </html>
 ```
