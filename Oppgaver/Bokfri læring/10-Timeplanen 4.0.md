@@ -6,7 +6,7 @@ Her skal du fortsette å forbedre HTML-siden som du laget i øvingen "Timeplanen
 
 Jobb videre med fila `timeplan.html` fra forrige oppgave. I versjon 4 skal du jobbe med å få til en responsiv design. Lag siden som er vist i bildet nedenfor. Du skal bruke rammeverket [W3.CSS](https://www.w3schools.com/w3css/) når du lager siden.
 
-Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, infoboksen og tabellen posisjoneres pent i en kolonne under hverandre. 
+Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal bildet, tabellen, "Mine lærere" og "Diverse info" posisjoneres pent i en kolonne under hverandre. 
 
 ![Den ferdige nettsiden](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/timeplan4.png)
 
