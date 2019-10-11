@@ -1,6 +1,6 @@
 # 10: Layoutforslag med bruk av w3css
 
-Klikk på "Last ned" nedenfor for å få kildekoden til de ulike layoutene. Alle er laget med bruk av [w3css](https://www.w3schools.com/w3css/).
+Klikk på "Last ned" under bildene for å få kildekoden til de ulike layoutene. Alle er laget med bruk av [w3css](https://www.w3schools.com/w3css/).
 
 ![w3css demo 1](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/w3css-demo-1.png)
 [Last ned](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Bokfri%20l%C3%A6ring/%40l%C3%B8sningsforslag/10-w3cssdemo-1.html)
