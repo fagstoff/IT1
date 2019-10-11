@@ -50,6 +50,8 @@ Når du gjør nettleservinduet ditt smalt (simulerer en smal mobilskjerm), skal 
 </html>
 ```
 
+Du kan finne flere [layoutforslag med bruk av w3css her](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Bokfri%20l%C3%A6ring/%40l%C3%B8sningsforslag/10-w3cssdemo.md).
+
 ## Vurderingskriterier
 
 * HTML-siden skal validere uten feil og advarsler på [validator.w3.org](https://validator.w3.org/).
