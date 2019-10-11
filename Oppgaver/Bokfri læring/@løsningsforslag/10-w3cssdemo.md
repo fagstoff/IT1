@@ -21,3 +21,11 @@ Klikk på "Last ned" under bildene for å få kildekoden til de ulike layoutene.
 ![w3css demo 5](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/w3css-demo-5.png)
 [Last ned](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Bokfri%20l%C3%A6ring/%40l%C3%B8sningsforslag/10-w3cssdemo-5.html)
 <hr>
+
+![w3css demo 6](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/w3css-demo-6.png)
+[Last ned](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Bokfri%20l%C3%A6ring/%40l%C3%B8sningsforslag/10-w3cssdemo-6.html)
+<hr>
+
+![w3css demo 7](https://raw.githubusercontent.com/fagstoff/IT1/master/Bilder/w3css-demo-7.png)
+[Last ned](https://github.com/fagstoff/IT1/blob/master/Oppgaver/Bokfri%20l%C3%A6ring/%40l%C3%B8sningsforslag/10-w3cssdemo-7.html)
+<hr>
