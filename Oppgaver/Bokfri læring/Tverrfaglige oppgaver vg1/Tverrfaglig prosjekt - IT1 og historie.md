@@ -4,7 +4,7 @@
 
 Du skal ta utgangspunkt i [læreplanen for historie](https://www.udir.no/kl06/HIS1-02/Hele/Kompetansemaal/etter-vg2-studieforberedende-utdanningsprogram) og lage et nettsted med innhold som beskrevet udner.
 
-### Norge i dansketiden - 1536 til 1814
+### Norge i dansketiden i perioden 1536 til 1814
 Du skal skrive om Norge i dansketiden. Fokuser spesielt på, næringsliv, krig og kongemakt.
 
 Elevene kan også si litt om hvordan Norge kom inn i union med Danmark og hvordan Norge gikk ut av unionen med Danmark. Nettstedet bør inneholde et kart som støtte til innholdet på nettstedet.
