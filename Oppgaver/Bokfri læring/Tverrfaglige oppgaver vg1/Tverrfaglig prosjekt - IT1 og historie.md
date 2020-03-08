@@ -22,9 +22,9 @@ Elevene kan også si litt om hvordan Norge kom inn i union med Danmark og hvorda
 
 Nettstedet skal publiseres på en web-server. Læreren gir deg nærmere instrukser om dette. 
 
-Navnet ditt bør fremkomme på alle sider, ved å lenke til en "Om-side" hvor du forteller om bakgrunnen for sidene og hvem du er. Du kan publisere anonymt, men da skal du begrunne hvorfor du velger å gjøre det. 
+Navnet ditt bør fremkomme på alle sider, ved å lenke til en "Om-side" hvor du forteller om bakgrunnen for sidene og litt om deg selv.
 
-På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-faget og samfunnsfaget du har valgt å drøfte.
+På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-faget og historiefaget du har valgt å drøfte.
 
 
 ## Vurderingskriterier
