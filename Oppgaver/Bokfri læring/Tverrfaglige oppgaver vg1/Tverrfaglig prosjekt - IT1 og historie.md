@@ -1,4 +1,4 @@
-# Tverrfaglig prosjekt: digital samtid og historie
+# Tverrfaglig prosjekt: IT1 og historie
 
 **Dette er en tverrfaglig prosjektoppgave hvor du skal jobbe med et selvvalgt tema som dekker noen utvalgte kompetansemål fra IT1 og samfunnsfaget.**
 
