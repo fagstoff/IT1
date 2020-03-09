@@ -1,11 +1,11 @@
 # Tverrfaglig prosjekt: IT1 og historie
 
-**Dette er en tverrfaglig prosjektoppgave hvor du skal jobbe med et selvvalgt tema som dekker noen utvalgte kompetansemål fra IT1 og samfunnsfaget.**
+**Dette er en tverrfaglig prosjektoppgave hvor du skal jobbe med et selvvalgt tema som dekker noen utvalgte kompetansemål fra IT1 og historie.**
 
 Du skal ta utgangspunkt i [læreplanen for historie](https://www.udir.no/kl06/HIS1-02/Hele/Kompetansemaal/etter-vg2-studieforberedende-utdanningsprogram) og lage et nettsted med innhold som beskrevet udner.
 
 ### Norge i dansketiden i perioden 1536 til 1814
-Du skal skrive om Norge i dansketiden. Fokuser spesielt på, næringsliv, krig og kongemakt.
+Du skal skrive om Norge i dansketiden. Fokuser spesielt på næringsliv, krig og kongemakt.
 
 Elevene kan også si litt om hvordan Norge kom inn i union med Danmark og hvordan Norge gikk ut av unionen med Danmark. Nettstedet bør inneholde et kart som støtte til innholdet på nettstedet.
 
@@ -31,11 +31,11 @@ På "Om-siden" skal det også tydelig fremkomme hvilke kompetansemål fra IT1-fa
 
 I vurderingsarbeidet vil innholdet telle 60 % og den tekniske løsningen telle 40 %.
 
-**Høy kompetanse (5-6):** Nettstedet er utformet i henhold til spesifikasjonene som er gitt i denne oppgaven. Eventuelle avvik fra spesifikasjonene er bevisste valg fra eleven. De valgte kompetansemålene fra IT1 og historie behandles på en reflektert måte med god bruk av flere kilder som gir ulike innfallsvinkler til temaet. Multimedieinnhold er integrert i nettsidene på en slik måte at det gir både en visuell og faglig berikelse.
+**Høy kompetanse:** Nettstedet er utformet i henhold til spesifikasjonene som er gitt i denne oppgaven. Eventuelle avvik fra spesifikasjonene er bevisste valg fra eleven. De valgte kompetansemålene fra IT1 og historie behandles på en reflektert måte med god bruk av flere kilder som gir ulike innfallsvinkler til temaet. Multimedieinnhold er integrert i nettsidene på en slik måte at det gir både en visuell og faglig berikelse.
 
-**Middels kompetanse (3-4):**  Nettstedet er hovedsakelig utformet i henhold til spesifikasjonene som er gitt i denne oppgaven, med bare mindre avvik og mangler. De valgte kompetansemålene fra IT1 og historie behandles på en god måte med god bruk av flere kilder. Multimedieinnholdet som brukes på sidene belyser temaet på en god måte.
+**Middels kompetanse:**  Nettstedet er hovedsakelig utformet i henhold til spesifikasjonene som er gitt i denne oppgaven, med bare mindre avvik og mangler. De valgte kompetansemålene fra IT1 og historie behandles på en god måte med god bruk av flere kilder. Multimedieinnholdet som brukes på sidene belyser temaet på en god måte.
 
-**Lav kompetanse (2):**  Nettstedet består av minst tre sider som inneholder tekst og bilder. Eleven holder seg til valgt tema og oppgir noen kilder. Multimedieinnholdet som brukes på sidene er relevante for temaet. Det valgte temaet er relevant i forhold til kompetansemålene.
+**Lav kompetanse:**  Nettstedet består av minst tre sider som inneholder tekst og bilder. Eleven holder seg til valgt tema og oppgir noen kilder. Multimedieinnholdet som brukes på sidene er relevante for temaet. Det valgte temaet er relevant i forhold til kompetansemålene.
 
 ---
 
