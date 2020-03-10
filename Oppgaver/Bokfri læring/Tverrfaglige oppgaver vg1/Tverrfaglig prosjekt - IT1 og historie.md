@@ -15,7 +15,7 @@ Elevene kan også si litt om hvordan Norge kom inn i union med Danmark og hvorda
 * Nettstedet skal lages fra bunnen av med HTML og CSS
 * Dersom du bruker PHP og en database til innholdet, vil dette telle positivt på vurderinga
 * De ferdige nettsidene skal validere som gyldig HTML5 på [validator.w3.org](https://validator.w3.org/)
-* Du skal ha relevante kilder som klikkbare lenker i teksten (ikke som en egen kildeliste)
+* Du skal ha relevante kilder som klikkbare lenker i teksten. Det sakl også være en kildeliste nederst på om-siden. Bruk gjerne [APA 6](http://kildekompasset.no/)-stil.
 * Du skal bruke flere bilder på nettstedet, og du kan bare bruke bilder som er lov å kopiere 
 * Nettstedet skal inneholde minst én video som belyser temaet på en god måte (finn noe på YouTube eller Vimeo)
 * Nettstedet skal være utformet i henhold til kravene om universell utforming, så langt det er praktisk mulig
