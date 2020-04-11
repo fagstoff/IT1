@@ -9,8 +9,8 @@ Det norske selskapet [Simula research laboratory](https://www.simula.no/news/dig
 ## Oppgave - Er det noen problemstillinger knyttet til en slik app?
 
 * Lag en tabell der du argumenter for og i mot lanseringen av en slik app. Bruk kildene lagt ved denne oppgaven og gjør egne søk i tillegg.
-* Hva er det viktigste argumentet **for** denne appen
-* Hva er det viktigste argumentet **mot** denne appen
+* Hva er det viktigste argumentet **for** denne appen?
+* Hva er det viktigste argumentet **mot** denne appen?
 * Skriv en kort oppsummering om hva du tenker om denne appen.
 * Hvis du var beslutningstager, svar kort på hvorfor eller hvorfor ikke du ville godkjent appen?
 
