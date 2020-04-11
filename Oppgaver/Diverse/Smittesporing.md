@@ -31,6 +31,7 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 * [Artikkel (digi.no) om appen](https://www.digi.no/artikler/ekspertgruppe-skal-ga-gjennom-kildekoden-i-ny-app-for-smittesporing/489653)
 * [Artikkel (NRK) om appen](https://www.nrk.no/norge/fhi-appen-smittestopp-gjennomgas-na-av-sikkerhetseksperter-1.14977918)
 * [Datatilsynet om appen](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/ny-sporings-app-for-a-hindre-koronasmitte/)
+* [Artikkel fra NRKbeta](https://nrkbeta.no/2020/04/09/simula-om-sporingsapp-omstridt-beslutning-skyldes-begrensninger-i-apple-produkter/)
 
 
 ---
