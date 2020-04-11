@@ -35,7 +35,7 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 
 ---
 
->Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin) og [bitjungle](https://github.com/bitjungle).
+>Denne oppgaven er laget av [fuzzbin](https://github.com/fuzzbin).
 >Oppgaven er lisensiert under en
 >[Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.
 ](http://creativecommons.org/licenses/by-sa/4.0/)
