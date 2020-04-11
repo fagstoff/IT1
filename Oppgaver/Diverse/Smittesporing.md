@@ -4,7 +4,7 @@ I begynnelsen av 2020 opplevde verden en pandemi forårsaket av [koronaviruset](
 
 **Denne oppgaven skal fokusere på problemstillinger knyttet til datainnsamling.**
 
-Det norske selskapet [Simula research laboratory](https://www.simula.no/news/digital-contact-tracing-qa) fikk i oppdrag av [Folkehelseinstituttet](https://www.fhi.no/nyheter/2020/utvikler-app-for-smitteoppsporing/) å utvikle en app som kan bidra til å redusere tiden som brukes på smitteoppsporing. For å få til dette er man nødt til å samle inn informasjon om brukerens atferd.
+Det norske selskapet [Simula research laboratory](https://www.simula.no/news/digital-smittesporing-sporsmal-og-svar) fikk i oppdrag av [Folkehelseinstituttet](https://www.fhi.no/nyheter/2020/utvikler-app-for-smitteoppsporing/) å utvikle en app som kan bidra til å redusere tiden som brukes på smitteoppsporing. For å få til dette er man nødt til å samle inn informasjon om brukerens atferd.
 
 ## Oppgave - Er det noen problemstillinger knyttet til en slik app?
 
