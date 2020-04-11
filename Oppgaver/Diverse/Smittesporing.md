@@ -1,6 +1,6 @@
 # Smittesporing
 
-I begynnelsen av 2020 startet en pandemi forårsaket av [koronaviruset](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/ny-sporings-app-for-a-hindre-koronasmitte/). Det ble valgt flere ulike strategier for å få kontroll på smitten. Noen av tiltakene er regler og anbefaliger på hvordan befolkningen skal te seg. Andre tiltak er å samle mest mulig informasjon om hvordan smitten sprer seg i samfunnent.
+I begynnelsen av 2020 startet en pandemi forårsaket av [koronaviruset](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge). Det ble valgt flere ulike strategier for å få kontroll på smitten. Noen av tiltakene er regler og anbefaliger på hvordan befolkningen skal te seg. Andre tiltak er å samle mest mulig informasjon om hvordan smitten sprer seg i samfunnent.
 
 **Denne oppgaven skal fokusere på problemstillinger knyttet til datainnsamling.**
 
@@ -32,8 +32,6 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 * [Artikkel (digi.no) om appen](https://www.digi.no/artikler/ekspertgruppe-skal-ga-gjennom-kildekoden-i-ny-app-for-smittesporing/489653)
 * [Artikkel (NRK) om appen](https://www.nrk.no/norge/fhi-appen-smittestopp-gjennomgas-na-av-sikkerhetseksperter-1.14977918)
 * [Datatilsynet om appen](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/ny-sporings-app-for-a-hindre-koronasmitte/)
-
-
 
 ---
 
