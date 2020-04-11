@@ -17,7 +17,7 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 * Hvis du var beslutningstager, svar kort på hvorfor eller hvorfor ikke du ville godkjent appen?
 
 
-## Aktuelle kompetansemål i IT-1 som dekkes i denne oppgaven
+## Relevante kompetansemål i IT-1
 
  * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
  * beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
