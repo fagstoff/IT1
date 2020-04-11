@@ -26,7 +26,7 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 ## Forslag til ressurser
  
 * [Simula - Selskapet som lager appen](https://simula.no)
-* [Infoside fra helsenorge.no om COVID-19 i Norge](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge)
+* [Infoside fra helsenorge.no om koronaviruset i Norge](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge)
 * [FHI om smittesporings-appen](https://www.fhi.no/nyheter/2020/utvikler-app-for-smitteoppsporing/)
 * [Artikkel (digi.no) om appen](https://www.digi.no/artikler/ekspertgruppe-skal-ga-gjennom-kildekoden-i-ny-app-for-smittesporing/489653)
 * [Artikkel (NRK) om appen](https://www.nrk.no/norge/fhi-appen-smittestopp-gjennomgas-na-av-sikkerhetseksperter-1.14977918)
