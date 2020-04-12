@@ -8,7 +8,7 @@ Det norske selskapet [Simula research laboratory](https://www.simula.no/news/dig
 
 ## Oppgave - Hvilke problemstillinger er knyttet til en slik app?
 
-Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurser. Gjør egne søk og hent inn informasjon fra andre steder. Vurder alltid troverdigheten til kildene.
+Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurser. Gjør egne søk og hent inn informasjon fra andre steder enn det som er oppgitt i oppgaven. Vurder alltid troverdigheten til kildene.
 
 * Lag en tabell der du argumenter for og i mot lanseringen av en slik app.
 * Hva er det viktigste argumentet **for** denne appen?
@@ -30,8 +30,6 @@ Oppgaven skal presenteres på en nettside.
 * [Infoside fra helsenorge.no om koronaviruset i Norge](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge)
 * [FHI om smittesporings-appen](https://www.fhi.no/nyheter/2020/utvikler-app-for-smitteoppsporing/)
 * [Artikkel fra NRKbeta](https://nrkbeta.no/2020/04/09/simula-om-sporingsapp-omstridt-beslutning-skyldes-begrensninger-i-apple-produkter/)
-* [Artikkel (digi.no) om appen](https://www.digi.no/artikler/ekspertgruppe-skal-ga-gjennom-kildekoden-i-ny-app-for-smittesporing/489653)
-* [Artikkel (NRK) om appen](https://www.nrk.no/norge/fhi-appen-smittestopp-gjennomgas-na-av-sikkerhetseksperter-1.14977918)
 * [Datatilsynet om appen](https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2020/ny-sporings-app-for-a-hindre-koronasmitte/)
 
 ---
