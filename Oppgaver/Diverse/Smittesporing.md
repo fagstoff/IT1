@@ -13,7 +13,7 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 * Lag en tabell der du argumenter for og i mot lanseringen av en slik app.
 * Hva er det viktigste argumentet **for** denne appen?
 * Hva er det viktigste argumentet **mot** denne appen?
-* Skriv en teskt der du [drøfter](https://sokogskriv.no/category/skriving/oppgavens-struktur/drofting/) problemstillingene. Vis til kildene du har brukt.
+* Skriv en tekst der du [redegjør for og drøfter](https://sokogskriv.no/category/skriving/oppgavens-struktur/drofting/) problemstillingene. Vis til kildene du har brukt.
 * Hvis du var beslutningstager, svar kort på hvorfor eller hvorfor ikke du ville godkjent appen?
 
 Oppgaven skal presenteres på en nettside.
