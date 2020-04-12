@@ -22,6 +22,7 @@ Oppgaven skal presenteres på en nettside.
 
  * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
  * beskrive og drøfte informasjonsteknologiens muligheter og konsekvenser
+ * beskrive og foreslå tiltak mot trusler i den digitale verden
 
 ## Forslag til ressurser
  
