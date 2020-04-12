@@ -16,6 +16,8 @@ Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurse
 * Skriv en teskt der du [drøfter](https://sokogskriv.no/category/skriving/oppgavens-struktur/drofting/) problemstillingene. Vis til kildene du har brukt.
 * Hvis du var beslutningstager, svar kort på hvorfor eller hvorfor ikke du ville godkjent appen?
 
+Oppgaven skal presenteres på en nettside.
+
 ## Relevante kompetansemål i IT-1
 
  * gjøre rede for og argumentere for nødvendigheten av regelverk og etiske normer for bruk av informasjonsteknologi
