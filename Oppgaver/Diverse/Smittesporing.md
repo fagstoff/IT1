@@ -6,16 +6,15 @@ I begynnelsen av 2020 startet en pandemi forårsaket av [koronaviruset](https://
 
 Det norske selskapet [Simula research laboratory](https://www.simula.no/news/digital-smittesporing-sporsmal-og-svar) fikk i oppdrag av [Folkehelseinstituttet](https://www.fhi.no/nyheter/2020/utvikler-app-for-smitteoppsporing/) å utvikle en app som kan bidra til å redusere tiden som brukes på smitteoppsporing. For å få til dette er man nødt til å samle inn informasjon om brukerens atferd.
 
-## Oppgave - Er det noen problemstillinger knyttet til en slik app?
+## Oppgave - Hvilke problemstillinger er knyttet til en slik app?
 
 Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurser. Gjør gjerne egne søk og hent inn informasjon fra andre steder. Vurder alltid troverdigheten til kildene.
 
 * Lag en tabell der du argumenter for og i mot lanseringen av en slik app.
 * Hva er det viktigste argumentet **for** denne appen?
 * Hva er det viktigste argumentet **mot** denne appen?
-* Skriv en kort oppsummering om hva du tenker om denne appen. Vis til kildene du har brukt.
+* Skriv en teskt der du [drøfter](https://sokogskriv.no/category/skriving/oppgavens-struktur/drofting/) problemstillingene. Vis til kildene du har brukt.
 * Hvis du var beslutningstager, svar kort på hvorfor eller hvorfor ikke du ville godkjent appen?
-
 
 ## Relevante kompetansemål i IT-1
 
