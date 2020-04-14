@@ -1,6 +1,6 @@
 # Smittesporing
 
-I begynnelsen av 2020 startet en pandemi forårsaket av [koronaviruset](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge). Det ble valgt flere ulike strategier for å få kontroll på smitten. Noen av tiltakene er regler og anbefaliger på hvordan befolkningen skal te seg. Andre tiltak er å samle mest mulig informasjon om hvordan smitten sprer seg i samfunnent.
+I begynnelsen av 2020 startet en pandemi forårsaket av [koronaviruset](https://helsenorge.no/koronavirus/fakta-og-handtering-i-norge). Det ble valgt flere ulike strategier for å få kontroll på smitten. Noen av tiltakene er regler og anbefaliger på hvordan befolkningen skal te seg. Andre tiltak er å samle mest mulig informasjon om hvordan smitten sprer seg i samfunnet.
 
 **Denne oppgaven skal fokusere på problemstillinger knyttet til datainnsamling.**
 
