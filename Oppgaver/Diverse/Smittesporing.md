@@ -8,7 +8,7 @@ Det norske selskapet [Simula research laboratory](https://www.simula.no/news/dig
 
 ## Oppgave - Hvilke problemstillinger er knyttet til en slik app?
 
-Les og sett deg inn i problemstillingen ved å bruke vedlagte kilder og ressurser. Gjør egne søk og hent inn informasjon fra andre steder enn det som er oppgitt i oppgaven. Vurder alltid troverdigheten til kildene.
+Les og sett deg inn i problemstillingene ved å bruke vedlagte kilder og ressurser. Gjør egne søk og hent inn informasjon fra andre steder enn det som er oppgitt i oppgaven. Vurder alltid troverdigheten til kildene.
 
 * Lag en tabell der du argumenter for og i mot lanseringen av en slik app.
 * Hva er det viktigste argumentet **for** denne appen?
