@@ -11,7 +11,7 @@ Det skal gå an å navigere mellom  sidene.
 
 Hver side skal inneholde ett bilde, og du må ta bildene selv.
 
-Nettstedet må bruke <div>-elementer, <p>-elementer og overskrifter. Du 
+Nettstedet må bruke &lt;div&gt;-elementer, &lt;p&gt;-elementer og overskrifter. Du 
 skal legge spesielt vekt på at HTML-koden er feilfri (bruk 
 (validator.w3.org)[https://validator.w3.org]).
 
