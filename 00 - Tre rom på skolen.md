@@ -13,7 +13,7 @@ Hver side skal inneholde ett bilde, og du må ta bildene selv.
 
 Nettstedet må bruke &lt;div&gt;-elementer, &lt;p&gt;-elementer og overskrifter. Du 
 skal legge spesielt vekt på at HTML-koden er feilfri, bruk 
-(validator.w3.org)[https://validator.w3.org].
+[validator.w3.org](https://validator.w3.org).
 
 Bruk CSS på hovedelementene og lenkene, pass på at siden din blir oversiktlig 
 og lett å lese. CSS-koden som brukes på nettstedet skal være i et eksternt stilark.
