@@ -21,7 +21,7 @@ sammen med teksten du skriver.
 Du skal legge spesielt vekt på at HTML-koden er feilfri (bruk 
 [validator.w3.org](https://validator.w3.org), og at sidene 
 er universelt utforma så langt det er praktisk mulig (bruk 
-[uutilsynet](https://www.uutilsynet.no/wcag-standarden/losningsforslag-nettsider/36)].
+[uutilsynet](https://www.uutilsynet.no/wcag-standarden/losningsforslag-nettsider/36)).
 
 ## Gjennomføring
 
@@ -41,3 +41,13 @@ forslaget som utgangspunkt:
 * beskrive sentrale komponenter i datamaskiner og nettverk og gjøre rede for hvilken funksjon de har
 * utvikle nettsider ved hjelp av markeringsspråk
 * planlegge og lage nettsider som tar hensyn til brukervennlighet og universell utforming
+
+## Vurderingskriterier
+
+|                      | Lav måloppnåelse                                                                         | Middels måloppnåelse                                                                                                         | Høy måloppnåelse                                                                                                                                     |
+|----------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Faglig innhold       | Lister opp de viktigste komponentene i en datamaskin.                                    | Har skrevet korte sammenfatninger om de viktigste komponentene i en datamaskin,                                              | Har skrevet korte sammenfatninger om de viktigste komponentene i en datamaskin, med god bruk av fagord og lenker til gode kilder for videre lesning. |
+| Sidelayout           | All tekst og bilder vises i ulike typer nettlesere med ulik sidebredde.                  | Har en god struktur på sideinnholdet og bruker CSS for å lage layout.                                                        | Bruker CSS for å lage en god responsiv design.                                                                                                       |
+| HTML-kode            | HTML-koden bruker head og body korrekt.                                                  | HTML-koden har noen feil, men innholdet vises korrekt i nettleseren.                                                         | HTML-koden er feilfri.                                                                                                                               |
+| Andre tekniske krav  | Har noen av de elementene som kreves av oppgaven (bilder, tabeller, lister, navigasjon). | Oppfyller alle krav, men noen av elementene vises feil eller fungerer ikke.                                                  | Oppfyller alle krav i oppgaven.                                                                                                                      |
+| Universell utforming | Har ikke lagt vekt på universell utforming.                                              | Har med de viktigste krava til universell utforming, som god kontrast og tekststørrelse samt enkel navigasjon mellom sidene. | Følger i stor grad WCAG.                                                                                                                             |
