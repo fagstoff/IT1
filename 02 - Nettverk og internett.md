@@ -18,8 +18,9 @@ Forklar viktige fagord og uttrykk. Bruk gjerne bilder med illustrasjoner,
 i tillegg til de to videoene.
 
 Du skal legge spesielt vekt på at HTML-koden er feilfri (bruk 
-[validator.w3.org](https://validator.w3.org)), og at sidene 
-er universelt utforma så langt det er praktisk mulig (bruk 
+[validator.w3.org](https://validator.w3.org)), at sidene har en 
+[responsiv design](https://www.w3schools.com/html/html_responsive.asp) 
+og at de er universelt utforma så langt det er praktisk mulig (bruk 
 [uutilsynet](https://www.uutilsynet.no/wcag-standarden/losningsforslag-nettsider/36)).
 
 ## Kompetansemål
