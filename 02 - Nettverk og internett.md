@@ -18,7 +18,7 @@ Forklar viktige fagord og uttrykk. Bruk gjerne bilder med illustrasjoner,
 i tillegg til de to videoene.
 
 Du skal legge spesielt vekt på at HTML-koden er feilfri (bruk 
-[validator.w3.org](https://validator.w3.org), og at sidene 
+[validator.w3.org](https://validator.w3.org)), og at sidene 
 er universelt utforma så langt det er praktisk mulig (bruk 
 [uutilsynet](https://www.uutilsynet.no/wcag-standarden/losningsforslag-nettsider/36)).
 
@@ -32,7 +32,6 @@ er universelt utforma så langt det er praktisk mulig (bruk
 
 |                      | Lav måloppnåelse                                                                         | Middels måloppnåelse                                                                                                         | Høy måloppnåelse                                                                                                                                     |
 |----------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Faglig innhold       | lav | mid | høy |
-| Sidelayout           | lav | mid | høy |
+| Faglig innhold       | Bruker noen fagord og begreper korrekt | Beskriver det viktigste faglige innholdet i videoene på en god måte | God forklaring av det faglige innholdet på en kortfattet og presis måte. |
 | HTML-kode            | HTML-koden bruker head og body korrekt.                                                  | HTML-koden har noen feil, men innholdet vises korrekt i nettleseren.                                                         | HTML-koden er feilfri.                                                                                                                               |
 | Universell utforming | Har ikke lagt vekt på universell utforming.                                              | Har med de viktigste krava til universell utforming, som god kontrast og tekststørrelse samt enkel navigasjon mellom sidene. | Følger i stor grad WCAG.                                                                                                                             |
